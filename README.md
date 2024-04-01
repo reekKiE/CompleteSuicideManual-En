@@ -1,2 +1,5 @@
-# CompleteSuicideManual-Zh_CN
-简体中文版本的《完全自杀手册》，自己完成了一部分翻译和校对、注释工作，不久之后就要与这个世界告别，这一本书算是最后的礼物。
+# CompleteSuicideManual-En
+
+English translation of "The Complete Suicide Manual", with annotations.
+
+The translation is based on the Taiwanese edition, but occasionally I had to refer to the Japanese edition to fix mistakes. There are plenty of mistakes in the Taiwanese edition, but I think I have caught most of them.
