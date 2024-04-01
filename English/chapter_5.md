@@ -122,7 +122,7 @@ On the same day (18th), she called home and told her father, "I'm going home soo
 
 Lying on the tracks and waiting to die is very difficult, especially in an urban area. But the "tunnel suicide" she invented can be used in urban areas. Going around to find the blindspots in the city is also fun in preparing for railway suicide. It seems that the subway also has many blindspot places.
 
-The main condition for walking within the driving route is that the surroundings must be dark. Don't let others see you when entering a level crossing in an urban area. This is more likely at night and difficult for drivers to spot. In fact, the female corpse was only discovered an hour and a half later, around 5:40, which means the driver was completely unaware of it.
+The main condition for walking within the driving route is that the surroundings must be dark. Don't let others see you when entering a level crossing in an urban area. This is more likely at night and difficult for drivers to spot. In fact, the female corpse was only discovered an hour and a half later, around 05:40, which means the driver was completely unaware of it.
 
 It is also important to cut off completely above the forehead. You can imagine the huge cutting power of train wheels. It was assumed that she was lying on the tracks, based on the condition of the body. If you leap in front of a car, you will most likely be crushed to bits. If you lie straight on your back, you will be cut cleanly into segments. This is a great inspiration for those who attempt to commit suicide by lying on the train tracks somewhere other than at the station.
 

@@ -15,7 +15,7 @@ Jumping off suddenly is painless. It is highly lethal and is the most high-moder
 
 There is no pain, no discomfort, and even no terror. Not only that, it can even be very enjoyable. This is not a metaphor, it is actually true. It sounds a bit nonsense, but if you put the words of those "fallen" people together, it can only be said to be this way. This point will be described in detail below, but in this way, suicide by jumping off a building or a cliff can be said to be an excellent method comparable to suicide by hanging. Jumping from buildings and cliffs does not have the shadow that comes with other means of suicide.
 
-The person who completely changed the concept of suicide by jumping off a building and a cliff was a girl named Sato Kayo. Ninety years ago in 1903, "the truth of all things can be summed up in one word, and it is 'incomprehensible.'" The young man who jumped from Kegon Falls - Fujimura Sou, was his response to suicide. It itself gives a noble image of philosophy that is different from the past. Just like the successors who continue to appear, Sato Kayo also gave falling suicide a certain sacred image, attracting followers one after another, and even the myth "she fell, she jumped" appeared. Kayo Sato is the real name of popular singer Okada Yukiko.
+The person who completely changed the concept of suicide by jumping off a building and a cliff was a girl named Sato Kayo. In 1903, a young man, Misao Fujimura, jumped from Kegon Falls, wrote in his celebrated suicide note: "The true nature of the whole creation. Is in one word – 'unfathomable'.". It gives suicide a noble image of philosophy, different from the past. Just like the successors who continue to appear, Satō Kayo also gave falling suicide a certain sacred image, attracting followers one after another, and even the myth "she fell, she jumped" appeared. Satō Kayo is the real name of popular singer Yukiko Okada.
 
 Perhaps for this reason, regardless of age or sex, jumping off a building or a cliff is second only to hanging. Young people and girls are particularly fond of this method, and women are more likely to do so. This method is on the rise, and now 50% of female suicides, including teenage girls, commit suicide by falling, far ahead of other suicide methods.
 
@@ -43,7 +43,7 @@ Although these are special examples, in an airplane accident in the United State
 
 In order not to be quickly discovered and sent to the hospital, finding an inconspicuous place is also the first consideration. The college girl who jumped from the middle of the Marunouchi Building and the adjacent building was discovered a year later. It was quite an inconspicuous place, since she was not discovered until such a long time later. Next to the stone wall under Building No. 7 of Sophia University, when collecting the bodies of students who jumped from the roof, they accidentally found the bodies of students who had disappeared six months ago. Of course, such cases are rare.
 
-## Experience: A painless way to die!
+## Experience: A painless way to die
 
 The most curious thing is what it feels like during the falling process and whether there is pain when landing.
 
@@ -53,7 +53,7 @@ A man who survived a fall from a height onto the glacier bank said: "It was as i
 
 There are countless examples of such falls due to accidents. What these experiences have in common is that they start to fall slowly and have very clear perception. There is no uneasiness or fear at all. It is almost like a dream. At this time, childhood memories often roll through the mind like a revolving lantern. Sometimes one sees mysterious lights, and sometimes one has an out-of-body experience and watches down at one's falling self. And when one finally lands on the ground, one loses consciousness in a peaceful mood.
 
-Most people who commit suicide by jumping off buildings or cliffs do not scream or shout loudly, probably for this reason. A person who fell said: "I really want to emphasize that falling from a height is the most painless way to die." Another person who fell even said: "It was a perfect death, there was no pain at all, and it was much more painful than an injection." .” Therefore, it can be said that there is no pain in committing suicide by jumping off a building or a cliff.
+Most people who commit suicide by jumping off buildings or cliffs do not scream or shout loudly, probably for this reason. A person who fell said: "I really want to emphasize that falling from a height is the most painless way to die." Another person who fell even said: "It was a perfect death, there was no pain at all, and it was much more painful than an injection." Therefore, it can be said that there is no pain in committing suicide by jumping off a building or a cliff.
 Of course, there are exceptions.
 
 ## The girl who cried and died crying "It hurts! It hurts!"
@@ -73,7 +73,7 @@ By physics, when you jump from a height of 20 meters (about seven stories), your
 
 When jumping off a cliff, various situations may occur due to the surrounding natural environment. Although it is a bit uncertain, most deaths result from violent collisions, not drowning. There are many cases of people dying due to collision with rocks while falling into the sea or waterfall. Comedian Haruo Nakata committed suicide in Kinpo, Atami. His internal organs ruptured and he died after falling and hitting a cliff. The 53-year-old man who also jumped in Nishikigaura in Atami, Shizuoka, and suffered contusions all over his body and died on the spot. Of course, if you fall into the sea or lake, you may drown.
 
-## Choose the spot for cliff jumping
+### Choosing the spot for cliff jumping
 
 ![Figure 2: Main places of injury after falling from a height of less than 5 m (74 cases), and greater than 5 m (61 cases). From left to right: head, chest, abdomen, femur, more than three locations. Translator's note: The bars for "less than 5 m" are invisible, due to the poor scan quality.](img/3_2.png)
 
@@ -132,8 +132,8 @@ She was introverted when she was in elementary school and loved to stay at home.
 She wrote in her diary two days before committing suicide:
 
 > I can't get along with others. I have a weird personality and I don't have any friends. ... I can't see the future, and I can't find a job. (Being bullied) ... Nothing. I don’t want to do it anymore. Everything is so strenuous, I have no strength, and I’m very tired.
-> 
-> In fact, this was the suicide note she left behind.
+
+This was probably the suicide note she meant to leave behind.
 
 [^garo]: Garo (ガロ) was a monthly manga anthology magazine in Japan, founded by Katsuichi Nagai and published by Seirindō from 1964 until 2002. It was fundamental for the emergence and development of alternative and avant-garde manga.
 
@@ -149,13 +149,13 @@ What we should pay attention to here is the "bullying" that Yamada Hanako suffer
 
 [^morselli]: Italian sociologist. Most famous for his book *Suicide: An essay on comparative moral statistics* (1881), which claimed that suicide was primarily the result of the struggle for life and nature's evolutionary process.
 
-Her views on suicide during her lifetime are also worth mentioning. In his comics, he quoted these lines from the movie *Phantom of the Paradise* - "If you have no merit and are annoying, then go to hell! Don't say those bad words/There is no future in life/It's better to make a show of it than to mess around/ Living is boring anyway.”
+Her views on suicide during her lifetime are also worth mentioning. In her comics, she quoted these lines from the movie *Phantom of the Paradise* - "If you have no merit and are annoying, then go to hell! Don't say those bad words/There is no future in life/It's better to make a show of it than to mess around/ Living is boring anyway.”
 
 In addition, she wrote in other magazines - "This world is inherently cruel." "Disabled people, laugh! Shout! Curse your fate! This is what your life is like. If you feel disgusted, commit suicide.” Her heartfelt words about the helpless misfortune can only be spoken by someone who has lived through the misfortune. There are indeed insurmountable misfortunes in this world. She made this fact clear in one sentence, which is consistent with the purpose of this book.
 
 ![Figure c: Page from 嘆きの天使 (Lamenting Angel) by Hanako Yamada.](img/3_c.png)
 
-## Case Study 10:: A middle school student who committed suicide by jumping off a building because of bullying
+## Case Study 10: A middle school student who committed suicide by jumping off a building because of bullying
 
 On September 9, 1979, in the courtyard of an apartment in Fukuoka City, Saitama Prefecture, a first-year junior high school student (12 years old at the time) was found dead wearing a karate suit and falling into a "大" shape. At about 8 a.m. that day, he jumped from the tenth floor of an apartment about two kilometers away from his home to the concrete floor 20 meters below.
 

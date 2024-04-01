@@ -95,7 +95,7 @@ At about seven o'clock in the evening in February 1989, a 67-year-old housewife 
 
 The keeper who heard the loud "pop" sound rushed over and saw only the bear shed 2.5 meters away from the fence. Sixty-eight bears were huddled together, like a small black mountain. After using a fire extinguisher to disperse the bear, a human body emerged from the white powder. The body had been torn apart by the cubs, the internal organs were completely missing, a large hole was opened from the stomach to the intestines, and there were several bite marks on the hands, feet and other parts of the body. Her clothes were torn into pieces, as if she were naked.
 
-She was a devout Buddhist, and she has previously talked about "she will fall into the world of demons", "people die but their souls live forever", etc. When she left home after noon, she said, "Tell me to go into that world." She also left a suicide note for her husband. Her neighbors also thought she was a weird person.
+She was a devout Buddhist, and she has previously talked about "she will fall into the world of demons", "people die but their souls live forever", etc. When she left home after noon, she said, "They tell me to go into that world." She also left a suicide note for her husband. Her neighbors also thought she was a weird person.
 
 Some people said that this woman had said before, "I want to be eaten by a tiger."[^sattva] She also thought about the tiger cage next to the bear shed, but because she could not get past the iron fence, she jumped into the bear shed.
 
@@ -121,25 +121,25 @@ Committing suicide by being eaten by animals is an unexpected method. However, t
 
 American pathologist Dr. Jack Kevorkian is famous for developing a unique suicide device "Thanatron". This device is a 30-centimeter-high design that contains physiological saline solution, Pentothal, and potassium chloride in three bottles that are hung upside down. Pentoza is an anesthetic used during surgery, and potassium chloride is a powerful drug used in poisoning and execution. Its structure is that after the suicide volunteer presses the button, the timer starts, and the saline water automatically changes to Pentox. One minute later, the potassium chloride begins to flow into the body.
 
-The person who committed suicide using this device in June 1990 was American housewife Janet Adkins (54 years old at the time). When she was diagnosed with dementia praecox in 1989 and planned to commit suicide, she heard about Dr. Kevorkian's suicide device and got in touch. Dr. Kevorkian prepared a white German Volkswagen minivan and searched for a campervan park suitable for suicide. In June 1990, she and the doctor got into a car and drove to the park. She hid behind the car. The doctor first inserted the needle into the vein and injected the salt solution. When the doctor adjusted the flow, Janet pressed the button. The injection solution changed to Pentothal, and she fell asleep twenty seconds later, and then Pentothal was switched to potassium chloride. After forty seconds, her face turned red, and after another thirty seconds, it turned blue, and soon red spots appear. The electrocardiogram had completely become a straight line after five minutes and thirty seconds. In fact, her heart had stopped beating before that.
+The person who committed suicide using this device in June 1990 was American housewife Janet Adkins (54 years old at the time). When she was diagnosed with Alzheimer's disease in 1989 and planned to commit suicide, she heard about Dr. Kevorkian's suicide device and got in touch. Dr. Kevorkian prepared a white German Volkswagen van and searched for a campground suitable for suicide. In June 1990, she and the doctor got into a car and drove to the park. She hid behind the car. The doctor first inserted the needle into the vein and injected the salt solution. When the doctor adjusted the flow, Janet pressed the button. The injection solution changed to Pentothal, and she fell asleep twenty seconds later, and then Pentothal was switched to potassium chloride. After forty seconds, her face turned red, and after another thirty seconds, it turned blue, and soon red spots appear. The electrocardiogram had completely become a straight line after five minutes and thirty seconds. In fact, her heart had stopped beating before that.
 
-Janet was an English teacher and a serious woman with a passion for classical music, traits that were thought to make her suffer from dementia praecox.
+Janet was an English teacher and a serious woman with a passion for classical music, traits substantially affected by her Alzheimer's disease.
 
 ### Check: the cause of death
 
-This incident is the "assisted suicide incident" that has sparked a debate on the independence of dying with dignity across the United States.
+This is the "assisted suicide incident" that has sparked a debate on the right of dying with dignity across the United States.
 
-At present, if you really want to die completely reliably and safely, you have no other choice but to rely on Dr. Kevorkian's help to commit suicide. He also used this device to cause two women to commit suicide in October 1991, and there was an endless stream of people who came to him for consultation. He was able to use the device because the state of Michigan, where he lives, does not criminalize assisted suicide. In Japan, the criminal law clearly stipulates the crime of assisted suicide. That’s why Janet went all the way from Oregon to Michigan.
+At present, if you want to die completely reliably and safely, you have no other choice but to rely on Dr. Kevorkian's help. He also used this device to cause two women to commit suicide in October 1991, and there was an endless stream of people who came to him for consultation. He was able to use the device because the state of Michigan, where he lives, does not criminalize assisted suicide. In Japan, the criminal law clearly stipulates the crime of assisted suicide. That’s why Janet went all the way from Oregon to Michigan.
 
 There is no pain other than the poke of the needle, and you can die in your sleep, whether others see it or not. If you don’t want to die in your room and are willing to go to the United States, you may wish to get in touch with the doctor. However, it is unclear whether he would be willing to use this device on people who are not suffering from terminal illnesses.
 
 Japan also has a Japan Death with Dignity Association (日本尊厳死協会), but it only recognizes the right to die for terminally ill cancer patients who cannot be cured with current medical technology and is unwilling to take wasteful life-prolonging measures. It is opposed to euthanasia for the general public.
 
-The contact address for the Japan Death with Dignity Association is as follows: 2nd Floor, Watanabe Building, 2-29-1 Hongo, Kyoto-dori, Tokyo, Postal Code: 113, Tel: 03-3818-6563
+The contact address for the Japan Death with Dignity Association is as follows: 2nd Floor, Watanabe Building, 2-29-1 Hongo, Kyoto-dori, Tokyo, Postal Code: 113, Tel: 03-3818-6563.
 
 ## Case Study 31: A man who committed suicide by gas poisoning in an attempt to defraud life insurance money
 
-In October 1971, a 56-year-old man was found to have committed suicide by burning gas in a room of an apartment.
+In October 1971, a 56-year-old man was found to have committed suicide by gas poisoning in a room of an apartment.
 
 According to the investigation, the man signed up for insurance from three companies "Yasuda Life", "Daiichi Life" and "Daihyaku Mutual Life" from May to July, two years before his suicide. Family members can receive 72.6 million yen.
 

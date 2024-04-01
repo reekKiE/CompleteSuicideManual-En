@@ -67,7 +67,7 @@ Drinking some wine at the same time is a must. It is said that alcohol has a mut
 
 Furthermore, you must choose a place that others cannot find, and at least a place where you can stay alone within eight hours. For example, a hotel is the most suitable. If someone discovers it within a few hours, it becomes a suicide attempt and requires repeated enemas. A 25-year-old woman who was given an enema for a suicide attempt said, "If I had known it would be so painful, I would not have committed suicide." (However, she also said, "Maybe I will commit suicide again.")
 
-Once the preparations are complete, let’s start introducing the suicide drug.
+Once the preparations are complete, let’s start introducing the drugs.
 
 ## Over-the-counter medicine
 
@@ -160,7 +160,9 @@ However, there are also cases of 20-year-old and 22-year-old men who took 800mg 
 
 #### Travelmin Senior (トラベルミン シニア)
 
-![](img/1_travelmin senior.png)
+![](img/1_travelmin%20senior.png)
+
+![](img/1_senpaa.png)
 
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -239,7 +241,7 @@ In May 1972, a 20-year-old student slipped from his chair in his room and died. 
 
 What's even more strange is that he wrote in detail the process from swallowing the drug until he lost consciousness in his college notebook.
 
-"It is now 1972-05-19, 10:07 in the afternoon. I swallowed 50 Brovarin tablets two or three minutes ago. I don't know how many minutes or hours later I will fall asleep and be with this Farewell to society, but I will observe my own death until the last moment... 10:15, and I don't want to sleep at all. I turned on the radio and listened for a while, then turned it off. I wanted to stay calm but I was still excited, as usual. The music I used to love sounds so boring today. I want to review my life carefully... (what follows are five sheets of description of his parents and friends)... 11:30. I have been yawning since just now. I see the last moment coming. But I want to observe the mood of death until the last moment, so I keep telling myself to persist. I don’t know when my body will be found, but I want to see my own desire It keeps coming up. ... Now, 12 o'clock. I, 5 minutes"
+"It is now 1972-05-19, 10:07 in the afternoon. I swallowed 50 Brovarin tablets two or three minutes ago. I don't know how many minutes or hours later I will fall asleep and be with this Farewell to society, but I will observe my own death until the last moment... 10:15, and I don't want to sleep at all. I turned on the radio and listened for a while, then turned it off. I wanted to stay calm but I was still excited, as usual. The music I used to love sounds so boring today. I want to review my life carefully... (what follows are five sheets of description of his parents and friends)... 11:30. I have been yawning since just now. I see the last moment coming. But I want to observe the mood of death until the last moment, so I keep telling myself to persist. I don’t know when my body will be found, but I want to see my own desire It keeps coming up. ... Now, 12 o'clock, and I, 5 minutes"
 
 The note ended here, and it was about this time that he lost consciousness.
 
@@ -257,7 +259,7 @@ Also, two 15-year-old female students who had swallowed 100 tablets of Brovarin 
 
 ## Controlled substances
 
-For drugs that may be abused as anesthetics or used to commit suicide, the Ministry of Health and Welfare defines them as potent drugs, poisons, indicated drugs, designated pharmaceuticals, etc., and does not allow the general public to obtain them. What I want to introduce here are these "restricted pharmaceuticals". Just because it's not easy to obtain doesn't mean it's impossible to get. Maybe someone already has a prescription, so I'm introducing it here.
+For drugs that may be abused as recreational drugs or used to commit suicide, the Ministry of Health and Welfare defines them as potent drugs, poisons, indicated drugs, designated pharmaceuticals, etc., and does not allow the general public to obtain them. What I want to introduce here are these "restricted pharmaceuticals". Just because it's not easy to obtain doesn't mean it's impossible to get. Maybe someone already has a prescription, so I'm introducing it here.
 
 [Translator's note: As the levels of control differs by locale and time, I did not translate the level of control given in the book, which is only true for Japan in 1990s. Check your local laws and regulations.]
 
@@ -427,9 +429,9 @@ For such drugs, which are almost unavailable and whose lethal doses are known, a
 
 Some recreational drugs are the most lethal. Compared with other pharmaceuticals, their lethal dose can be very small. However, there are some reservations about recommending those as suicide drugs.
 
-I had no idea how to get it. Even if someone tells me that "there are clubs frequented by foreigners," it is usually impossible to know which club it is and who will sell it to me. Even if you get it, how many impurities will it contain? Besides, I have no idea what kind of anesthetic it is.
+I have no idea how to get it. Even if someone told me that "there are clubs frequented by foreigners where you can get it", it is usually impossible to know which club it is and who will sell it to me. Even if you get it, how many impurities will it contain? Besides, I have no idea what kind of recreational drugs I could get there.
 
-At the same time, depending on whether the body is used to it, the toxic effects and lethal doses vary greatly. Originally, the lethal dose varies from person to person, and it is even more obvious when it comes to anesthetics. Chronic poisoning is not suitable for the general lethal dose (some records say it is ten times). There is no other way to kill this kind of death except ingesting a large amount. This means that anesthetics are not suitable for planned suicide. Because of this, what follows is solely for the eyes of those who can get it, or already have it, and know its ingredients.
+At the same time, depending on whether the body is used to it, the toxic effects and lethal doses vary greatly. Originally, the lethal dose varies from person to person, and it is even more obvious when it comes to recreational drugs. Chronic poisoning is not suitable for the general lethal dose (some records say it is ten times). There is no other way to kill this kind of death except ingesting a large amount. This means that recreational drugs are not suitable for planned suicide. Because of this, what follows is solely for the eyes of those who can get it, or already have it, and know its ingredients.
 
 ### Stimulants: amphetamine, methamphetamine
 
@@ -439,7 +441,7 @@ At the same time, depending on whether the body is used to it, the toxic effects
 
 There was once a question: "Should I stop stimulants, or should I stop my life?" The correct answer should be "I should stop my life by stimulants."
 
-Immediately after the Second World War, the drug that started a stimulant craze was commercially sold under the name "Hiropon".[^hiropon] Today it is called "Shabu" or "Speed" and is widely used by gangsters and even club youths, and it is this anesthetic that still occupies the throne of the Japanese anesthetic industry. Amphetamine (amphetamine) is mainly used in Europe and the United States, and the inventor of methamphetamine (Heropon) is a Japanese, and it later became widely spread around the world and became Japan's representative anesthetic. It might as well be said that Herobon means "love of work" in Greek.
+Immediately after the Second World War, the drug that started a stimulant craze was commercially sold under the name "Hiropon".[^hiropon] Today it is called "Shabu" or "Speed" and is widely used by gangsters and even club youths, and it is this recreational drugs that still occupies the throne of the Japanese recreational drugs industry. Amphetamine (amphetamine) is mainly used in Europe and the United States, and the inventor of methamphetamine (Heropon) is a Japanese, and it later became widely spread around the world and became Japan's representative recreational drugs. It might as well be said that Herobon means "love of work" in Greek.
 
 [^hiropon]:
     During the Second World War hiropon was given by the military to fighter pilots and the signal corps in order to help them stay awake and alert. After 1945, the large military stockpiles of methamphetamine found their way onto the black market. With society in chaos, drug abuse spread rapidly and a hiropon epidemic emerged. The introduction of a comprehensive anti-drug package in the mid-1950s, including stricter laws, resulted in that abuse having been almost totally eradicated by 1957.
@@ -458,7 +460,7 @@ However, for people who have become accustomed to it, even taking 0.5 to 1g a da
 |-|-|
 | Cocaine | 1.2g (A) (J), injection 0.2 ~ 0.5g, oral 1.0 ~ 1.5g (M), about 1.5g (D) |
 
-According to a 1984 survey conducted by American Women's Magazine, one-third of women under the age of 25 have used cocaine. This is an American narcotic drug in which interest is still on the rise. There have been no reports of deaths from cocaine. The lethal dose is much higher than that of other anesthetics, making it less suitable for suicide.
+According to a 1984 survey conducted by American Women's Magazine, one-third of women under the age of 25 have used cocaine. This is an American narcotic drug in which interest is still on the rise. There have been no reports of deaths from cocaine. The lethal dose is much higher than that of other recreational drugs, making it less suitable for suicide.
 
 It has a stimulating effect on the central nervous system and makes breathing deeper. Its pharmacological effects are considered to be roughly the same as stimulants. Usually the powder is inhaled through the nose, but the effect is much greater when given intravenously. It is said that, in general, for acute poisoning, death will occur within three hours after use. The state of consciousness in the near-death state is the same as that of drugs other than hallucinogens. Even if you have a slight headache, you are conscious and will think calmly, "This is not good" and "I can't die like this." Regular users will not die even if they take 1.5 to 2 g per day.
 
@@ -503,7 +505,7 @@ Thailand, Myanmar, Laos, etc. are all major producing areas, and of course they 
 
 ### Cocktail: speedball
 
-Mixing it with other anesthetics will create a synergistic effect and be more lethal, such as sleeping pills. It is generally believed that if you mix drugs that inhibit the central nervous system, it will be more likely to cause death. However, in the world of anesthetics, the inhibitory series of cocaine and The stimulating series of heroin, commonly known as "fast balls", are particularly dangerous when mixed and inhaled or injected. The use of this type of mixture will cause a cross between stimulating and inhibiting effects on the central nervous system. The heart will beat violently and then suddenly feel like it is about to stop. This phenomenon occurs repeatedly within a few seconds. The cause of death was cardiac arrest, a perfect cocktail for suicide. In addition, the stimulant series of stimulants and codeine, a mixture of stimulants and LSD, are said to be quite stimulating.
+Mixing it with other recreational drugs will create a synergistic effect and be more lethal, such as sleeping pills. It is generally believed that if you mix drugs that inhibit the central nervous system, it will be more likely to cause death. However, in the world of recreational drugs, the inhibitory series of cocaine and The stimulating series of heroin, commonly known as "fast balls", are particularly dangerous when mixed and inhaled or injected. The use of this type of mixture will cause a cross between stimulating and inhibiting effects on the central nervous system. The heart will beat violently and then suddenly feel like it is about to stop. This phenomenon occurs repeatedly within a few seconds. The cause of death was cardiac arrest, a perfect cocktail for suicide. In addition, the stimulant series of stimulants and codeine, a mixture of stimulants and LSD, are said to be quite stimulating.
 
 ### Hallucinogen: LSD
 
@@ -515,7 +517,7 @@ This is a drug that acts very quickly with a very small amount of 20 to 250 micr
 
 So will he die soon? it's not true. Usually, the LSD on the market is diluted hundreds of times and soaked into paper, which requires taking a large amount of this paper.
 
-Generally speaking, hallucinations are caused by stimulating drugs, and large amounts of them can cause heart palpitations. At the same time, the head becomes panicked, and sometimes the person jumps out of the window and dies due to this. Even so, if used in normal dosage, it will cause less harm to the human body than other anesthetics.
+Generally speaking, hallucinations are caused by stimulating drugs, and large amounts of them can cause heart palpitations. At the same time, the head becomes panicked, and sometimes the person jumps out of the window and dies due to this. Even so, if used in normal dosage, it will cause less harm to the human body than other recreational drugs.
 
 [^lsd-lethal-dose]:
     There is actually no known LD50 for LSD in humans. The LD50 for rats and mice is 4.8 μg/mL of blood concentration. In any case, lethality from LSD is extremely rare, and usually happens because of accidents during the drug-induced excited delirium, not from the drug itself.
@@ -750,7 +752,7 @@ This case is a boy who committed suicide due to being bullied. As he belongs to 
 > 
 > <sup>42</sup> Aminophylline: Aminophylline is a compound containing the bronchodilator theophylline and ethylenediamine in a ratio of 2:1. Aminophylline is less potent and shorter acting than theophylline. Its most common use is to treat airway obstruction in asthma or COPD. Aminophylline can cause theophylline toxicity. Aminophylline has been found to reduce the sedative effects of propofol and reduce the antiepileptic effects of topiramate.
 >
-> <sup>43</sup> Acetaminophen: [acetaminophen] (#4-other) phenol, paracetamol.
+> <sup>43</sup> Acetaminophen: acetaminophen phenol, paracetamol.
 > 
 > <sup>44</sup> Mephobarbital: Mephobarbital, a barbiturate that is metabolized to phenobarbital.
 >

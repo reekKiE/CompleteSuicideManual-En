@@ -103,13 +103,13 @@ There are also general citations, which are materials the author referred to in 
 
 When the book was published in 1993, it was an immediate hit across Japan, eventually selling over one million copies. In 1997, it was finally designated as "harmful to the youth", and thus could not be sold to people under 18. However, it remains legal to sell to adults and is still available in Japan.
 
-Riding on the waves of the popularity, Tsurumi anthologized another book that was published in 1994. 『ぼくたちの「完全自殺マニュアル」』 (Our "Complete Suicide Manual"). It contains two parts, the first part describes how the Japanese society viewed the Complete Suicide Manual. The second half contains reader letters sent to the author about the book. As far as I can see, the book is like last year's hamburgers -- tasty at the time, but it's not going to last. In any case, the book is not available on the Internet.
+Riding on the waves of the popularity, Tsurumi anthologized another book that was published in 1994. 『ぼくたちの「完全自殺マニュアル」』 ("Our 'Complete Suicide Manual'"). It contains two parts, the first part describes how the Japanese society viewed the Complete Suicide Manual. The second half contains reader letters sent to the author about the book. As far as I can see, the book is like last year's hamburgers -- tasty at the time, but it's not going to last. In any case, the book is not available on the Internet.
 
 Both books were quickly translated and published in Taiwan in 1994, and then banned in 1995. The book was also banned in Hong Kong. As for China, though there is no explicit ban, it would have never made across the publisher's office anyway.
 
 ![Covers of the Taiwanese versions of the book.](img/taiwanese_book_covers.jpg)
 
-On 1993-10-20, the *Yomiuri Shimbun* reported that two suicide corpses were found in Aokigahara, with the book in their arms, and a third person who appeared to be planning to suicide was nearby, also holding this book. He was found by the police and taken away from the scene. The whole country was in an uproar, pushing the book's sales to the top of the rankings.
+On 1993-10-20, the *Yomiuri Shimbun* reported that the bodies of two suiciders were found in Aokigahara, with the book in their arms. The police found a third person who appeared to be planning to suicide was nearby, also holding this book. The police took them away from the scene. The whole country was in an uproar, pushing the book's sales to the top of the rankings.
 
 There has never been a printed Chinese edition, though the Taiwanese edition has been circulating online for a while. In 2018, YuriMiller (GitHub username) or Rena (self-identified name in the document) uploaded a Chinese edition to GitHub. As described by Rena,
 
@@ -155,9 +155,9 @@ New books scheduled to be published recently have also been cancelled.
 >
 > Chen Mingda said that due to the criticism caused by this series of books from the public, he has decided to recall in addition to the approximately 3,000 copies of the "Complete Revenge Manual" on the market, and the approximately 10,000 copies of the "Complete Suicide Manual" after returning to China. And recycled it. As for the other two "Complete Death from Illness Manual" and "Complete Disappearance Manual", they are also considering a recall. All losses will be absorbed by the company itself. In addition, he also canceled the "Complete Poisoning Manual" that the company was scheduled to publish in the near future. The publication of books will be more carefully researched and evaluated.
 
-### United Daily News, Tuesday, 1984-05-09 (Mingguo 84), page 7
+### United Daily News, Tuesday, 1995-05-09 (Mingguo 84), page 7
 
-Prosecutors of The Complete Manual of Revenge list publisher as defendant.
+Prosecutors of "The Complete Manual of Revenge" list publisher as defendant.
 
 Similar "black books and periodicals" will be compared with it.
 

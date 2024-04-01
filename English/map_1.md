@@ -25,9 +25,14 @@ If you are bored with your work and relationships and want to commit suicide qui
 
 ## History
 
-The number of suicides in the Aokigahara is "about 30 per year, with no increase or decrease" (Fujiyoshida Police Station). Most of the other "suicide spots" have become a thing of the past, but the Sea of ​​Trees is superior to other places as a suicide spot, as has been shown above. Aokigahara was originally a local suicide spot, but it suddenly became nationally famous and dozens of people committed suicide here every year. The main reason was the TV series based on the Tower of Waves (波の塔, Nami no Tou, 1960), with the Aokigahara as the setting.[^nami-no-tou]
+The number of suicides in the Aokigahara is "about 30 per year, with no increase or decrease" (Fujiyoshida Police Station). Most of the other "suicide spots" have become a thing of the past, but the Sea of ​​Trees is superior to other places as a suicide spot, as has been shown above. Aokigahara was originally a local suicide spot, but it suddenly became nationally famous and dozens of people committed suicide here every year. The main reason was the TV series based on the *Tower of Waves* (波の塔, Nami no Tou, 1960), with the Aokigahara as the setting.[^nami-no-tou]
 
-[^nami-no-tou]: There have been *several* TV series based on the same novel. It must have been very popular. The [Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%B3%A2%E3%81%AE%E5%A1%94) records 8 of them, from 1961 to 2012.
+[^nami-no-tou]:
+    *Tower of Waves*, a 1960's novel by Seichō Matsumoto, features a beautiful, love-torn heroine who commits suicide there. The novel has never been translated to English, though it has been translated to Chinese several times.
+
+    Briefly, the plot is as follows: 3 characters: woman A, man A, man B. Woman A is the neglected wife of man A, but the lover of man B. Man B is a prosecutor who discovered that man A did commercial crimes. Man A told others that man B was in an affair with woman A. Woman A, shamed that her affair was discovered, and that it destroyed the career of man B, walked into Aokigahara to die.
+    
+    There have been *several* TV series based on the same novel. It must have been very popular. The [Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%B3%A2%E3%81%AE%E5%A1%94) records 8 of them, from 1961 to 2012.
 
 ## Place where the body cannot be found
 

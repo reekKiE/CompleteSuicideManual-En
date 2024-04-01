@@ -41,7 +41,7 @@ However, barring this exception, hanging always ranks first among all age groups
 
 ## Time of suicide
 
-### May is the peak season for suicides
+### May is the peak time for suicides
 
 Let’s first look at the months. All over the world, suicides tend to happen more in spring and autumn and less in summer and winter. At the same time, some reports say that there is more spring than autumn and less winter than summer, with the most in April, followed by May, and the least in December and January. However, no matter which month, the difference is not huge. According to Japanese statistics in recent years, May has the highest number of suicides.
 
@@ -80,7 +80,7 @@ So, are the number of suicides increasing? According to Figure 4, after the war,
 
 ### Suicide ranks among the top among those aged 20 to 30
 
-In terms of causes of death, suicide ranks seventh in the past ten years, following cancer, heart disease, cerebral hemorrhage, pneumonia, bronchitis, accidents, and aging. In the post-war period, many people died from tuberculosis and gastroenteritis, so the order is still behind them. However, looking at age groups, records in recent years show that suicide ranks first or second behind accidents or cancer among those in their twenties and thirties. Among those aged 15 to 19 and 40 to 44, they also ranked third. Among the elderly, who have a high suicide rate, the ranking of suicides declines with age. This is the reason why the Statistics and Information Department of the Ministry of Health and Welfare said, "It may not be correct to say that most suicides are elderly based on numbers alone."
+In terms of causes of death, suicide ranks seventh in the past ten years, following cancer, heart disease, cerebral hemorrhage, pneumonia, bronchitis, accidents, and aging. In the post-war period, many people died from tuberculosis and gastroenteritis, so the order is still behind them. However, looking at age groups, records in recent years show that suicide ranks first or second behind accidents or cancer among those in their 20s and 30s. Among those aged 15 to 19 and 40 to 44, they also ranked third. Among the elderly, who have a high suicide rate, the ranking of suicides declines with age. This is the reason why the Statistics and Information Department of the Ministry of Health and Welfare said, "It may not be correct to say that most suicides are elderly based on numbers alone."
 
 Cancer, which ranks first, kills more than 10,000 people in their 40s. But as people in their 50s, 60s, and 70s, the number of deaths increases to 20,000, 40,000, and 60,000. At the same time, the ranking order of suicide is fifth, sixth, and seventh.
 
@@ -120,4 +120,4 @@ The above situation seems to reflect various national conditions.
 
 As in Japan, there are of course tourist attractions for suicides outside of Japan.
 
-The most famous one is the Golden Gate Bridge in San Francisco, USA. Many people who commit suicide there say that they did not come here for the purpose of committing suicide, but witnessing the stunning scenery, they were struck with suicidal thoughts just by the atmosphere. A 70-year-old man left a suicide note saying "How is it that this scenery was created, that makes it so easy to suicide in?" and jumped off. Similarly, Niagara Falls in the United States is also known as a suicide tourist attraction. The Thames River in the United Kingdom and the Ganges River in India have all been called suicide attractions. In Japan, a counterpart could be the Kegon Falls (華厳滝).
+The most famous one is the Golden Gate Bridge in San Francisco, USA. Many people who commit suicide there say that they did not come here for the purpose of committing suicide, but witnessing the stunning scenery, they were struck with suicidal thoughts just by the atmosphere. A 70-year-old man left a suicide note saying "How is it that this scenery was created, that makes it so easy to suicide in?" and jumped off. Similarly, Niagara Falls in the United States is also known as a suicide tourist attraction. The Thames River in the United Kingdom and the Ganges River in India have all been called suicide attractions. In Japan, a counterpart could be the Kegon Falls (華厳滝) (See Chapter 3).

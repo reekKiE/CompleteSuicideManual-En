@@ -36,7 +36,7 @@
     </tbody>
 </table>
 
-Although I have dismissed wristcutting as for a taste of suicide, rather than suicide for real, it can kill. This is one of the most peaceful ways to die if it works, but be prepared for likely failure.
+Although I have dismissed wristcutting as good for nothing except a mere taste of suicide, rather than suicide for real, it is possible to die from it. This is one of the most peaceful ways to die even if it works, and be prepared for failure, which is likely.
 
 <table>
     <thead>
@@ -202,7 +202,7 @@ In 1985, a sixteen-year-old female high school student slashed her wrists with a
 
 From the second grade of middle school, she still talked and laughed in front of everyone, but when she was alone with her friends, there was no topic of conversation, and she always felt distressed that she could not speak. She wanted to go to a neurological department for a check-up, but she never could speak up to make the request.
 
-The situation under she decided to commit suicide was described thus: "After dinner, I had do to homework, and I was thinking "I can't not do it. I can't not do it." I suddenly thought that if I die, wouldn't there be no more of homework? Under such circumstances, my mood gradually shifted to of "I can't not die. I can't not die." At the same time, she said: "The thought of taking action was a matter of seconds," and then continued: "I have thought about it a long time ago, that with death all pain would end. Although I thought I should live on, I knew that if I die, I don’t have to do those things I don’t want to do, and I don’t have to think about those painful things.” When I knew I could not die: “I wonder if someone had discovered me earlier. ah!"
+The situation under she decided to commit suicide was described thus: "After dinner, I had do to homework, and I was thinking "I can't not do it. I can't not do it." I suddenly thought that if I die, wouldn't there be no more of homework? Under such circumstances, my mood gradually shifted to of "I can't not die. I can't not die." At the same time, she said: "The thought of taking action was a matter of seconds," and then continued: "I have thought about it a long time ago, that with death all pain would end. Although I thought I should live on, I knew that if I die, I don’t have to do those things I don’t want to do, and I don’t have to think about those painful things.” When I knew I could not die: “I wonder if someone had discovered me earlier, ah!"
 
 As a result, she stayed in the psychiatric ward for four months and was finally discharged after undergoing physical and mental recuperation.
 
@@ -241,6 +241,6 @@ His suicide note left to the members read, "The life of the company is eternal, 
 
 ### Check: this example
 
-This is a vivid example of the difficulty of committing suicide through self-harm. In fact, self-harm suicide, like suicide by poisoning, has a particularly high attempt rate. This man first cut his wrists, then his neck, and then stabbed his chest with an awl. In fact, if he had chosen to jump off the building in the first place, there would be no need for him to suffer so much unnecessary suffering.
+This is a vivid example of the difficulty of committing suicide through self-harm. In fact, self-harm suicide, like suicide by poisoning, has a particularly high attempt rate. This man first cut his wrists, then his neck, and then stabbed his chest with an awl. In fact, if he had chosen to jump off the building in the first place, there would have been no need for him to suffer so much unnecessary suffering.
 
 One thing that should not be ignored is that when he was about to pass out while hacking his body with a knife, he went to the bathroom. Among other means of suicide, defecation often occurs when the person is in shock but is still conscious. Since you can make thorough preparations for tidying up your room and laying out your suicide note, you should go to the bathroom first. Although it is self-inflicted, one should not stab and chop blindly, as this will not kill him. However, it is really unusual of him to repeatedly go to the bathroom during the suicide process, just to make sure others do not see the signs of incontinence.

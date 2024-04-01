@@ -26,7 +26,7 @@ It seems that the complex where people jumped from buildings has been completely
 
 ![①: The Takashimadaira housing complex.](img/map_2_2.png)
 
-![②: This side of the apartment complex is covered with iron grid to prevent suicide... ③: The nice spot that few know about, at apartment block 3-11-1. ④⑤: Looking out from the 14th floor of block 3-11-1, down at the place where one might fall into if jumping out here.](img/map_2_2.png)
+![②: This side of the apartment complex is covered with iron grid to prevent suicide... ③: The nice spot that few know about, at apartment block 3-11-1. ④⑤: Looking out from the 14th floor of block 3-11-1, down at the place where one might fall into if jumping out here.](img/map_2_3.png)
 
 ## Transportation
 

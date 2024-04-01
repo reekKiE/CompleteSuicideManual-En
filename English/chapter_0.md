@@ -10,17 +10,21 @@ I don’t know since when, the topic of “Why do young people want to die?” h
 
 Closer to home, what is needed now is a book that can make "suicide" come true.
 
-Regarding such books, the "Methods of Suicide" published ten years ago almost only contains some random content, which is extremely boring. What should be known by now is that pure suicide methods.
+Come to think of it, I remember getting fed up with a book that came out about 10 years ago that claimed to "describe how to commit suicide" because it was just filled with nonsense. What you need to know now is simply how to commit suicide.
 
-In the United States, there is only one euthanasia device, invented by a scientist. (Case 30) This book will be the only "purely textual euthanasia device" in Japan.
+In the United States, there is only one euthanasia device, invented by a scientist (see Chapter 11, Case 30). This book will be the only "purely textual euthanasia device" in Japan.
 
-At this point, I really want to start by the method of overdose. However, in order to clarify the answer to "Why commit suicide now?", as well as various other commercial reasons, I have to write some miscellaneous things first.
+At this point, I really want to start the book by describing how overdose works. However, in order to clarify the answer to "Why commit suicide now?", as well as various commercial concerns,[^commercial-concerns] I have to write some miscellaneous things first.
+
+[^commercial-concerns]: The author meant that the book should have a long preface, as it is conventional for books to have a long preface.
 
 ## Chernobyl
 
 > ... I was waiting for the opportunity, ready to "show something big". When the student riots broke out twenty years ago, everyone thought, "Someone big is about to appear!". The Apollo landing on the moon, the oil crisis, the Soviet Union's invasion of a certain country, and the Showa era were about to end. I thought, "This move will be earth-shattering.". However, it was only a magnitude-3 earthquake, and it only brought down a wall. The students looked at each other, smiled and said "Great!" and with that, the gathering came to an end. ...
 > 
-> Excerpt from the postscript of "Yoake" by Kotobuki Shiriagari.
+> Excerpt from the postscript of "Yoake" (夜明ケ) by Kotobuki Shiriagari.[^yoake]
+
+[^yoake]: Kotobuki Shiriagari (しりあがり 寿, Shiriagari Kotobuki, born Mochizuki Toshiki, January 1, 1958) is a Japanese manga artist and actor. 『夜明ケ』白泉社 (1990/04) ISBN 978-4592131359. For further information, see [Japan’s Alternative Comics: Then and Now — Google Arts & Culture](https://artsandculture.google.com/story/uwXB-5O4djoSUQ)
 
 At the end of the 1980s, "end of the world" and "dangerous topics" were trending. The most popular band sang "Chernobyl" [^chernobyl], and children's jokes were all filled with the flavor of death, girls began looking for companions in preparation for the coming world war. We were excited about "Someone powerful is about to appear!" and "Maybe tomorrow will be the end of the world!"
 
@@ -36,7 +40,7 @@ It won't help to say it's "boring" - because we are unlucky enough to be born on
 
 Until the 22nd century, we would get up at seven o'clock every morning, go to school or go to work, and repeat some unfocused remarks. At school, I kept reciting English words and historical dates again and again; at work, I said something like "It's boring", but repeated it for several weeks, one week, one month, and one year. Months and years of doing work that was actually really boring. The slow pace of state-of-the-art products continues, the slow pace of politicians continues to be corrupt, and the slow pace of television content continues to be exciting. But when I turn off the TV and look around, it’s just another day as usual. (Evoking “that wonderful darkness that happens when you turn off the TV” is another of the book’s goals.)
 
-Yukio Mishima[^mishima] mentioned in his autobiographical novel "Confessions of a Mask" that "everyday life" is more terrifying than war. We always live this kind of "shivering and terrifying daily life" enduring it again and again. In order to bring about an inexplicable "future settlement". We took every step along the way, carefully avoiding any deviation in direction. There is no happy ending like in a TV series. However, the strange "joy" always continues slowly and slowly. Yes! The key words are "slow steps" and "repetition." The constant, slow repetition of the same things; this is the first factor that inflates our death wish.
+Yukio Mishima[^mishima] mentioned in his autobiographical novel "Confessions of a Mask" that "everyday life" is more terrifying than war. We always live this kind of "shivering and terrifying daily life" enduring it again and again. In order to bring about an inexplicable "future settlement". We took every step along the way, carefully avoiding any deviation in direction. There is no happy ending like in a TV series. However, the strange "joy" always continues slowly and slowly. Yes! The key words are "slow steps" and "repetition." The constant, slow repetition of the same things; this is the first factor that increases our death wish.
 
 [^mishima]:
     Yukio Mishima was a Japanese author, poet, playwright, actor, model, Shintoist, nationalist. Mishima is considered one of the most important writers of the 20th century. He was considered for the Nobel Prize in Literature five times in the 1960s. Mishima's work is characterized by "its luxurious vocabulary and decadent metaphors, its fusion of traditional Japanese and modern Western literary styles, and its obsessive assertions of the unity of beauty, eroticism and death", according to author Andrew Rankin.
@@ -88,7 +92,7 @@ I hope this book can be your metal pouch necklace.
 
 ## Another Thing
 
-*This section is written by Rena, the Chinese translator.*
+*This section was written by Rena, the Chinese translator.*
 
 On the verge of despair, and searching for a way to commit suicide, I stumbled upon this book and became deeply fascinated by it. Because of the particularity and age of this book, it took a lot of effort to find this precious, albeit incomplete, Chinese translation. "Complete the translation and proofread this book!" was my final wish at the final moment. Watching the book change from incomplete to complete, I was filled with a sense of accomplishment, and was able to leave peacefully.
 

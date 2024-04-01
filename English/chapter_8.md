@@ -27,7 +27,7 @@ The practice of binding the body is a bit primitive, but it is a very effective 
 
 If you want to die simply and conveniently, then drive the car into the water. As long as you don't try to climb out of the car, you will not be saved.
 
-The easier way is to take a large passenger ship and jump into the water halfway, otherwise you will be drowned by the whirlpool of water stirred up by the ship. It is said that half of the corpses recovered in the Seto Inland Sea were due to this.
+The easier way is to take a large passenger ship and jump into the water halfway, then you will be dragged down by the whirlpool stirred up by the ship. It is said that half of the corpses recovered in the Seto Inland Sea were due to this.
 
 As a place to jump or launch, the sea and lake are more ideal. When choosing, you should choose a coast with few people and fast lakes. Of course, choose the time at night when it is not easy to be discovered.
 
@@ -88,7 +88,7 @@ In 1944, Lupe Vélez, a has-been Hollywood star, drowned her head in the toilet.
 
 She was born María Vélez, in Mexico, in 1908. She longed to be a famous actress. When she was ten years old, she left Mexico City and came to Hollywood, where she played the heroine in the movie "The Gaucho" (1927). Later, she climbed to the pinnacle of Hollywood fame, dated many famous actors, and lived a luxurious life. Due to her willful and jealous character, there were divorces and scandals. Because of these scandals, her reputation declined, and soon she fell to the level of R-rated comedy movies. But unable to forget her past glory, she took on debts that were difficult to repay and lived a luxurious life. In the end, she became pregnant with the child of Harald Ramond, a young Austrian actor, and was asked to abort it. She was extremely frustrated and, as described in her suicide note, “I prefer to take my life away and our baby’s, before I bring him with shame or killing him. How could you Harald, fake such great love for me and our baby when all the time you didn’t want us. I see no other way out for me, so goodbye and good luck to you.”
 
-She decided to commit suicide and invited many friends to attend the luxurious banquet she held on credit with dozens of large candles. She took a handful of sleeping pills and slept in bed that night. However, he vomited in the middle of the night and was unable to breathe. In extreme pain, he crawled to the bathroom, stuck his face into the toilet and drowned.
+She decided to commit suicide and invited many friends to attend the luxurious banquet with dozens of large candles, which she held with borrowed money. She took a handful of sleeping pills and slept in bed that night. However, she vomited in the middle of the night and was unable to breathe. In extreme pain, she crawled to the bathroom, stuck her face into the toilet and drowned.
 
 Having become a corpse, she no longer looks like the screen beauty she once was, but her face is peaceful. She once said her best friend, Estelle Taylor, "People think I like to fight. I have to fight for everything. I’m so tired of it all. Ever since I was a baby I’ve been fighting."
 
@@ -106,4 +106,7 @@ The girl was rescued, and later she talked about the experience: "I was half-sin
 
 It's not a suicide, but it talks about a near-death experience that happens when one is about to drown. This situation is a relaxing experience when one's consciousness separates from the body and watches one's own soul escape and the body become like a feather. Moreover, it is worth noting that no matter how many times an expert swimmer has crossed the lake, he sometimes drowns "for unknown reasons"[^cold-shock].
 
-[^cold-shock]: The "death of unknown causes" here may be caused by the cold shock response, that is, when a person suddenly enters the water or the nerves are strongly stimulated when entering the water, shock leads to death.
+[^cold-shock]:
+    The "death of unknown causes" here may be caused by the cold shock response.
+
+    Cold shock response is a series of neurogenic cardio-respiratory responses caused by sudden immersion in cold water. In cold water immersions, such as by falling through thin ice, cold shock response is perhaps the most common cause of death. Also, the abrupt contact with very cold water may cause involuntary inhalation, which, if underwater, can result in fatal drowning.

@@ -11,7 +11,7 @@
 | Impact | ▼▽▽▽▽ |
 | Lethality | ▼▼▼▽▽ |
 
-If you can find a good location, it's easy. However, be aware that it is possible that after a large-scale search, you will be rescued, but your hands and feet are frozen and must be amputated.
+If you can find a good location, it's easy. However, be aware that it is possible that after a large-scale search, you will be rescued, but your hands and feet will be frozen and must be amputated.
 
 Freezing to death is probably as comfortable as hanging yourself. Hearing something like this, you may question its authenticity, but this is what the survivors said, so you have to believe it.
 
@@ -94,4 +94,4 @@ In addition, when committing suicide by freezing to death in the snowy mountains
 
 If choosing a place to commit suicide is too troublesome, I would advise you to take the same route as she did. To be cautious, let me introduce the method to get to Kurodake. First go to Asahikawa, and then take a two-hour ride from Asahikawa to Sounkyo Hot Spring. Then take the cable car, turn to the snow track at the cable car transfer point, and enter the virgin forest (see Figure 2).
 
-If you want to imitate the way she died, you can buy some sleeping pills and sedatives that are available on the market as described in the drug chapter. It would also be a good idea to bring a large bottle of wine. Even if the body parts would end up scattered, at least you will be dead before that happens.
+If you want to imitate the way she died, you can buy some sleeping pills and sedatives that are available on the market as described in Chapter 1. It would also be a good idea to bring a large bottle of wine. Even if the body parts would end up scattered, at least you will be dead before that happens.
