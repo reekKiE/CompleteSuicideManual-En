@@ -19,7 +19,7 @@ A related official said: "In the past seven years (since the establishment of th
 
 ## How to jump off a building
 
-Nowadays, no one will go to Takashimadaira  housing complex to jump anymore, but for those who can't find a suitable place nearby, or "I'm old school. I'm still going for Takashimadaira !", I am here to whisper to you some of the nice places at Taka.
+Nowadays, no one will go to Takashimadaira housing complex to jump anymore, but for those who can't find a suitable place nearby, or "I'm old school. I'm still going for Takashimadaira!", I am here to whisper to you some of the nice places at Taka.
 
 It seems that the complex where people jumped from buildings has been completely blocked, but for some reason Block 3-11 (see map) is completely defenseless. Especially in Building 1 of 3-11, outsiders can enter and exit the outer corridors from the first to the fourteenth floors at will. There is only a one-meter-high low grille. The unprepared situation may even scare the residents. In Buildings 2 to 6 of 3-11, the windows on the corner platform of the stairs do not have locking devices. As long as you climb up the low wall about 150 centimeters, you can jump off smoothly. Even so, I still recommend the 14th-floor exterior corridor of Building 1 of 3-11, where you can see the view of the Itabashi area across from the Toei Line. Needless to say, there is a concrete floor below, and there are few pedestrians. If you fall, you will definitely die. Moreover, there are no railings on the outer stairs of this building.
 

@@ -16,7 +16,7 @@ As a result, in this year alone, 804 men and 140 women suicided at Mount Mihara,
 
 From the resting area around the crater, or the souvenir shop at the top of the mountain, walk towards the inner ring of the caldera of Mount Mihara. Around the crater, only the top of the inner ring is off-limits. You cannot peek into the crater. If you want to jump, you can only climb over the fence quickly (see Figure 1). When jumping into a volcano crater, there are many cases where you would end up smashing and getting stuck on a rock shelter halfway, or fall to the bottom of a volcano but not into the magma (Case study 17). However, you can also become comatose due to inhaling toxic volcanic gases, plus the injuries sustained when it rolled and fell, death would occur within a few hours.
 
-Although it is not related to Mount Mihara, a young man followed Osamu Dazai in 1948 and left a suicide note "Take me with you" and threw himself into Mount Aso. He fell onto a rock 150 meters high, and was finally pulled up. In fact, according to survey data, 240 meters down from Aso Pass, the temperature of the rock is 100 degrees and the temperature of the air is 65.6 degrees.
+Although it is not related to Mount Mihara, a young man followed Osamu Dazai in 1948 and left a suicide note "Take me with you." and threw himself into Mount Aso. He fell onto a rock 150 meters high, and was finally pulled up. In fact, according to survey data, 240 meters down from Aso Pass, the temperature of the rock is 100 degrees and the temperature of the air is 65.6 degrees.
 
 When jumping down, be careful not to let people on the observation deck on the top of the mountain notice you.
 

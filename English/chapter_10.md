@@ -33,7 +33,7 @@ Things you need to bring: sedatives, painkillers and other drugs that can stabil
 
 If you really want to die in your room, you have to choose a day in the middle of winter. You also have to look at the weather forecast and choose the coldest night. In addition, you must make some preparations to cool down your body: pour water on your whole body while being naked, then face the electric fan and air conditioner, and open the windows and refrigerator. It also requires fasting, lack of sleep and fatigue, otherwise it will be difficult to achieve. If you drink some wine beforehand, it will dilate the blood vessels on the surface of the body, quickly lower the body temperature, and has the effect of hastening death. Of course, some patience is also required, which is also the patience to wait for sleep to come.
 
-Ways to freeze to death on the streets: Wear wet clothes to secluded parks, open spaces and woods at night. In order to avoid people’s suspicion, you can also bring a water bottle and pour it on when you decide on the spot. Try to choose a cement floor that dissipates heat quickly, but the most important thing is to keep it out of sight.
+Ways to freeze to death on the streets: Wear wet clothes to secluded parks, open spaces and woods at night. In order to avoid people's suspicion, you can also bring a water bottle and pour it on when you decide on the spot. Try to choose a cement floor that dissipates heat quickly, but the most important thing is to keep it out of sight.
 
 When the temperature is 5 °C, with no wind, half-naked, and with an empty stomach, people can freeze to death in a day. There are also examples of drunken people, who, returning home, fell asleep on the side of the road and froze to death at nights as cold as 5 °C.
 
@@ -43,7 +43,7 @@ In water, when the temperature is 15 °C, the risk of freezing to death is alrea
 
 Whether you crawl into a snowdrift or strip naked in your room, the process of dying is the same.
 
-At first, the whole body will shiver. When the rectal temperature reaches 35 °C, fatigue, lethargy and drowsiness will occur. The famous slang phrase "You'll die if you sleep on it!" even children say refers to this situation. When the body temperature drops to 34 or 33 °C, the ability to think gradually weakens, the consciousness is blurred, and it will be enveloped by a "sweet trance". When the temperature reaches 30 to 23 °C, they lose consciousness until death. When it drops below 25 °C, death is certain, so it’s a much more refreshing death than one might have imagined.
+At first, the whole body will shiver. When the rectal temperature reaches 35 °C, fatigue, lethargy and drowsiness will occur. The famous slang phrase "You'll die if you sleep on it!" even children say refers to this situation. When the body temperature drops to 34 or 33 °C, the ability to think gradually weakens, the consciousness is blurred, and it will be enveloped by a "sweet trance". When the temperature reaches 30 to 23 °C, they lose consciousness until death. When it drops below 25 °C, death is certain, so it's a much more refreshing death than one might have imagined.
 
 ![Figure 1: The relation between rectal body temperature and maximal blood pressure.](img/10_1.png)
 
@@ -69,7 +69,7 @@ If you really want to commit suicide, it is better to go to the snowy mountains.
 
 ## Case study 26: Female playwright who froze to death in snowy mountains
 
-In June 1981, the skeletal body of a woman was discovered at the 5th station of Mount Kurodake in Daisetsuzan Mountains, Ishikari Mountains, central Hokkaido. The location was in a primeval forest about 300 meters above the mountain. This female writer was Keiko Sugie (杉江慧子) (47 years old at the time) who had participated in the production of "Seven Detectives" [^shichinin].
+In June 1981, the skeletal body of a woman was discovered at the 5th station of Mount Kurodake in Daisetsuzan Mountains, Ishikari Mountains, central Hokkaido. The location was in a primeval forest about 300 meters above the mountain. This female writer was Keiko Sugie (杉江慧子) (47 years old at the time) who had participated in the production of *Seven Detectives* [^shichinin].
 
 ![Figure 2: The map near Kurodake.](img/10_2.png)
 

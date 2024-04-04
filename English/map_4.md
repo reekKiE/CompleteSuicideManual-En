@@ -4,7 +4,7 @@ Between June and July 1992, a total of five men and women committed suicide ever
 
 Somehow, all of them died on Wednesday or Thursday. The places of suicide are also extremely close, concentrated within a radius of 500 meters. In addition, the first three people were all members of a group of delinquents who formed a Bōsōzoku (Japanese biker gang) a year ago. The motive for all members' suicides is completely unknown. This series of suicides with unknown motives shocked the whole of Japan. Its level of mystery is comparable to the "Death Guide" incident on Mount Mihara in the history of suicide in Japan.
 
-In the local area, most people believe it was serial homicide. If it is so, it means that there is a murderer who kills one person every week and kills five people in total. When this kind of weird suicide occurs, it will inevitably lead to the theory of homicide. However, it’s best not to believe too much.
+In the local area, most people believe it was serial homicide. If it is so, it means that there is a murderer who kills one person every week and kills five people in total. When this kind of weird suicide occurs, it will inevitably lead to the theory of homicide. However, it's best not to believe too much.
 
 ![Figure 1: Kumatori is 30 minutes away from the inner city of Osaka by train.](img/map_4_1.png)
 

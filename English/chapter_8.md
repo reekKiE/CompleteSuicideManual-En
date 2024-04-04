@@ -43,13 +43,13 @@ The best season is winter. When the water temperature is low, people may die fro
 
 ## Experience: This is how a master swimmer drowns
 
-Now let’s describe how a swimmer can die by drowning.
+Now let's describe how a swimmer can die by drowning.
 
 It is best to set out at night. If you keep swimming forward, you will follow the current and swim to the deep sea. It doesn't take long for you to get tired, but you can't stop. The waves in the open sea were very big, so you'd drink more water, and the water in the trachea would cause severe choking. In the process of repeatedly drinking, spitting, and choking water, water also enters the ear tube connecting the mouth and ears. This is the key. Some people say: "The ears have tympanic membranes, and water should flow into the three semicircular canals." But the water still flows in from the mouth.
 
 ![Figure 1: The stages of drowning.](img/8_1.png)
 
-Figure 1 shows the stages of drowning. First, due to the sudden stimulation of the skin, the person will take a deep breath (Phase 1), and then the breathing will stop for 30 seconds to 1 minute (Phase 2). Soon after, due to the increase in carbon dioxide in the blood, there will be intense spasmodic inhalation and expiration for 1 to 3 minutes (stage 3), followed by loss of consciousness for about 1 minute (stage 4), and sinking and death (stage 5). (Excerpted from "Small Forensic Medicine Book", published by Kinpodo Publishing)
+Figure 1 shows the stages of drowning. First, due to the sudden stimulation of the skin, the person will take a deep breath (Phase 1), and then the breathing will stop for 30 seconds to 1 minute (Phase 2). Soon after, due to the increase in carbon dioxide in the blood, there will be intense spasmodic inhalation and expiration for 1 to 3 minutes (stage 3), followed by loss of consciousness for about 1 minute (stage 4), and sinking and death (stage 5). (Excerpted from *Small Forensic Medicine Book*, published by Kinpodo Publishing)
 
 The water flowing into the ear canal causes piston movement and causes bleeding in the parts covering the three semicircular canals, causing dysfunction of the three semicircular canals through acute poor circulation. If this function is damaged, the sense of balance will be lost, and it will be difficult to distinguish up and down, left, and right. The more you try to inhale, the more water will enter your trachea, causing your throat to spasm. Eventually, you will stop breathing, lose consciousness, and sink to the bottom of the water.
 
@@ -76,7 +76,7 @@ Furthermore, Cape Ashizuri, the southernmost tip of Shikoku, is a popular suicid
 
     It seems to be inspired from the "contemplation of the nine stages of a decaying corpse", a Buddhist meditational practice in which the practitioner imagines or observes the gradual decomposition of a dead body. Along with paṭikūlamanasikāra, this type of meditation is one of the two meditations on "the foul" or "unattractive" (aśubha). The nine stages later became a popular subject of Buddhist art and poetry. In Japan, images of the stages are called kusōzu (九相図, lit. 'nine-phase pictures') and became related to aesthetic ideas of impermanence.
 
-## Note: People who can’t swim are at an advantage
+## Note: People who can't swim are at an advantage
 
 When you plunge into the sea or lakes, be sure not to be seen. Especially when jumping into the sea, it will cause them to dispatch expensive coastal rescue troops.
 
@@ -86,11 +86,11 @@ People who can swim may also commit suicide in this way, but it is undeniable th
 
 In 1944, Lupe Vélez, a has-been Hollywood star, drowned her head in the toilet.
 
-She was born María Vélez, in Mexico, in 1908. She longed to be a famous actress. When she was ten years old, she left Mexico City and came to Hollywood, where she played the heroine in the movie "The Gaucho" (1927). Later, she climbed to the pinnacle of Hollywood fame, dated many famous actors, and lived a luxurious life. Due to her willful and jealous character, there were divorces and scandals. Because of these scandals, her reputation declined, and soon she fell to the level of R-rated comedy movies. But unable to forget her past glory, she took on debts that were difficult to repay and lived a luxurious life. In the end, she became pregnant with the child of Harald Ramond, a young Austrian actor, and was asked to abort it. She was extremely frustrated and, as described in her suicide note, “I prefer to take my life away and our baby’s, before I bring him with shame or killing him. How could you Harald, fake such great love for me and our baby when all the time you didn’t want us. I see no other way out for me, so goodbye and good luck to you.”
+She was born María Vélez, in Mexico, in 1908. She longed to be a famous actress. When she was ten years old, she left Mexico City and came to Hollywood, where she played the heroine in the movie *The Gaucho* (1927). Later, she climbed to the pinnacle of Hollywood fame, dated many famous actors, and lived a luxurious life. Due to her willful and jealous character, there were divorces and scandals. Because of these scandals, her reputation declined, and soon she fell to the level of R-rated comedy movies. But unable to forget her past glory, she took on debts that were difficult to repay and lived a luxurious life. In the end, she became pregnant with the child of Harald Ramond, a young Austrian actor, and was asked to abort it. She was extremely frustrated and, as described in her suicide note, "I prefer to take my life away and our baby's, before I bring him with shame or killing him. How could you Harald, fake such great love for me and our baby when all the time you didn't want us. I see no other way out for me, so goodbye and good luck to you."
 
 She decided to commit suicide and invited many friends to attend the luxurious banquet with dozens of large candles, which she held with borrowed money. She took a handful of sleeping pills and slept in bed that night. However, she vomited in the middle of the night and was unable to breathe. In extreme pain, she crawled to the bathroom, stuck her face into the toilet and drowned.
 
-Having become a corpse, she no longer looks like the screen beauty she once was, but her face is peaceful. She once said her best friend, Estelle Taylor, "People think I like to fight. I have to fight for everything. I’m so tired of it all. Ever since I was a baby I’ve been fighting."
+Having become a corpse, she no longer looks like the screen beauty she once was, but her face is peaceful. She once said her best friend, Estelle Taylor, "People think I like to fight. I have to fight for everything. I'm so tired of it all. Ever since I was a baby I've been fighting."
 
 ### Check: the cause of death
 

@@ -95,12 +95,12 @@ At about seven o'clock in the evening in February 1989, a 67-year-old housewife 
 
 The keeper who heard the loud "pop" sound rushed over and saw only the bear shed 2.5 meters away from the fence. Sixty-eight bears were huddled together, like a small black mountain. After using a fire extinguisher to disperse the bear, a human body emerged from the white powder. The body had been torn apart by the cubs, the internal organs were completely missing, a large hole was opened from the stomach to the intestines, and there were several bite marks on the hands, feet and other parts of the body. Her clothes were torn into pieces, as if she were naked.
 
-She was a devout Buddhist, and she has previously talked about "she will fall into the world of demons", "people die but their souls live forever", etc. When she left home after noon, she said, "They tell me to go into that world." She also left a suicide note for her husband. Her neighbors also thought she was a weird person.
+She was a devout Buddhist, and she has previously spoke of things like, "she will fall into the world of demons", "people die but their souls live forever", etc. When she left home that afternoon, she said, "They told me to go into that world." She also left a suicide note for her husband. Her neighbors also thought she was a weird person.
 
-Some people said that this woman had said before, "I want to be eaten by a tiger."[^sattva] She also thought about the tiger cage next to the bear shed, but because she could not get past the iron fence, she jumped into the bear shed.
+Some people said that this woman had said before, "I want to be eaten by a tiger."[^sattva] She also had thought about the tiger cage next to the bear shed, but because she could not get past the iron fence, she jumped into the bear shed.
 
 [^sattva]:
-    The Jātaka (meaning "Birth Story," "related to a birth") are a genre of literature native to the Indian subcontinent which mainly concern the previous births of Gautama Buddha in both human and animal form. It is one of the oldest classes of Buddhist literature.
+    The Jātaka (meaning "Birth Story," "related to a birth") is a genre of literature native to the Indian subcontinent which mainly concern the previous births of Gautama Buddha in both human and animal form. It is one of the oldest classes of Buddhist literature.
 
     According to a Jātaka story, Prince Sattva is a previous incarnation of Gautama Buddha. On his walk with his closest disciple, he comes to the edge of a cliff, at the bottom of which is a starving tigress about to eat her newborn cubs in desperation. The bodhisattva tells his disciple to go look for food and he will stay and try to figure out a way to save her and her young. After some thinking, he leaps off the cliff to his death, and the tigress eats his body.
 
@@ -129,9 +129,9 @@ Janet was an English teacher and a serious woman with a passion for classical mu
 
 This is the "assisted suicide incident" that has sparked a debate on the right of dying with dignity across the United States.
 
-At present, if you want to die completely reliably and safely, you have no other choice but to rely on Dr. Kevorkian's help. He also used this device to cause two women to commit suicide in October 1991, and there was an endless stream of people who came to him for consultation. He was able to use the device because the state of Michigan, where he lives, does not criminalize assisted suicide. In Japan, the criminal law clearly stipulates the crime of assisted suicide. That’s why Janet went all the way from Oregon to Michigan.
+At present, if you want to die completely reliably and safely, you have no other choice but to rely on Dr. Kevorkian's help. He also used this device to cause two women to commit suicide in October 1991, and there was an endless stream of people who came to him for consultation. He was able to use the device because the state of Michigan, where he lives, does not criminalize assisted suicide. In Japan, the criminal law clearly stipulates the crime of assisted suicide. That's why Janet went all the way from Oregon to Michigan.
 
-There is no pain other than the poke of the needle, and you can die in your sleep, whether others see it or not. If you don’t want to die in your room and are willing to go to the United States, you may wish to get in touch with the doctor. However, it is unclear whether he would be willing to use this device on people who are not suffering from terminal illnesses.
+There is no pain other than the poke of the needle, and you can die in your sleep, whether others see it or not. If you don't want to die in your room and are willing to go to the United States, you may wish to get in touch with the doctor. However, it is unclear whether he would be willing to use this device on people who are not suffering from terminal illnesses.
 
 Japan also has a Japan Death with Dignity Association (日本尊厳死協会), but it only recognizes the right to die for terminally ill cancer patients who cannot be cured with current medical technology and is unwilling to take wasteful life-prolonging measures. It is opposed to euthanasia for the general public.
 

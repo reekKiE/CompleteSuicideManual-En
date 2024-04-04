@@ -43,7 +43,7 @@ However, barring this exception, hanging always ranks first among all age groups
 
 ### May is the peak time for suicides
 
-Let’s first look at the months. All over the world, suicides tend to happen more in spring and autumn and less in summer and winter. At the same time, some reports say that there is more spring than autumn and less winter than summer, with the most in April, followed by May, and the least in December and January. However, no matter which month, the difference is not huge. According to Japanese statistics in recent years, May has the highest number of suicides.
+Let's first look at the months. All over the world, suicides tend to happen more in spring and autumn and less in summer and winter. At the same time, some reports say that there is more spring than autumn and less winter than summer, with the most in April, followed by May, and the least in December and January. However, no matter which month, the difference is not huge. According to Japanese statistics in recent years, May has the highest number of suicides.
 
 According to the data of 1991, the situation of monthly suicides is shown in Figure 3. This year, there were most suicides in May and very few in February.
 

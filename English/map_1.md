@@ -38,7 +38,7 @@ The number of suicides in the Aokigahara is "about 30 per year, with no increase
 
 Generally speaking, once you enter the sea of ​​trees, you will immediately lose your sense of direction and be unable to get out, so you can walk in no matter where you are, but here we will introduce a route where your body will never be found.
 
-The most common way is to enter near the "Wind Cave". Get off the Fuji Express Bus at Wind Cave Station (see the traffic sign for directions) and you will see the entrance to Wind Cave on the south side of National Route 139. Walk forward to the ticket office of Wind Cave. But don’t walk into the Wind Cave. There are two roads in front of the ticket office. Take the Aokigahara Nature Trail on the left.
+The most common way is to enter near the "Wind Cave". Get off the Fuji Express Bus at Wind Cave Station (see the traffic sign for directions) and you will see the entrance to Wind Cave on the south side of National Route 139. Walk forward to the ticket office of Wind Cave. But don't walk into the Wind Cave. There are two roads in front of the ticket office. Take the Aokigahara Nature Trail on the left.
 
 Go forward about 300 meters, and there is a fork in the road. You have to go to the island on the left with "Ice Cave and Autumn Leaves Terrace" (冰穴·红叶台) written on it. There is a sign on the front that says "You only live once, cherish it", but don't take it seriously.
 
@@ -60,7 +60,7 @@ The other option is to get off the Fuji Express Bus "Akaike" (赤池) and follow
 
 Both of these methods require a long walk, but the reliability of not finding the corpse is relatively high when entering from the Wind Cave. Since ordinary tourists don't come here, don't arouse people's suspicion when you walk in.
 
-## If you go another hundred meters, you can’t turn back
+## If you go another hundred meters, you can't turn back
 
 In the primeval forest, there are tangled tree roots everywhere, and moss and fallen leaves cover the holes, so it is impossible to move forward in a straight line. I thought I remembered the way I came from, but after walking more than a hundred meters, I still couldn't figure out the direction at all. If you have a compass, throw it away. You can't go back to the same place anyway.
 
@@ -75,11 +75,11 @@ Every October, more than 600 people, including the local fire brigade and police
 ### Beware of the Self-Defense Forces
 
 Every March, from near the entrance of Wind Cave to Kentoku Dojo (乾徳道場)[^kentoku-dojo], the Self-Defense Forces conduct a column walking training in the dense forest. It is said that most of the bodies that were not found during the great search were discovered at this time. Therefore, it is also better not to choose the area from the south of the cave to the dojo.
-### Don’t be suspected by the locals
+### Don't be suspected by the locals
 
 People who have lived in the area for a long time can identify suiciders at a glance. It is believed that simply carrying a small bag, or not taking photos, is a telling sign, but more importantly they rely on intuition. When you walk into the sea of ​​trees, the locals will greet you and say, "Do you know where this place is?" and try to persuade you to live. Even if you say, "Let me die," they won't listen. After more than 40 minutes of gossiping, some would-be suiciders finally gave in and turned back to the world of living. So, don't take on the aura of suicide in the first place. However, pretending to be happy at the moment of death is a bit pointless. Don't hesitate before entering the sea of ​​trees. Walk in gracefully and the locals will not follow you in suspicion. Because even if the locals walk a hundred meters into the forest, it is difficult for them to come back.
 
-### Don’t underestimate the monk
+### Don't underestimate the monk
 
 I heard that there is a mysterious monk living in Kentoku Dojo. The house is ordinary, but he is often seen driving his car to go shopping in places off mountain roads, but even the locals don't know how he makes a living. Since his existence cannot be underestimated, avoid walking near this place.
 
@@ -105,7 +105,7 @@ After entering protection, he said: "I will never want to commit suicide again."
 
 ### Check: this example
 
-The "primeval forest of death" where there is no way to go back even if you take one step further, will lead to such an ending if you enter the route incorrectly. He probably traveled around the Red Leaf Terrace (红叶台) and Dragon Palace Cave (龙宫洞) areas between the west south road and National Highway 8. This area is a hiking route with rest areas and pastures. It’s also natural to meet people picking mushrooms. If you really want to die, this area won't work.
+The "primeval forest of death" where there is no way to go back even if you take one step further, will lead to such an ending if you enter the route incorrectly. He probably traveled around the Red Leaf Terrace (红叶台) and Dragon Palace Cave (龙宫洞) areas between the west south road and National Highway 8. This area is a hiking route with rest areas and pastures. It's also natural to meet people picking mushrooms. If you really want to die, this area won't work.
 
 Long indifferent about the desire to die, yet he still continued to go into the sea of ​​trees and spent more than ten days living there. It really sounded like a joke. It is not clear whether life in the sea of ​​trees is dangerous or pleasant.
 

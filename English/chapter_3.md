@@ -13,7 +13,7 @@
 
 Jumping off suddenly is painless. It is highly lethal and is the most high-modern method of suicide. It is not painful to suicide by jumping off a building or a cliff.
 
-There is no pain, no discomfort, and even no terror. Not only that, it can even be very enjoyable. This is not a metaphor, it is actually true. It sounds a bit nonsense, but if you put the words of those "fallen" people together, it can only be said to be this way. This point will be described in detail below, but in this way, suicide by jumping off a building or a cliff can be said to be an excellent method comparable to suicide by hanging. Jumping from buildings and cliffs does not have the shadow that comes with other means of suicide.
+There is no pain, no discomfort, and even no terror. Not only that, it can even be very enjoyable. This is not a metaphor, it is actually true. It sounds a bit nonsense, but if you put together the words of those people who have jumped, it can only be said to be this way. This point will be described in detail below, but in this way, suicide by jumping off a building or a cliff can be said to be an excellent method comparable to suicide by hanging. Jumping from buildings and cliffs does not have the shadow that comes with other means of suicide.
 
 The person who completely changed the concept of suicide by jumping off a building and a cliff was a girl named Sato Kayo. In 1903, a young man, Misao Fujimura, jumped from Kegon Falls, wrote in his celebrated suicide note: "The true nature of the whole creation. Is in one word – 'unfathomable'.". It gives suicide a noble image of philosophy, different from the past. Just like the successors who continue to appear, Satō Kayo also gave falling suicide a certain sacred image, attracting followers one after another, and even the myth "she fell, she jumped" appeared. Satō Kayo is the real name of popular singer Yukiko Okada.
 
@@ -47,9 +47,9 @@ In order not to be quickly discovered and sent to the hospital, finding an incon
 
 The most curious thing is what it feels like during the falling process and whether there is pain when landing.
 
-The 54-year-old man who jumped from the fourth floor of the building and was saved said: "I didn't feel afraid. I naturally jumped over the balcony railing with my whole body. I can't remember whether I felt pain when I fell to the ground, but I knew it." He still fell to the ground." Regarding the feeling of continuing to fall in mid-air, he said: "In the process of jumping to the ground, although it is a natural thing, I still think about whether the head or the feet landed first. The problem was probably because he didn’t want his face to touch the ground, so he naturally covered his face with his hands.”
+The 54-year-old man who jumped from the fourth floor of the building and was saved said: "I didn't feel afraid. I naturally jumped over the balcony railing with my whole body. I can't remember whether I felt pain when I fell to the ground, but I knew it." He still fell to the ground." Regarding the feeling of continuing to fall in mid-air, he said: "In the process of jumping to the ground, although it is a natural thing, I still think about whether the head or the feet landed first. The problem was probably because he didn't want his face to touch the ground, so he naturally covered his face with his hands."
 
-A man who survived a fall from a height onto the glacier bank said: "It was as if I was sitting on huge wings and slowly descending. I thought calmly of myself and my family's future, and many memories passed by like lightning. My mind. After falling to the ground, my breathing was not disordered, and I lost consciousness without any pain. Although my head, hands, and feet collided with rocks or ice and were injured in many places, I didn't feel anything. It can be said that , there is no time more joyful than this moment!"
+A man who survived a fall from a height onto the glacier bank said: "It was as if I was sitting on huge wings and slowly descending. I thought calmly of myself and my family's future, and many memories passed by like lightning. My mind. After falling to the ground, my breathing was not disordered, and I lost consciousness without any pain. Although my head, hands, and feet collided with rocks or ice and were injured in many places, I didn't feel anything. It can be said that, there is no time more joyful than this moment!"
 
 There are countless examples of such falls due to accidents. What these experiences have in common is that they start to fall slowly and have very clear perception. There is no uneasiness or fear at all. It is almost like a dream. At this time, childhood memories often roll through the mind like a revolving lantern. Sometimes one sees mysterious lights, and sometimes one has an out-of-body experience and watches down at one's falling self. And when one finally lands on the ground, one loses consciousness in a peaceful mood.
 
@@ -77,7 +77,7 @@ When jumping off a cliff, various situations may occur due to the surrounding na
 
 ![Figure 2: Main places of injury after falling from a height of less than 5 m (74 cases), and greater than 5 m (61 cases). From left to right: head, chest, abdomen, femur, more than three locations. Translator's note: The bars for "less than 5 m" are invisible, due to the poor scan quality.](img/3_2.png)
 
-Cliff jumping can sometimes be unreliable. Two female junior high school students committed suicide by jumping off a 60-meter-high cliff. One died, but the other was saved. Jumping off a cliff under the same conditions, the outcome is actually very different. Furthermore, no matter how steep the cliff is, you will not necessarily die if you fall into the sea. So, in this case, choose famous places. Scenic spots have their origins, that’s why they become famous places. If you choose cliffs, you can choose from Cape Ashizuri in Shikoku or Nishikigaura in Atami, Shizuoka, or waterfalls such as Kegon Falls.
+Cliff jumping can sometimes be unreliable. Two female junior high school students committed suicide by jumping off a 60-meter-high cliff. One died, but the other was saved. Jumping off a cliff under the same conditions, the outcome is actually very different. Furthermore, no matter how steep the cliff is, you will not necessarily die if you fall into the sea. So, in this case, choose famous places. Scenic spots have their origins, that's why they become famous places. If you choose cliffs, you can choose from Cape Ashizuri in Shikoku or Nishikigaura in Atami, Shizuoka, or waterfalls such as Kegon Falls.
 
 ## Corpse appearance: injuries everywhere, but not grotesque
 
@@ -89,7 +89,7 @@ The second is falling headfirst to the ground. With that, skull fractures, brain
 
 Therefore, no matter which part hits the ground first, multiple body parts will be injured. Judging from those who committed suicide by jumping from buildings and cliffs, nearly 70% of the cases were injured in more than three places, including the head, abdomen, hands and feet. In short, injuries can occur anywhere in the body, but injuries to the head and chest are the most common, accounting for more than 70% of fatal injuries. The heart suffers sudden deceleration and the aorta is often ruptured. As a result, one may died from skull fractures, body contusions, visceral rupture, excessive bleeding, or other causes.
 
-There may be corpses that are so miserable that they don’t want others to see them, but once they are discovered, ambulances arrive quickly and the corpses are taken away in the blink of an eye. Judging from the condition of the buttocks on the ground, sometimes there are almost no signs of injury on the body (Case study 9).[^evelyn-mchale] Therefore, committing suicide by jumping off a building is not such an ugly way to die.
+There may be corpses that are so miserable that they don't want others to see them, but once they are discovered, ambulances arrive quickly and the corpses are taken away in the blink of an eye. Judging from the condition of the buttocks on the ground, sometimes there are almost no signs of injury on the body (Case study 9).[^evelyn-mchale] Therefore, committing suicide by jumping off a building is not such an ugly way to die.
 
 ## Note
 
@@ -105,7 +105,7 @@ A 51-year-old company director wanted to jump from the top floor of an apartment
 
 ### Head-side down
 
-Even if you fall from up high, you may survive. Even if you fall from down low, you may die. Some fell from a height of 6 meters to the bottom of the river and died from their skulls. Others fell from a 6-meter-high pedestrian bridge onto the road and broke their heads, and died an hour and a half later. If you don’t want to fail, you should land with your head on the ground. If you fall skillfully, you will die on the spot even from a height of 5 meters. Also, although the damage to the place of landing may not kill you, death may occur due to special reasons. A 50-year-old woman fell from the fourth-floor balcony of an apartment and broke her waist in many places, but she died of systemic contusion. A man jumped from the third floor of his dormitory and died of pulmonary congestion and acute pulmonary embolism 20 days later.
+Even if you fall from up high, you may survive. Even if you fall from down low, you may die. Some fell from a height of 6 meters to the bottom of the river and died from their skulls. Others fell from a 6-meter-high pedestrian bridge onto the road and broke their heads, and died an hour and a half later. If you don't want to fail, you should land with your head on the ground. If you fall skillfully, you will die on the spot even from a height of 5 meters. Also, although the damage to the place of landing may not kill you, death may occur due to special reasons. A 50-year-old woman fell from the fourth-floor balcony of an apartment and broke her waist in many places, but she died of systemic contusion. A man jumped from the third floor of his dormitory and died of pulmonary congestion and acute pulmonary embolism 20 days later.
 
 ## Case study 8: A college student who jumped from the 15th floor. How he felt during the jump.
 
@@ -115,7 +115,7 @@ This man described the feeling of being in mid-air very calmly: "As I fell, I fe
 
 ### Check: this example
 
-This is the "state of mind in the air" mentioned by suicide attempters who jumped from high places. There are very few cases of survivors. The 15th floor is about 40 meters high. Jumping from this height will feel like you are descending slowly, and you may be very calm. There is no sense of terror or pain when you land. It’s a miracle that he fell from the 15th floor and barely got hurt. Therefore, those who are determined to commit suicide by jumping off a building should also avoid bicycle sheds.
+This is the "state of mind in the air" mentioned by suicide attempters who jumped from high places. There are very few cases of survivors. The 15th floor is about 40 meters high. Jumping from this height will feel like you are descending slowly, and you may be very calm. There is no sense of terror or pain when you land. It's a miracle that he fell from the 15th floor and barely got hurt. Therefore, those who are determined to commit suicide by jumping off a building should also avoid bicycle sheds.
 
 There was a loud "pop" sound when he fell to the ground. So, what kind of sound would a suicide make when he fell? You might as well check it out.
 
@@ -131,7 +131,7 @@ She was introverted when she was in elementary school and loved to stay at home.
 
 She wrote in her diary two days before committing suicide:
 
-> I can't get along with others. I have a weird personality and I don't have any friends. ... I can't see the future, and I can't find a job. (Being bullied) ... Nothing. I don’t want to do it anymore. Everything is so strenuous, I have no strength, and I’m very tired.
+> I can't get along with others. I have a weird personality and I don't have any friends. ... I can't see the future, and I can't find a job. (Being bullied) ... Nothing. I don't want to do it anymore. Everything is so strenuous, I have no strength, and I'm very tired.
 
 This was probably the suicide note she meant to leave behind.
 
@@ -145,13 +145,15 @@ The body of a person who committed suicide by jumping off a building is horrific
 
 ![Figure b: Panel from 嘆きの天使 (Lamenting Angel) by Hanako Yamada.](img/3_b.png)
 
-What we should pay attention to here is the "bullying" that Yamada Hanako suffered everywhere. No matter where she goes, the "guys" who are bullied will always be bullied, and she herself proves this fact. Also, most of the "diary comics" she drew show her paying special attention to "how others see her" at school or in the workplace. It can also be seen from this that she was born with a symptom called "sight phobia". She herself said that she has a "phobia of people", just like she must wear sunglasses when going out. Her life is spent in the never-ending fear of other people's eyes. Coupled with being bullied again, he finally suffered from schizophrenia and committed suicide. Who could have imagined the extent of her troubles? Those who are unhappy, introverted, and unable to handle affairs neatly are not suitable to survive in a society like Japan. Henry Morselli, an Italian suicide researcher in the 19th century said: "Suicide is a means of naturally eliminating those who are physically and mentally weak in the competition for survival in nature."[^morselli] It is indeed true. Hanako Yamada is also in peace. One that was "eliminated".
+What we should pay attention to here is the "bullying" that Yamada Hanako suffered everywhere. No matter where she goes, the "guys" who are bullied will always be bullied, and she herself proves this fact. Also, most of the "diary comics" she drew show her paying special attention to "how others see her" at school or in the workplace. It can also be seen from this that she was born with a symptom called "horror of the gaze". She herself said that she has a "horror of people", just like she must wear sunglasses when going out. Her life is spent in the never-ending fear of other people's eyes. Coupled with being bullied again, he finally suffered from schizophrenia and committed suicide. Who could have imagined the extent of her troubles? Those who are unhappy, introverted, and unable to handle affairs neatly are not suitable to survive in a society like Japan. Henry Morselli, an Italian suicide researcher in the 19th century said: "Suicide is a means of naturally eliminating those who are physically and mentally weak in the competition for survival in nature."[^morselli] It is indeed true. Hanako Yamada is also in peace, as one that was "eliminated from competition".
 
 [^morselli]: Italian sociologist. Most famous for his book *Suicide: An essay on comparative moral statistics* (1881), which claimed that suicide was primarily the result of the struggle for life and nature's evolutionary process.
 
-Her views on suicide during her lifetime are also worth mentioning. In her comics, she quoted these lines from the movie *Phantom of the Paradise* - "If you have no merit and are annoying, then go to hell! Don't say those bad words/There is no future in life/It's better to make a show of it than to mess around/ Living is boring anyway.”
+Her views on suicide during her lifetime are also worth mentioning. In her comics, she quoted these lines from the movie *Phantom of the Paradise* - "If you have no merit and are annoying, then go to hell! Don't say those bad words/There is no future in life/It's better to make a show of it than to mess around/ Living is boring anyway."[^phantom-of-the-paradise]
 
-In addition, she wrote in other magazines - "This world is inherently cruel." "Disabled people, laugh! Shout! Curse your fate! This is what your life is like. If you feel disgusted, commit suicide.” Her heartfelt words about the helpless misfortune can only be spoken by someone who has lived through the misfortune. There are indeed insurmountable misfortunes in this world. She made this fact clear in one sentence, which is consistent with the purpose of this book.
+[^phantom-of-the-paradise]: I can confirm the movie title is correct, but I cannot confirm the quote.
+
+In addition, she wrote in other magazines - "This world is inherently cruel." "Disabled people, laugh! Shout! Curse your fate! This is what your life is like. If you feel disgusted, commit suicide." Her heartfelt words about the helpless misfortune can only be spoken by someone who has lived through the misfortune. There are indeed insurmountable misfortunes in this world. She made this fact clear in one sentence, which is consistent with the purpose of this book.
 
 ![Figure c: Page from 嘆きの天使 (Lamenting Angel) by Hanako Yamada.](img/3_c.png)
 
