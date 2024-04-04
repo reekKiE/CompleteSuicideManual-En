@@ -12,7 +12,7 @@ Closer to home, what is needed now is a book that can make "suicide" come true.
 
 Come to think of it, I remember getting fed up with a book that came out about 10 years ago that claimed to "describe how to commit suicide" because it was just filled with nonsense. What you need to know now is simply how to commit suicide.
 
-In the United States, there is only one euthanasia device, invented by a scientist (see Chapter 11, Case 30). This book will be the only "purely textual euthanasia device" in Japan.
+In the United States, there is only one euthanasia device, invented by a scientist (see [Chapter 11](chapter_11.md), Case 30). This book will be the only "purely textual euthanasia device" in Japan.
 
 At this point, I really want to start the book by describing how overdose works. However, in order to clarify the answer to "Why commit suicide now?", as well as various commercial concerns,[^commercial-concerns] I have to write some miscellaneous things first.
 
@@ -96,7 +96,7 @@ I hope this book can be your metal pouch necklace.
 
 On the verge of despair, and searching for a way to commit suicide, I stumbled upon this book and became deeply fascinated by it. Because of the particularity and age of this book, it took a lot of effort to find this precious, albeit incomplete, Chinese translation. "Complete the translation and proofread this book!" was my final wish at the final moment. Watching the book change from incomplete to complete, I was filled with a sense of accomplishment, and was able to leave peacefully.
 
-It is worth noting that this book does not mention the more commonly used method of suicide by burning charcoal, so I privately added a section on suicide by burning charcoal (in the "Gas Poisoning" chapter) and some other content. Someone could improve this book, which I think is a motion the original author would support. In addition, with the passage of time, many drugs in the "Drugs" chapter (especially bromides and barbiturates) have been replaced by relatively less toxic substances and the control of these substances has become stricter. But I have still tried my best to list and annotate the ingredients of these drugs in the hope of helping those in need.
+It is worth noting that this book does not mention the more commonly used method of suicide by burning charcoal, so I privately added a section on suicide by burning charcoal (in the ["Gas-poisoning" chapter](chapter_6.md)) and some other content. Someone could improve this book, which I think is a motion the original author would support. In addition, with the passage of time, many drugs in the ["Taking medicines" chapter](chapter_1.md) (especially bromides and barbiturates) have been replaced by relatively less toxic substances and the control of these substances has become stricter. But I have still tried my best to list and annotate the ingredients of these drugs in the hope of helping those in need.
 
 Because my medical and pharmaceutical knowledge is poor, and I am on the verge of chaos and collapse at the time of proofreading, the contents of the book inevitably contain errors and omissions. Forgive me.
 

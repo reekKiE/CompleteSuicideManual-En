@@ -1,12 +1,11 @@
-
-# Suicide Map 2 Takashimadaira housing complex
+# Map 2: The Takashimadaira housing complex
 
 What does the Takashimadaira housing complex[^takashimadaira] look like now? In fact, in response to the trend of people jumping off buildings around 1980, all 37 high-rise buildings with more than 11 floors were equipped with exterior corridors and exterior stairs starting from the third floor. A fence was put up to prevent people from jumping off the building, and locks were installed on the windows. The stairs to the roof are equipped with locked iron gates. Now it can be said that it is completely impossible to jump off the building. The management has installed with complete suicide prevention devices. Now it looks like an iron prison.
 
 [^takashimadaira]:
     > Tokyo -- They jumped from the roofs of 14-story buildings to their deaths on the pavement below, so the apartment complex locked the doors to the roofs. Others committed suicide by jumping from open passageways and corridor windows, so those were closed off. But Japanese bent on death still come to the 40,000-resident Takashimadaira complex, a group of 64 apartment buildings five- to 14-stories high within Tokyo's city limits. They come from miles away, sometimes riding a train for hours. This year there has been a suicide once every 10 days through September, earning the complex the unwanted nickname of 'Mecca for Suicides.'
     > 
-    > UPI ARCHIVES, OCT. 29, 1980, Apartment complex fights image as 'Mecca for Suicides', By John Needham
+    > UPI ARCHIVES, OCT. 29, 1980, *Apartment complex fights image as 'Mecca for Suicides'*, by John Needham
 
 ![Figure 1: Map of Takashimadaira housing complex.](img/map_2_1.png)
 

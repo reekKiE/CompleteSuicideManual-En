@@ -94,4 +94,4 @@ In addition, when committing suicide by freezing to death in the snowy mountains
 
 If choosing a place to commit suicide is too troublesome, I would advise you to take the same route as she did. To be cautious, let me introduce the method to get to Kurodake. First go to Asahikawa, and then take a two-hour ride from Asahikawa to Sounkyo Hot Spring. Then take the cable car, turn to the snow track at the cable car transfer point, and enter the virgin forest (see Figure 2).
 
-If you want to imitate the way she died, you can buy some sleeping pills and sedatives that are available on the market as described in Chapter 1. It would also be a good idea to bring a large bottle of wine. Even if the body parts would end up scattered, at least you will be dead before that happens.
+If you want to imitate the way she died, you can buy some sleeping pills and sedatives that are available on the market as described in [Chapter 1](chapter_1.md). It would also be a good idea to bring a large bottle of wine. Even if the body parts would end up scattered, at least you will be dead before that happens.

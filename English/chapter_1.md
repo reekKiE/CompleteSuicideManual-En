@@ -1,4 +1,4 @@
-# 1. Overdose
+# 1. Taking medicines
 
 ![](img/1_0.png)
 

@@ -87,7 +87,7 @@ The document is *mostly* compliant to the extended Markdown syntax. Why *mostly*
 
 There are three kinds of citations in the book.
 
-The citations for the dosage of substances appearing in Chapter 1 are keyed with English letters from `A` to `M`.
+The citations for the dosage of substances appearing in [Chapter 1](chapter_1.md) are keyed with English letters from `A` to `M`.
 
 ![Dosage citations](img/citations_drug%20dosage.png)
 

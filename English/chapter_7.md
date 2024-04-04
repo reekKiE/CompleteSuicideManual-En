@@ -1,4 +1,4 @@
-# 7. Electrocution
+# 7. Electrocuting
 
 | | |
 | --- | --- |

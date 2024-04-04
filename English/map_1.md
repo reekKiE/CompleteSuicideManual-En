@@ -1,4 +1,4 @@
-# Suicide Map 1: Aokigahara, the Sea of ​​Trees
+# Map 1: Aokigahara, the Sea of ​​Trees
 
 If you are bored with your work and relationships and want to commit suicide quietly without others knowing, I advise you to step into Aokigahara, the Sea of ​​Trees without hesitation. There is no place like Aokigahara where it is easy to enter, but difficult to be found. Your whereabouts will be unknown and you will disappear from people's memory over time. However, to achieve this goal, we must study the method of entering the sea of ​​trees. This map can be used as a reference.[^aokigahara-map]
 

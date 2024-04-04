@@ -1,4 +1,4 @@
-# 11. Special Cases
+# 11. Special cases
 
 ![](img/11_0.png)
 

@@ -1,4 +1,4 @@
-# Suicide statistics
+# Appendix: Suicide statistics
 
 The historical information is of great reference value for understanding the where and the how, so I summarize it.
 
@@ -120,4 +120,4 @@ The above situation seems to reflect various national conditions.
 
 As in Japan, there are of course tourist attractions for suicides outside of Japan.
 
-The most famous one is the Golden Gate Bridge in San Francisco, USA. Many people who commit suicide there say that they did not come here for the purpose of committing suicide, but witnessing the stunning scenery, they were struck with suicidal thoughts just by the atmosphere. A 70-year-old man left a suicide note saying "How is it that this scenery was created, that makes it so easy to suicide in?" and jumped off. Similarly, Niagara Falls in the United States is also known as a suicide tourist attraction. The Thames River in the United Kingdom and the Ganges River in India have all been called suicide attractions. In Japan, a counterpart could be the Kegon Falls (華厳滝) (See Chapter 3).
+The most famous one is the Golden Gate Bridge in San Francisco, USA. Many people who commit suicide there say that they did not come here for the purpose of committing suicide, but witnessing the stunning scenery, they were struck with suicidal thoughts just by the atmosphere. A 70-year-old man left a suicide note saying "How is it that this scenery was created, that makes it so easy to suicide in?" and jumped off. Similarly, Niagara Falls in the United States is also known as a suicide tourist attraction. The Thames River in the United Kingdom and the Ganges River in India have all been called suicide attractions. In Japan, a counterpart could be the Kegon Falls (華厳滝) (See [Chapter 3](chapter_3.md)).

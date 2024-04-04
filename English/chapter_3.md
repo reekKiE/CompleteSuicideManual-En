@@ -1,4 +1,4 @@
-# 3. Jumping
+# 3. Leaping
 
 ![](img/3_0.png)
 
