@@ -7,3 +7,5 @@ The translation is based on the Taiwanese edition, but occasionally I had to ref
 Start reading at the [contents page](English/contents.md).
 
 The Chinese version is in [Chinese](Chinese) folder.
+
+The Japanese version is available by searching for "完全自殺マニュアル" in various ebook piracy websites, such as Library Genesis, Anna's Archive, etc.
