@@ -97,7 +97,7 @@ In the 1950s and 1960s after the war, there was a second sleeping pill suicide c
 
 Currently, bromovalerylurea is designated as a "drug that must be used under a doctor's instruction" and cannot be purchased without a doctor's prescription. "Risuron S" (リスロンS) (Sato Pharmaceutical Co., Ltd.) sold on the market has the same ingredients and dosage as Burobarin. Obviously this is legal. Because the amount of bromovalerylurea in each tablet is less than 500mg and can be sold. These are 8mm-diameter tablets, white in color and bitter in taste.
 
-When the conditions are ripe, as long as a lethal dose is taken, the central nervous system will fall under the drugs' effect, (the excitatory powers of the brain and spinal cord nerves will fail), and consciousness will be lost quickly. Death will occur mainly due to respiratory arrest in about an hour. Someone died after taking 50 tablets of burobarin (Case 2), but it is still appropriate to take 200 tablets. 200 tablets is enough to fill both hands. If this is all that's needed amount, then there is no need to mix it with yogurt (Case 1).
+When the conditions are ripe, as long as a lethal dose is taken, the central nervous system will fall under the drugs' effect, (the excitatory powers of the brain and spinal cord nerves will fail), and consciousness will be lost quickly. Death will occur mainly due to respiratory arrest in about an hour. Someone died after taking 50 tablets of burobarin (Case study 2), but it is still appropriate to take 200 tablets. 200 tablets is enough to fill both hands. If this is all that's needed amount, then there is no need to mix it with yogurt (Case study 1).
 
 In addition, medicines that contain 100 mg of bromovalerylurea in one tablet include "Muurumin" (ム－ルミン, by Kobayashi Pharmaceutical Co., Ltd.), "Day and Night" (Taisho Pharmaceutical Co., Ltd.), etc. "Risuron S" is made purely from bromovalerylurea, but others contain some caffeine and other ingredients. Because it contains other active ingredients, the total dosage increases, and the possibility of vomiting increases.
 
@@ -215,7 +215,7 @@ Some people think that "drinking coffee all the time" and not caring much about 
 
 Caffeine and aspirin, which were introduced because they contain the least unnecessary ingredients, are commercialized in large quantities, such as "Estalon Mocha" (エスタロンモカ, coffee-colored tablets, extremely bitter taste) and aspirin tablets (used to be a trademark for acetylsalicylic acid, but has long fallen into generic use). There are "Coffee Soft Tablets" (エカ－フェソフト錠, produced by Eezai エ－ザイ), "Coffee Cool Tablets" (カフェク－ル, produced by Arakusu アラクス) and other medicines that prevent dozing off. For aspirin, there are antipyretic analgesics with aspirin as the main ingredient, such as "Grandol" (グランド－ル, Fujisawa Pharmaceutical Co., Ltd.) and "New Grelan A" (新グレランA, Takeda Pharmaceutical Co., Ltd.).
 
-### Case Study 1: A young salesman who posted an article to a newspaper announcing his suicide
+### Case study 1: A young salesman who posted an article to a newspaper announcing his suicide
 
 On 1956-08-02, at around 10 in the evening, a movie theater in Mejiro District, Tokyo, was showing two movies in succession. The receptionist noticed that a young man was still sleeping, so she planned to wake him up, but found that the man was already cold. He slowly swallowed 200 tablets of Brovarin[^brovarin] and 30 tablets of Adorm[^adorm] while drinking alcohol. After being rushed to the hospital immediately, he slept for a whole day and night, and died early on the 4th.
 
@@ -235,7 +235,7 @@ What needs to be tested here is not the strange behavior he took before death, b
 
 Brovarin was sold only in units of 100 mg. He swallowed 20 grams, which was enough to reach a lethal dose of 10 -- 30 grams. It is said that if you drink alcohol with these sleeping pills, the effect will be ten times greater. He probably heard this from his brother.
 
-### Case Study 2: A student who took 50 tablets of Brovarin and left a "record of death"
+### Case study 2: A student who took 50 tablets of Brovarin and left a "record of death"
 
 In May 1972, a 20-year-old student slipped from his chair in his room and died. There is a suicide note on the table in his room, a brand new notebook titled "The Last Moments", which begins with "I did not escape from this society due to the influence of the so-called misanthropy. The reason why I want to disappear now is because I feel that now It was the right time that made me decide to commit suicide.”
 
@@ -695,7 +695,7 @@ Taking large amounts can cause acute liver disorders ranging from circulatory co
 
 Although herbicides containing paraquat are not easily available to ordinary people, they are still widely used in rural areas, so they can still be obtained. This is a highly toxic drug and the antidote is still unclear.
 
-Paraquat and Diquat have similar structures and properties. Both of them produce enzymes in the body and deteriorate the lipids of cell membranes. Severe vomiting may occur after drinking, and the mouth, esophagus, and digestive organs may rot, harming the liver, kidneys, circulatory organs, lungs, etc., and may lead to death. The characteristic is that although the internal organs are damaged, the sensation is clear, so the pain is greater (Case 3).
+Paraquat and Diquat have similar structures and properties. Both of them produce enzymes in the body and deteriorate the lipids of cell membranes. Severe vomiting may occur after drinking, and the mouth, esophagus, and digestive organs may rot, harming the liver, kidneys, circulatory organs, lungs, etc., and may lead to death. The characteristic is that although the internal organs are damaged, the sensation is clear, so the pain is greater (Case study 3).
 
 The herbicide "Gramochon" contains paraquat 24%, "Pragrocks L" and "Majiate" contain 5% paraquat and 7% diquat, "Regorox" contains 30% of diquat. The lethal dose of "Regorox" is 20-40ml. In addition, there are many herbicides containing two ingredients.
 
@@ -713,7 +713,7 @@ At this point, you may be wondering why the commonly heard names of potassium cy
 
 The ovaries and liver of puffer fish are highly toxic, but due to differences in the fish body and the season, the toxicity will vary to a certain extent. Even if you get it, it may not be suitable for suicide. Regarding these, drugs that are difficult to obtain and their lethal doses are tabulated at the end of this chapter. If you can get it, I hope you can use it as you see fit.
 
-## Case Study 3: A boy who died eight days after drinking paraquat
+## Case study 3: A boy who died eight days after drinking paraquat
 
 In October 1985 in Gunma County, family members returning home from an outing found a boy in the second grade of middle school (14 years old at the time) wandering around in the room holding his stomach. That morning he went out as usual, drank about 40 to 50 ml of the pesticide paraquat in the forest away from school, and then returned home. In addition to bicycles and schoolbags used for school, there were also hastily written suicide notes, traces of vomiting, medicine bottles, etc. left behind in the mountains and forests. When he was taken to the hospital, his mouth and throat were ulcerated, and his mouth bled whenever he screamed. After that, although it was quite painful, he still said "I want to eat early", "I want to read comics", "Thank you, Mom and Dad", etc. After a while, he started to say some fantasy words, "My bus has left", "The UFO is coming" and so on. Sometimes he would make such a loud noise that it would take four adults to subdue him, but he would still die eight days later.
 

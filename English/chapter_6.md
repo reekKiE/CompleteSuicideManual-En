@@ -19,7 +19,7 @@ To avoid making mistakes, I want to make it clear that it is impossible to die s
 
 If you want to use gas or propane gas, you have to be prepared to endure pain that is worse than death. You can suck the gas pipe with your mouth, fill the small room with gas, and eventually die from lack of oxygen. If you are lucky, like the 17-year-old girl, you will suffocate to death the moment the tube is opened. Having said that, some homes are equipped with safety devices that automatically stop discharging after a few hours after a large amount of gas is emitted, and there is also the risk of explosion. Therefore, it is best not to consider gas suicide at home.
 
-If you want to die from lack of oxygen, there is no need to fill the room with gas, just cover your head with a plastic bag. Although it seems a bit primitive, more than a hundred people commit suicide every year using this method. In addition to plastic bags, the effect will be better if other methods such as drugs are used to commit suicide at the same time (Case 19).
+If you want to die from lack of oxygen, there is no need to fill the room with gas, just cover your head with a plastic bag. Although it seems a bit primitive, more than a hundred people commit suicide every year using this method. In addition to plastic bags, the effect will be better if other methods such as drugs are used to commit suicide at the same time (Case study 19).
 
 Similarly, although people did not die from poisoning, there were also people who filled the room with gas and set it on fire. This method is simple and suitable for people who commit suicide impulsively. However, although bombing has the effect of killing someone on the spot, in fact there are many cases of people being burned all over their bodies and suffering pain for several days before dying again. This causes great harm to the surroundings, and there is no guarantee whether it will be completed smoothly. Sometimes it will only cause a fire. That's all, so it's not worth recommending.
 
@@ -49,7 +49,7 @@ When committing suicide in a car, carbon monoxide is lighter than air, so the ga
 
 The man introduced the gas into the car, blocked the window cracks, blocked the front window with a blanket so that no one could see inside, and then took 60 sleeping pills. He was still awake and alerted the police when he was discovered. Although he shouted "It's within my rights to die!", he was still forcibly pulled out of the car. Not all forms of suicide is a slow descent into unconsciousness.
 
-When filling a room with gas, special attention must be paid to explosions. Even the flash of a fluorescent lamp pointer can cause an explosion. If a big explosion occurs, a huge amount of compensation will have to be paid, and there are many cases where people are surrounded by gas but do not die (Case 18). Just like some people who first put up a note "Turn off the gas switch, open the doors and windows to release the gas, do not use electrical switches and matches due to the risk of explosion" to make others pay attention, and then commit suicide by gas, you must pay attention to the possibility of explosions.
+When filling a room with gas, special attention must be paid to explosions. Even the flash of a fluorescent lamp pointer can cause an explosion. If a big explosion occurs, a huge amount of compensation will have to be paid, and there are many cases where people are surrounded by gas but do not die (Case study 18). Just like some people who first put up a note "Turn off the gas switch, open the doors and windows to release the gas, do not use electrical switches and matches due to the risk of explosion" to make others pay attention, and then commit suicide by gas, you must pay attention to the possibility of explosions.
 
 When committing suicide with carbon monoxide poisoning in an apartment, also be aware of those living upstairs. In 1976, a 20-year-old woman committed suicide by burning gas in her apartment. She did not die, but a 21-year-old woman who was sleeping upstairs died of carbon monoxide poisoning. This is because carbon monoxide is lighter than air. However, the family members of the deceased pursued the management responsibility of the suicide attempter's parents, apartment landlord, police and firefighting unit, and sued the court for 20.37 million yen in compensation. Indoor gas suicide should be recognized as the easiest way to cause trouble to other people.
 
@@ -94,7 +94,7 @@ The concentration of carbon monoxide contained in car exhaust is about 0.4 to 0.
 
 Among all the corpses of suicides, people say that the corpses of gas suicides are "the most beautiful." Your body will be found stained pink because blood containing hemoglobin carbon monoxide gives the skin a pink color. Clothes may become untied during cramps, but that's okay. However, incontinence often occurs in gas suicides. In the home of a man who died from carbon monoxide poisoning in the bathroom, there was faeces in the kitchen and on the bed. Since there was no feces in the deceased's rectum, we knew it was his. At that time, carbon monoxide was accidentally produced by heating the bath water when there was no bath water. He could not hold it in the kitchen or the bed, and then he went to the bathroom and died. Generally, incontinence occurs even when someone is conscious. Anyone who wants to see a clean body must go to the toilet beforehand.
 
-## Case Study 18: Man sentenced for gas suicide attempt
+## Case study 18: Man sentenced for gas suicide attempt
 
 In April 1978, a 47-year-old unemployed man who lived in a townhouse in Fukuoka Prefecture attempted to commit suicide by using gas. At around 10 a.m., he fell into hallucinatory symptoms of stimulant poisoning. He was distressed because his mistress had left and thought of committing suicide. He pulled a rubber hose from a propane barrel outside the house to the bathroom, filling the room with gas. But he didn't die after a long time. Two hours later, when he wanted to smoke and lit a lighter, the gas exploded. The explosion caused a total of 12.4 million yen in damage to the 28 households living in the town house, and injured nine residents. He himself was hospitalized for a month to treat burns.
 
@@ -112,7 +112,7 @@ From the above examples, we can also know that the propane explosion that filled
 
 When the room was full of gas and he was about to die, he lit the lighter because he wanted to smoke. It seemed that he was a fool, but in fact there were many such ridiculous things in this world.
 
-## Case Study 19: A man who committed suicide according to a French suicide manual
+## Case study 19: A man who committed suicide according to a French suicide manual
 
 In July 1983, a strange man (46 years old at the time) wearing swimming trunks and immersed in the cold water of the bathtub, with a black plastic garbage bag on his head and a rope around his neck tied to the window sill. The body was discovered. Empty bags containing 40 tablets of the analgesic "SEDES" were found in the apartment where he died. It seems that he took the medicine and then committed suicide in this way. At the same time, I also found the instruction manual "Suicide - the most comfortable ways to die" published in Japan in the same year in the room[^suicide-mode-demploi], and clipped a tape to the reference page. On page 184, four combinations of suicide methods that can lead to euthanasia are introduced: "1. Suffocation with analgesics and plastic bags; 2. Poisoning caused by large amounts of drugs that can reach poisoning levels and car exhaust gases ; 3. Analgesics and hypothermia (long-term immersion in cold water); 4. Analgesics and drowning." He committed suicide by choosing a combination of one and three.
 
@@ -130,7 +130,7 @@ The role of suicide manuals cannot be ignored. The original book was published i
 
 What’s interesting is that he specifically put a tape on so that others could understand that he was “going to die after watching this.” There are also people in France who committed suicide by taking poison after opening the pages of the reference book. The intention of trying to attract the attention of the world through this method is very clear.
 
-## Case Study 20: The rōnin student[^ronin-student] who used a plastic bag to conduct a suicide experiment
+## Case study 20: The rōnin student[^ronin-student] who used a plastic bag to conduct a suicide experiment
 
 [^ronin-student]: In contemporary Japanese slang, a rōnin (浪人) is a student who has graduated from middle school or high school but has failed to achieve admission to a desired school or even any school at the next level, and consequently is studying outside of the school system for admission in the next year.
 

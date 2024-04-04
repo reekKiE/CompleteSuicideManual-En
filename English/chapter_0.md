@@ -12,7 +12,7 @@ Closer to home, what is needed now is a book that can make "suicide" come true.
 
 Come to think of it, I remember getting fed up with a book that came out about 10 years ago that claimed to "describe how to commit suicide" because it was just filled with nonsense. What you need to know now is simply how to commit suicide.
 
-In the United States, there is only one euthanasia device, invented by a scientist (see [Chapter 11](chapter_11.md), Case 30). This book will be the only "purely textual euthanasia device" in Japan.
+In the United States, there is only one euthanasia device, invented by a scientist (see [Chapter 11](chapter_11.md), Case study 30). This book will be the only "purely textual euthanasia device" in Japan.
 
 At this point, I really want to start the book by describing how overdose works. However, in order to clarify the answer to "Why commit suicide now?", as well as various commercial concerns,[^commercial-concerns] I have to write some miscellaneous things first.
 

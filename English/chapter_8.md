@@ -82,7 +82,7 @@ When you plunge into the sea or lakes, be sure not to be seen. Especially when j
 
 People who can swim may also commit suicide in this way, but it is undeniable that this method is more for those who cannot swim and the elderly. In fact, men in their 20s and 30s rarely commit suicide by drowning. Even if you make up your mind and jump into the water, you still have to swim a few times, and there are many cases of being rescued during the splash. People who can swim better choose other methods.
 
-## Case 22: The actress who buried her head in the toilet and drowned
+## Case study 22: The actress who buried her head in the toilet and drowned
 
 In 1944, Lupe Vélez, a has-been Hollywood star, drowned her head in the toilet.
 
@@ -96,7 +96,7 @@ Having become a corpse, she no longer looks like the screen beauty she once was,
 
 A small amount of water in the toilet can kill someone. This is an example that proves that people can drown anywhere. At the same time, this example also allows us to see a typical failure example of suicide with drugs. Even so, it seems very extreme for a depressed actress to end her life in the toilet.
 
-## Case 23 Near-death experience before drowning
+## Case study 23: Near-death experience before drowning
 
 A seventeen-year-old American girl went swimming in the lake with her brother one day. There were many young people swimming in the lake. Someone shouted: "Swim to the other side!", so everyone started to swim to the other side. The girl had made the crossing several times before, but this time she nearly drowned.
 

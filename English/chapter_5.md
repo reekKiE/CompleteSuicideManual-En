@@ -47,7 +47,7 @@ It is also more difficult for trains to stop on ordinary routes. A train traveli
 
 In terms of time, you should definitely choose night time. Neither the people around nor the driver would notice you easily.
 
-If you have difficulty entering the rail track area, you can either quickly run in from the level crossing, or jump from the pedestrian bridge. There are many cases of jumping from the level crossing. There are actually many ways to enter the track area. (See case 16)
+If you have difficulty entering the rail track area, you can either quickly run in from the level crossing, or jump from the pedestrian bridge. There are many cases of jumping from the level crossing. There are actually many ways to enter the track area. (See Case study 16)
 
 ### Instant certain death
 
@@ -75,7 +75,7 @@ Although the bodies were removed and the trains resumed running, bits and pieces
 
 ### The track and the body should be at right angles
 
-You may get unlucky, and your hands and feet are crushed but not fatally, and you may have to rely on prosthetics for the rest of your life (Case 15). To avoid this, let your neck or chest lie on the track. Sometimes the body would get caught in the middle of the track and miraculously you would only scratch the skin a little (Case 14). Therefore, making the body and the rails cross at right angles is the basic method of suicide on rails.
+You may get unlucky, and your hands and feet are crushed but not fatally, and you may have to rely on prosthetics for the rest of your life (Case study 15). To avoid this, let your neck or chest lie on the track. Sometimes the body would get caught in the middle of the track and miraculously you would only scratch the skin a little (Case study 14). Therefore, making the body and the rails cross at right angles is the basic method of suicide on rails.
 
 ### Be prepared to pay huge compensation
 
@@ -83,7 +83,7 @@ Railway suicides can result in huge compensation bills. According to statistics 
 
 From this point of view, committing suicide by lying on the train is not a cost-effective method. Still, as mentioned at the beginning, when you suddenly wants to die, this is the method that appears ready-made in front of you. If you want to die without waiting, it is of course the best solution for such impatient people. Render unto Caesar the things that are Caesar's, and unto the future the troubles that are the future's.
 
-## Case Study 14: Ms. OL, who miraculously survived under a train
+## Case study 14: Ms. OL, who miraculously survived under a train
 
 At around 5 p.m. on December 29, 1991, a 24-year-old woman, OL, attempted suicide by jumping onto a moving train on the Musashino Line from an overpass 500 meters in front of Nishi-Funabashi Station. She was a single woman, working at a computer company in Chiba City, and she was on her way home from get off work at the time. The overpass is 7 meters high. If she had fallen in just the right posture, she would have died even if there was no train passing. She jumped onto the track when the train was 10 meters away from her. Then the train passed by, and the driver also felt, "She's crushed!" The train braked immediately and stopped. She was under the 6th carriage, counting backwards from the last one. Her body happened to be sandwiched between two rails and she was not injured. The doctor diagnosed her with contusions on the head and waist that required treatment for a week. She was saved because she had a small body, her back was not hooked by the vehicle, and the train slowed down before it entered the station. Otherwise, the body will be roped into the wheels and she would be crushed to death.
 
@@ -102,7 +102,7 @@ There is a question worth thinking about, that is the day and time when she deci
 
 Regardless, she was determined to commit suicide. However, because of this unexpected situation, it is difficult to say that suicide will definitely be successful if this is done.
 
-## Case Study 15: A woman who survived a railway suicide attempt, losing one hand and two feet
+## Case study 15: A woman who survived a railway suicide attempt, losing one hand and two feet
 
 In February 1955, Ms. T attempted suicide by crashing her car, but failed. She was a 16-year-old grade-11 high school student at the time. At about ten o'clock in the evening, she rushed to the express train that had just departed from Shinjuku Station on the Odakyu Line, and "jumped off as if she was attracted by the railway" from the front of the platform. The train braked suddenly and stopped. T's right ankle, the part below the knee of his left foot, 15 cm below the shoulder of his left hand, and the ring finger and little finger of his right hand were all broken. All that is left are the thumb, index finger and middle finger of the left hand. At that time, T screamed desperately: "It's hot, it's hot!" and soon lost consciousness. She was taken to the hospital by ambulance and was in a coma for a week. When she regained consciousness and learned of her condition, it was the tenth day after the accident. T once thought in despair: "I have no choice but to die again." Later, she believed in the words of a Christian pastor and the Bible and decided to live on. She was discharged from the hospital in August and both legs were fitted with prosthetics. She married the pastor the next year, had two children, and is now engaged in speaking engagements promoting the preciousness of life.
 
@@ -110,7 +110,7 @@ In February 1955, Ms. T attempted suicide by crashing her car, but failed. She w
 
 It was her fault to collide with the train that had just started from the front of the platform, but it was probably just an accident that her neck, body and other parts that could have been fatally injured were not crushed. However, this example also shows that the faster the train, the better. However, even a train that has just started has the power to break hands and feet. This is a rare example of failed railway suicide.
 
-## Case Study 16: Woman crushed to death in Seikan Tunnel
+## Case study 16: Woman crushed to death in Seikan Tunnel
 
 In March 1991, the body of a 26-year-old woman was discovered near the Yoshioka-Kaitei Station in the Seikan Tunnel under the Tsugaru Strait that separates Honshu and Hokkaido. Both hands and legs were completely cut off above the forehead. However, Yoshioka-Kaitei Station is a disaster backup station among the two unmanned stations in the Seikan Tunnel, which is located on the side of the tunnel. The trains do not stop there, so it is not a place that ordinary people can walk into at will. How could she die in such a place?
 

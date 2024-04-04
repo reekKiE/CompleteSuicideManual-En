@@ -89,7 +89,7 @@ The second is falling headfirst to the ground. With that, skull fractures, brain
 
 Therefore, no matter which part hits the ground first, multiple body parts will be injured. Judging from those who committed suicide by jumping from buildings and cliffs, nearly 70% of the cases were injured in more than three places, including the head, abdomen, hands and feet. In short, injuries can occur anywhere in the body, but injuries to the head and chest are the most common, accounting for more than 70% of fatal injuries. The heart suffers sudden deceleration and the aorta is often ruptured. As a result, one may died from skull fractures, body contusions, visceral rupture, excessive bleeding, or other causes.
 
-There may be corpses that are so miserable that they don’t want others to see them, but once they are discovered, ambulances arrive quickly and the corpses are taken away in the blink of an eye. Judging from the condition of the buttocks on the ground, sometimes there are almost no signs of injury on the body (Case 9).[^evelyn-mchale] Therefore, committing suicide by jumping off a building is not such an ugly way to die.
+There may be corpses that are so miserable that they don’t want others to see them, but once they are discovered, ambulances arrive quickly and the corpses are taken away in the blink of an eye. Judging from the condition of the buttocks on the ground, sometimes there are almost no signs of injury on the body (Case study 9).[^evelyn-mchale] Therefore, committing suicide by jumping off a building is not such an ugly way to die.
 
 ## Note
 
@@ -107,7 +107,7 @@ A 51-year-old company director wanted to jump from the top floor of an apartment
 
 Even if you fall from up high, you may survive. Even if you fall from down low, you may die. Some fell from a height of 6 meters to the bottom of the river and died from their skulls. Others fell from a 6-meter-high pedestrian bridge onto the road and broke their heads, and died an hour and a half later. If you don’t want to fail, you should land with your head on the ground. If you fall skillfully, you will die on the spot even from a height of 5 meters. Also, although the damage to the place of landing may not kill you, death may occur due to special reasons. A 50-year-old woman fell from the fourth-floor balcony of an apartment and broke her waist in many places, but she died of systemic contusion. A man jumped from the third floor of his dormitory and died of pulmonary congestion and acute pulmonary embolism 20 days later.
 
-## Case Study 8: A college student who jumped from the 15th floor. How he felt during the jump.
+## Case study 8: A college student who jumped from the 15th floor. How he felt during the jump.
 
 In October 1986, a 21-year-old junior college student jumped from the top floor of a 15th-floor apartment in Urawa City, Saitama Prefecture. With a "pop" sound, he fell to the iron roof of the bicycle shed. He was immediately taken to the hospital but had no other injuries other than a minor injury to his left foot. The roof of the bicycle shed where he fell left a large hole in the shape of a large font.
 
@@ -121,7 +121,7 @@ There was a loud "pop" sound when he fell to the ground. So, what kind of sound 
 
 Of course, this depends on what kind of place one fell from. If the ground was concrete, the female high school student who fell from the roof of the 15th floor apartment made a "pop" sound. The man who fell from the 4th floor apartment window made a "sound like a deflating balloon." The aforementioned woman who jumped from the Shinjuku Sumitomo Building made a "pop" sound. If one falls on someone else, it will make a "sound like a ball hitting the ground and bouncing" just like the Yokohama high school student mentioned above when he fell. When Yukiko Okada fell from the roof of a 20-meter-high building, she was said to have made a loud "thud" sound, possibly because her skull hit the concrete floor violently.
 
-## Case Study 9: "Living is boring anyway" cartoonist Hanako Yamada
+## Case study 9: "Living is boring anyway" cartoonist Hanako Yamada
 
 On May 24, 1992, manga artist Hanako Yamada[^hanako] (24 years old at the time) committed suicide by jumping from the eleventh floor of an apartment near her home in Tama City, Tokyo. Because the waist was on the ground, the body was relatively complete and there was very little bleeding. Even his parents were surprised, "Is he really dead?"
 
@@ -155,7 +155,7 @@ In addition, she wrote in other magazines - "This world is inherently cruel." "D
 
 ![Figure c: Page from 嘆きの天使 (Lamenting Angel) by Hanako Yamada.](img/3_c.png)
 
-## Case Study 10: A middle school student who committed suicide by jumping off a building because of bullying
+## Case study 10: A middle school student who committed suicide by jumping off a building because of bullying
 
 On September 9, 1979, in the courtyard of an apartment in Fukuoka City, Saitama Prefecture, a first-year junior high school student (12 years old at the time) was found dead wearing a karate suit and falling into a "大" shape. At about 8 a.m. that day, he jumped from the tenth floor of an apartment about two kilometers away from his home to the concrete floor 20 meters below.
 

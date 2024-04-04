@@ -91,7 +91,7 @@ It takes two hours by Fuji Bus from Mishima Station on the JR Line to Fujiyoshid
 
 Of course, accommodation is not necessary, but I will introduce it just for backup. There are many B&Bs (bed-and-breakfast) in the south of West Lake, which are open all year round. It is the most convenient place to use them. From here, it takes about an hour by Fuji Rapid Bus to get to Fuugano Station. You can stay at the Rare Wood Museum at the entrance of the mountain trail.
 
-## Case Study 7: A man living a wandering life in a sea of ​​trees
+## Case study 7: A man living a wandering life in a sea of ​​trees
 
 There was a 21-year-old male company employee who was protected by the police after wandering in a sea of ​​trees for 16 days in November 1983.
 
@@ -103,7 +103,7 @@ The local police station and the fire brigade were entrusted by the family and m
 
 After entering protection, he said: "I will never want to commit suicide again."
 
-### Check: the case
+### Check: this example
 
 The "primeval forest of death" where there is no way to go back even if you take one step further, will lead to such an ending if you enter the route incorrectly. He probably traveled around the Red Leaf Terrace (红叶台) and Dragon Palace Cave (龙宫洞) areas between the west south road and National Highway 8. This area is a hiking route with rest areas and pastures. It’s also natural to meet people picking mushrooms. If you really want to die, this area won't work.
 

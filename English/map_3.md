@@ -6,7 +6,7 @@ Like other suicide spots that became famous, nowadays there may not be many peop
 
 ## History
 
-How did Mount Mihara on the island of Oshima, one of the Izu Islands, become a suicide spot? Not many people know about it now, and the cause can be traced back to a mysterious case 60 years ago. On February 24, 1933, two 21-year-old female students from a women's vocational school climbed to Mount Mihara. One of them said "regards to everyone" and jumped into the crater, while the other was rescued while hesitating. The two were planning to commit suicide together. This alone was enough to shock the people around them. After investigation, it was found that the female student had climbed Mount Mihara with another friend a month ago on January 9th, which also shocked the friend. She committed suicide and returned. The "death guide" incident caused a sensation in society. For unknown reasons, suiciders, mainly young men and women, flocked to Mount Mihara. Within three months, 32 suicides and 67 attempted suicides occurred, shocking all of Japan.
+How did Mount Mihara on the island of Oshima, one of the Izu Islands, become a suicide spot? Not many people know about it now, and the cause can be traced back to a mysterious Case study 60 years ago. On February 24, 1933, two 21-year-old female students from a women's vocational school climbed to Mount Mihara. One of them said "regards to everyone" and jumped into the crater, while the other was rescued while hesitating. The two were planning to commit suicide together. This alone was enough to shock the people around them. After investigation, it was found that the female student had climbed Mount Mihara with another friend a month ago on January 9th, which also shocked the friend. She committed suicide and returned. The "death guide" incident caused a sensation in society. For unknown reasons, suiciders, mainly young men and women, flocked to Mount Mihara. Within three months, 32 suicides and 67 attempted suicides occurred, shocking all of Japan.
 
 The real situation is that the girl who became the "death guide" was entrusted by someone to accompany someone to commit suicide a month ago. Then, a month later, someone accidentally confided in her the idea of ​​​​suicide, so she told them of Mount Mihara. Little did she know that person coerced her to be a guide, so she had no choice but to take her friends to the crater.
 
@@ -14,7 +14,7 @@ As a result, in this year alone, 804 men and 140 women suicided at Mount Mihara,
 
 ## How to jump in
 
-From the resting area around the crater, or the souvenir shop at the top of the mountain, walk towards the inner ring of the caldera of Mount Mihara. Around the crater, only the top of the inner ring is off-limits. You cannot peek into the crater. If you want to jump, you can only climb over the fence quickly (see Figure 1). When jumping into a volcano crater, there are many cases where you would end up smashing and getting stuck on a rock shelter halfway, or fall to the bottom of a volcano but not into the magma (Case 17). However, you can also become comatose due to inhaling toxic volcanic gases, plus the injuries sustained when it rolled and fell, death would occur within a few hours.
+From the resting area around the crater, or the souvenir shop at the top of the mountain, walk towards the inner ring of the caldera of Mount Mihara. Around the crater, only the top of the inner ring is off-limits. You cannot peek into the crater. If you want to jump, you can only climb over the fence quickly (see Figure 1). When jumping into a volcano crater, there are many cases where you would end up smashing and getting stuck on a rock shelter halfway, or fall to the bottom of a volcano but not into the magma (Case study 17). However, you can also become comatose due to inhaling toxic volcanic gases, plus the injuries sustained when it rolled and fell, death would occur within a few hours.
 
 Although it is not related to Mount Mihara, a young man followed Osamu Dazai in 1948 and left a suicide note "Take me with you" and threw himself into Mount Aso. He fell onto a rock 150 meters high, and was finally pulled up. In fact, according to survey data, 240 meters down from Aso Pass, the temperature of the rock is 100 degrees and the temperature of the air is 65.6 degrees.
 
@@ -26,7 +26,7 @@ There are boats to Oshima from Tokyo, Yokohama, Atami, and Ito, and direct fligh
 
 There's accommodation at the Oshima Hot Spring Hotel in the eighth section of Mount Mihara. There are also large and small hotels in Motomachi and Okada at the port, as well as farmer's inns. It is not a bad idea to stay for a few days before committing suicide.
 
-# Case Study 17: Man who climbed up the wall of Mount Mihara caldera
+# Case study 17: Man who climbed up the wall of Mount Mihara caldera
 
 At about 01:00 pm on December 3, 1956, a young man (29 years old) and a woman (26 years old) jumped from Mount Mihara into a volcano about 60 meters deep. Mount Mihara had a large-scale erruption during January of that year. When the two jumped in, one could still see the new crater caused by the magma eruption.
 

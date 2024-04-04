@@ -75,7 +75,7 @@ There was an American acrobat who imitated hanging in front of the audience. His
 
 This means that in just ten minutes, if no one detects it, your suicide will be successful and painless. There is probably no more suitable way to commit suicide than this!
 
-## Appearance: Is a hanged corpse unclean?
+## Corpse appearance: Is it unclean?
 
 The disadvantage of hanging that people often mention is that the corpse looks bad. Incontinence and ejaculation do occur. Some people say that because the throat is strangled upward, the tongue will stick out, the face will turn purple due to congestion, and the eyeballs will protrude. However, there are not many horrific examples of this. The eyeballs will not protrude until several days after death, and the tongue will not stick out even if it touches the teeth. That is to say, the condition of the corpse is usually not like this.
 
@@ -102,7 +102,7 @@ Regarding hanging, it should also be mentioned that due to the formation of a hy
 [^cns-regeneration]:
     Unlike peripheral nervous system injury, injury to the central nervous system is not followed by extensive regeneration. It is limited by the inhibitory influences of the glial and extracellular environment. The environment within the CNS, especially following trauma, counteracts the repair of myelin and neurons.
 
-## Case Study 4: Tragedy of attempted hanging -- Frank Nagai
+## Case study 4: Tragedy of attempted hanging -- Frank Nagai
 
 In October 1985, singer Frank Nagai (フランク 永井) (53 years old at the time) returned home from a performance at around 10 in the evening. He drank a little beer with his wife and went to bed around 10:30. But in the middle of the night, after walking out of the bedroom, he did not come back for a long time. When his wife came out to search, she found that he was hanging with four or five ties on the handrail of the spiral staircase between the first and second floors. It was around 3 in the morning. When the ambulance arrived, Nagai had no breathing or pulse and fell unconscious. When he was sent to the hospital, his pupils were dilated and he was in a state of "imminent brain death". But after four or five days, he miraculously regained consciousness. After a month, he could speak a few words, and when he saw the title of the song "君恋し", he could still recognize the character "君". Later, he could write "Nagai" (永井) from his name. Later, he was hospitalized and discharged several times. He is now able to do some walking and sing familiar songs on karaoke, which shows further recovery. Despite this, he could not recognize his wife and friends who came to visit him, and he was in a state of Alzheimer's disease. In 1989, he became a *kinchisansha*, a legally incompetent person who was not allowed to handle his own affairs[^kinchisansha].
 
@@ -126,7 +126,7 @@ This is probably the only case of attempted hanging that is publicly sensational
 
 According to his own account, he lost consciousness in an instant (at the usual level), and his vision turns red and then black. The wonderful experiences that follow can be called "near-death experiences". It is said that many people who are on the verge of death have experienced them.
 
-## Case Study 5: Hanging at a height of 91 centimeters -- Tsuneo Mori, Chairman of the Central Committee of the New Party of the United Red Army[^long-title]
+## Case study 5: Hanging at a height of 91 centimeters -- Tsuneo Mori, Chairman of the Central Committee of the New Party of the United Red Army[^long-title]
 
 [^long-title]:
     Apologies for the ridiculously long title, but communists have a tendency to create very long titles, especially with their tendency to split groups into subgroups.
@@ -159,7 +159,7 @@ He was a small man, with 163 cm and 54 kg. The towel he uses is 60 cm, which is 
 
 However, even though it happened twenty years ago, the Red Army cadres believing that they could start a communist revolution is a far crazier thing than their killing of twelve of their own members.
 
-## Case Study 6: Woman rescued from hanging in psychiatric hospital
+## Case study 6: Woman rescued from hanging in psychiatric hospital
 
 May 17, 1982, 4:45 pm. In a mental hospital, a woman who was hospitalized fell into a state of excitement and shouted, "Kill me!" and was sent to the protection room. Forty minutes later, at 5:25, she climbed onto the window pane covered with several quilts and hung herself with a towel. When she was discovered, her breathing and heart had stopped. She was rescued and given artificial respiration and cardiotonic drugs. Five minutes later, spontaneous respiration and a weak pulse appeared. Despite this, she was unconscious for two whole days, and finally responded to the stimulation on the third day. She regained consciousness on the fourth day, could eat and drink fluids after a week, started "self-recovery training" on the second week, and was able to live in a group life with other patients after another two weeks. However, her memory has declined, lost her former enthusiasm. She always hid behind others, and became more dependent on her caregiver.
 

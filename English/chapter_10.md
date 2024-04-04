@@ -57,7 +57,7 @@ Based on the above reports, it can be said that, like committing suicide by jump
 
 Bodies that freeze to death in snowy mountains are the same as those that commit suicide by gas. They are sometimes described as "the most beautiful way to die", but this varies depending on the time of discovery. If the body is frozen and preserved due to snow, the skin will appear translucent white, due to the total contraction of capillaries near the body surface. However, when the spring snow melts, the corpse will rot. The livor mortis are red, because oxygen combines with hemoglobin in the blood to turn into pink oxidized hemoglobin.
 
-In places such as snow-capped mountains, sometimes the tips of the hands and toes may have edema due to frostbite. Occasionally, a person may become insane and take off their clothes and be discovered as a naked corpse. There are also many corpses torn apart by wild animals (Case 26). So in this way, it cannot be said to be very beautiful.
+In places such as snow-capped mountains, sometimes the tips of the hands and toes may have edema due to frostbite. Occasionally, a person may become insane and take off their clothes and be discovered as a naked corpse. There are also many corpses torn apart by wild animals (Case study 26). So in this way, it cannot be said to be very beautiful.
 
 ## Note: You might be found
 
@@ -67,7 +67,7 @@ In addition, in the case of suicide in the snowy mountains, huge search costs wi
 
 If you really want to commit suicide, it is better to go to the snowy mountains. To freeze to death in a room or on the roadside is quite difficult, requiring all the right conditions to be in place, and it must be difficult for you to be discovered.
 
-## Case Study 26: Female playwright who froze to death in snowy mountains
+## Case study 26: Female playwright who froze to death in snowy mountains
 
 In June 1981, the skeletal body of a woman was discovered at the 5th station of Mount Kurodake in Daisetsuzan Mountains, Ishikari Mountains, central Hokkaido. The location was in a primeval forest about 300 meters above the mountain. This female writer was Keiko Sugie (杉江慧子) (47 years old at the time) who had participated in the production of "Seven Detectives" [^shichinin].
 

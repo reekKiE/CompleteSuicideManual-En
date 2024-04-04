@@ -48,7 +48,7 @@ There are also many people who pour gasoline indoors and burn the entire house d
 
 ## The process: A three-meter-high pillar of fire emerges
 
-The flames is much stronger than one imagines. Once gasoline or kerosene is ignited, it will make a sound and suddenly burst into flames two to three meters high. The body shrouded in flames will experience severe pain and burning sensation, and will roll on the ground because it is unbearable. There will be a stink of burning human flesh all around. But generally the perception is still clear. The trachea was burned due to inhalation of hot air, but the sound could still come out. After the clothes were completely burned, the fire was extinguished, but some people could still stand there on their own and continue to shout (Case 24).
+The flames is much stronger than one imagines. Once gasoline or kerosene is ignited, it will make a sound and suddenly burst into flames two to three meters high. The body shrouded in flames will experience severe pain and burning sensation, and will roll on the ground because it is unbearable. There will be a stink of burning human flesh all around. But generally the perception is still clear. The trachea was burned due to inhalation of hot air, but the sound could still come out. After the clothes were completely burned, the fire was extinguished, but some people could still stand there on their own and continue to shout (Case study 24).
 
 After the fire is out, if more than one-third of the skin is necrotic, nearly half of the people will die. If more than two-thirds of the skin is necrotic, almost all people will die without exception. The time of death varies. If the skin of the whole body is burned as black as charcoal, the person will die on the spot. After the fire is extinguished, they will be taken to the hospital in an ambulance. The body cannot move, so they will greet the arrival of death in pain. . Some finally breathed their last after half a day or one day, or even five or ten days. An 82-year-old American woman who set herself on fire while shouting "against the Vietnam War" lived consciously for ten days. Her problem was probably caused by alcohol-based detergent that didn't burn well.
 
@@ -70,7 +70,7 @@ A man killed a woman who cheated on him (24 years old, ran to the top of the ten
 
 All in all, self-immolation is painful. But remember, death won't happen immediately. Everyone has their own preferred method of death. If one wants to die quietly, I would suggest another method. However, if you think you have lived as a nobody but want to die as somebody, then that's up to you.
 
-## Case Study 24: Korean youth who set himself on fire to demand better working conditions
+## Case study 24: Korean youth who set himself on fire to demand better working conditions
 
 In November 1970, Jeon Tae-il (전태일), a young tailor (then 22 years old) who was working under poor working conditions, set himself on fire in Seoul Peace Market (서울평화시장; Seoul Pyeonghwa Sijang), demanding better working conditions.
 
@@ -84,7 +84,7 @@ Although the fire was extinguished three minutes after losing consciousness, and
 
 This can be said to be the most effective example of self-immolation and suicide. His suicide did have a great effect, and it fulfilled his wish for him who died.
 
-## Case Study 25: A middle school girl who burned herself because of incest
+## Case study 25: A middle school girl who burned herself because of incest
 
 A twelve-year-old middle school girl committed suicide by setting herself on fire in the yard of her uncle's house.
 Her parents divorced shortly after she was born and she lost her mother. She was raised by her grandmother. Due to her father's work, she transferred to elementary school and middle school twice. She grew up in a very complicated family environment. The reason her parents divorced was because her mother had a sexual relationship with her uncle.

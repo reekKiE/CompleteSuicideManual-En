@@ -8,7 +8,7 @@ Movies and TV often show scenes of pointing a gun between the eyebrows or temple
 
 In this chapter, let's learn about these other methods of suicide based on case studies.
 
-## Case Study 27: Sisters who starved to death in Toei apartment complex, Adachi Ward, Tokyo
+## Case study 27: Sisters who starved to death in Toei apartment complex, Adachi Ward, Tokyo
 
 | | |
 | --- | --- |
@@ -53,7 +53,7 @@ Her life seemed to be at a crossroads of whether to commit suicide or not. Of co
 
 Some people say starvation is the best way to commit suicide. "Compared with other suicide methods, starving to death requires a lot of patience and perseverance. Even if you suddenly don't want to die, there will be no sequelae and you can recover quickly." We don't know if this is the case, though we can guess that the person who said this must have had some experience with this.
 
-## Case Study 28: Man who committed suicide in the quicksand of Tottori Sand Dunes
+## Case study 28: Man who committed suicide in the quicksand of Tottori Sand Dunes
 
 | | |
 | --- | --- |
@@ -78,7 +78,7 @@ This is a thorough example of someone determined to erase himself from society.
 
 Tottori Sand Dunes is a secret place in Japan that is as famous as the Aokigahara, but committing suicide by burying yourself alive in the quicksand of suffocation is extremely painful. Undiscovered for fourteen years, his goal can be said to have been achieved, but it is not a recommended method. Because there are still many ways to commit suicide without the body being discoverable.
 
-## Case Study 29: Woman mauled to death by bear cubs
+## Case study 29: Woman mauled to death by bear cubs
 
 | | |
 | --- | --- |
@@ -108,7 +108,7 @@ Some people said that this woman had said before, "I want to be eaten by a tiger
 
 Committing suicide by being eaten by animals is an unexpected method. However, the motivation is a bit religious, and the way of death is too unrealistic, so it cannot be used as a reference for suicide methods. Moreover, this method is very painful, the corpse is horrible, and the reliability of death is not high, so I don't want to advise people to use it.
 
-## Case Study 30: American woman who died using a suicide device
+## Case study 30: American woman who died using a suicide device
 
 | | |
 | --- | --- |
@@ -137,7 +137,7 @@ Japan also has a Japan Death with Dignity Association (日本尊厳死協会), b
 
 The contact address for the Japan Death with Dignity Association is as follows: 2nd Floor, Watanabe Building, 2-29-1 Hongo, Kyoto-dori, Tokyo, Postal Code: 113, Tel: 03-3818-6563.
 
-## Case Study 31: A man who committed suicide by gas poisoning in an attempt to defraud life insurance money
+## Case study 31: A man who committed suicide by gas poisoning in an attempt to defraud life insurance money
 
 In October 1971, a 56-year-old man was found to have committed suicide by gas poisoning in a room of an apartment.
 

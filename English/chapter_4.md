@@ -135,7 +135,7 @@ Whether cutting the wrist or carotid artery, a sharp knife is enough. Kitchen kn
 
 ![Figure 2](img/4_2.png)
 
-As long as the carotid artery is cut, it will die immediately, so there is no need to worry about what happens after the attempt. However, this is also a case of real severance. </p><p>When cutting the carotid artery, the easiest thing to cut is the external carotid artery under the ear on the side of the hand that is usually more flexible. You may wish to check the location by comparing pictures 2 and 3. The carotid artery is located at the height of the neck and is divided into the internal carotid artery and the external carotid artery. The blood vessels near the shoulders are thicker and deeper. The depth below the ear is more than three centimeters, and there are a lot of thick muscles around it, making it difficult to cut. In this case, don't make a horizontal cut, but stab it through ruthlessly and then pull it out. Sometimes the cut was not done smoothly and several cuts were required (Case 11), but there were also cases where a person carrying a rice bowl fell, and the broken pieces of the bowl cut the carotid artery, killing the person instantly. It is also very difficult to cut the carotid artery, but the above-mentioned cases are not unprecedented. </p>
+As long as the carotid artery is cut, it will die immediately, so there is no need to worry about what happens after the attempt. However, this is also a case of real severance. </p><p>When cutting the carotid artery, the easiest thing to cut is the external carotid artery under the ear on the side of the hand that is usually more flexible. You may wish to check the location by comparing pictures 2 and 3. The carotid artery is located at the height of the neck and is divided into the internal carotid artery and the external carotid artery. The blood vessels near the shoulders are thicker and deeper. The depth below the ear is more than three centimeters, and there are a lot of thick muscles around it, making it difficult to cut. In this case, don't make a horizontal cut, but stab it through ruthlessly and then pull it out. Sometimes the cut was not done smoothly and several cuts were required (Case study 11), but there were also cases where a person carrying a rice bowl fell, and the broken pieces of the bowl cut the carotid artery, killing the person instantly. It is also very difficult to cut the carotid artery, but the above-mentioned cases are not unprecedented. </p>
 
 #### Other places -- the heart is located closer to the center than generally imagined
 
@@ -190,13 +190,13 @@ When blood flows out slowly, other internal organs that are not directly related
 
 ### Cost of a suicide gesture
 
-When you first think of wristcutting and the consequences of a failed attempt, you'd be worried about the scars. When only the vein was cut, even if it is very deep, it would heal to just a white mark, which looked similar to a wrinkle on the wrist. But if you cut the artery, you will also cut the tendons on the next layer and the median nerve in the center of the wrist on the same layer. Although the tendons and nerves are severed, they could be reconnected through surgery (Case 12). However, if one makes a longitudinal cut, the stitches and scars after surgery will be conspicuous. Plastic surgery can help, but medical expenses can range from tens to hundreds of thousands of yen.
+When you first think of wristcutting and the consequences of a failed attempt, you'd be worried about the scars. When only the vein was cut, even if it is very deep, it would heal to just a white mark, which looked similar to a wrinkle on the wrist. But if you cut the artery, you will also cut the tendons on the next layer and the median nerve in the center of the wrist on the same layer. Although the tendons and nerves are severed, they could be reconnected through surgery (Case study 12). However, if one makes a longitudinal cut, the stitches and scars after surgery will be conspicuous. Plastic surgery can help, but medical expenses can range from tens to hundreds of thousands of yen.
 
 The cost of suturing the wrist vein is about 30,000 yen, which covers 30% of the medical insurance. As a price for a suicide gesture, it is relatively cheap.[^price-of-wristcutting]
 
 [^price-of-wristcutting]: Since the price of 30,000 yen is for an action with a 5% chance of death, we can infer that this gives the price of a life to be about 1.5 million yen... which is much lower than the commonly accepted figure of 150 million yen for the price of a statistical life.
 
-## Case Study 11: Thoughts of a female high school student who had her arteries and nerves cut off
+## Case study 11: Thoughts of a female high school student who had her arteries and nerves cut off
 
 In 1985, a sixteen-year-old female high school student slashed her wrists with a knife. The wound damaged an artery and produced a liter of blood, but the attempt ended in failure. She said this about the situation at that time: "It was painful after all, and a lot of blood flowed, but she was still awake, so she cut several more times. It hurt! When the thick blood vessels were cut, blood spurted out. When it came out, there was a hissing sound. I thought I would die like this, but it still didn't work, so I cut it again. It seemed like I had cut a nerve and I felt numb. I was taken to the hospital. When I was undergoing treatment, I thought it would be better to give me an injection of anesthesia, because I am already averse to pain."
 
@@ -206,11 +206,11 @@ The situation under she decided to commit suicide was described thus: "After din
 
 As a result, she stayed in the psychiatric ward for four months and was finally discharged after undergoing physical and mental recuperation.
 
-### Check: the case
+### Check: this example
 
 It seemed that she had cut the arteries and central nerves in her hand. It was very painful to cut to this extent. Her idea that "pain will be nothing if you die" is very insightful.
 
-## Case Study 12: Akina Nakamori, a rare suicide attempter who cut the inside of her elbow
+## Case study 12: Akina Nakamori, a rare suicide attempter who cut the inside of her elbow
 
 
 ![Figure 4](img/4_4.png)
@@ -225,7 +225,7 @@ This is an example of a suicide attempt by cutting the blood vessels on the insi
 
 The median nerve, which controls the movement and sensation of the hand, is about one centimeter below the skin (see Figure 4). There is also a thick artery nearby, also one centimeter below the skin. It is the perfect place for suicide. It's a miracle that she didn't cut into this artery. Some doctors said: "It probably was not being cut longitudinally?" However, it is generally believed that the opening is only two centimeters deep, and it is not actually cut to two centimeters. Two centimeters, that's deep enough to reach the bone.
 
-## Case Study 13: Mitsutaka Shimada, the Nisshō Iwai executive, who survived even stabbing himself all over
+## Case study 13: Mitsutaka Shimada, the Nisshō Iwai executive, who survived even stabbing himself all over
 
 The body of Mr. Mitsutaka Shimada (then 56 years old) was found on a February morning in 1979, under the building of the trading company Nisshō Iwai, of which he was an executive. The so-called Douglas--Grumman bribery scandal was a case that, along with the Lockheed bribery scandals, involved the political and financial circles of Japan and became a hot topic at the time.
 

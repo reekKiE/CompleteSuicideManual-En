@@ -53,7 +53,7 @@ The target is the heart. If you really want to die, other parts won't work. Be s
 
 Even when the person is dead, there would still be an electric current in the body. There is a risk of someone coming over to touch the body and getting an electric shock, so be careful, but there is nothing a suicide can do about this. If you don't want to cause trouble to others, then put a note saying "Don't touch, it's dangerous!"
 
-## Case 21: Electrocution in the restroom of a racecourse
+## Case study 21: Electrocution in the restroom of a racecourse
 
 At six o'clock in the afternoon on an April day in 1981, the body of a man about 50 years old, 160 cm tall, and with an athlete's hairstyle was found at the Nakayama Racecourse in Funabashi, two hours after the end of the last race of the day. He had connected the wire to the ventilation fan in the toilet and taped the other end to his chest. He was electrocuted and died. His body was already in rigor mortis when he was found. The deceased was wearing a new three-piece suit, a freshly starched blue straight shirt, a blue tie with white spots, a straw-yellow windbreaker, and short black leather boots. He was quite neat. He only had 8,350 yen in cash, short HOPE cigarettes, a 100-yen lighter, and a horse racing newspaper with a suicide note, but the identity of the deceased was never revealed.
 
