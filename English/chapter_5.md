@@ -6,10 +6,10 @@
 | --- | --- |
 | Pain | ▼▼▼▽▽ |
 | Trouble | ▼▽▽▽▽ |
-| Death | ▼▼▼▼▼ |
-| Implicated | ▼▼▼▼▼ |
+| Ugliness | ▼▼▼▼▼ |
+| Ripple | ▼▼▼▼▼ |
 | Impact | ▼▼▼▼▽ |
-|Lethality | ▼▼▼▼▼ |
+| Lethality | ▼▼▼▼▼ |
 
 The corpses will be bruised and bloody; the suspension of electric trains will cause great obstruction. However, this method can indeed lead to death when one is determined to die, so it is becoming more and more popular.
 

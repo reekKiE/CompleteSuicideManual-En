@@ -6,10 +6,15 @@
 | --- | --- |
 | Pain | －－－－－ |
 | Trouble | ▼▼▼▼▼ |
-| Appearance | ▼▽▽▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Shock | ▼▽▽▽▽ |
+| Ugliness | ▼▽▽▽▽ |
+| Ripple[^ripple] | ▼▽▽▽▽ |
+| Impact[^impact] | ▼▽▽▽▽ |
 | Lethality | ▼▽▽▽▽ |
+
+[^ripple]: 迷惑, how annoying it would be for other people to clean up if you die by this method.
+
+[^impact]: インパクト, which literally means "impact". However, I couldn't figure out what it is supposed to mean. Does it mean "the visual impact of the corpse appearance on others"? But then, why do we have a separate category for "Ugliness" and "Impact"? For most methods, these two rows are pretty much the same, except  drowning which has "Ugliness" 4/5, but "Impact" 1/5. It is hard to understand.
+
 
 If you can manage it, overdose is the best way to commit suicide. However, there are so many cases of failures, and excessive preparation time is a major problem. The degree of pain varies depending on the drug.
 
@@ -462,7 +467,7 @@ However, for people who have become accustomed to it, even taking 0.5 to 1g a da
 
 According to a 1984 survey conducted by American Women's Magazine, one-third of women under the age of 25 have used cocaine. This is an American narcotic drug in which interest is still on the rise. There have been no reports of deaths from cocaine. The lethal dose is much higher than that of other recreational drugs, making it less suitable for suicide.
 
-It has a stimulating effect on the central nervous system and makes breathing deeper. Its pharmacological effects are considered to be roughly the same as stimulants. Usually the powder is inhaled through the nose, but the effect is much greater when given intravenously. It is said that, in general, for acute poisoning, death will occur within three hours after use. The state of consciousness in the near-death state is the same as that of drugs other than hallucinogens. Even if you have a slight headache, you are conscious and will think calmly, "This is not good" and "I can't die like this." Regular users will not die even if they take 1.5 to 2 g per day.
+It has a stimulating effect on the central nervous system and makes breathing deeper. Its pharmacological effects are considered to be roughly the same as stimulants. Usually the powder is inhaled through the nose, but the effect is much greater when given intravenously. It is said that, in general, for acute poisoning, death will occur within three hours after use. The state of consciousness in the near-Ugliness is the same as that of drugs other than hallucinogens. Even if you have a slight headache, you are conscious and will think calmly, "This is not good" and "I can't die like this." Regular users will not die even if they take 1.5 to 2 g per day.
 
 Cocaine is the main component of coca tree leaves. If you want to buy it overseas, you should buy it in Colombia, the country of origin.
 

@@ -6,10 +6,10 @@
 | --- | --- |
 | Pain | ▼▽▽▽▽ |
 | Trouble | ▼▼▽▽▽ |
-| Death state | ▼▼▼▽▽ |
-| Implicated | ▼▽▽▽▽ |
+| Ugliness | ▼▼▼▽▽ |
+| Ripple | ▼▽▽▽▽ |
 | Impact | ▼▼▽▽▽ |
-|Lethality | ▼▼▼▼▼ |
+| Lethality | ▼▼▼▼▼ |
 
 The triple benefits of certainty, simplicity, and painlessness is overwhelmingly loved by men, women, and children alike, and can be called the "Monarch of Suicide".
 

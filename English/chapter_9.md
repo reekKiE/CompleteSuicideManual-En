@@ -7,8 +7,8 @@
 | --- | --- |
 | Pain | ▼▼▼▼▼ |
 | Trouble | ▼▼▼▽▽ |
-| Death state | ▼▼▼▼▽ |
-| Implicated | ▼▼▽▽▽ |
+| Ugliness | ▼▼▼▼▽ |
+| Ripple | ▼▼▽▽▽ |
 | Impact | ▼▼▼▼▼ |
 | Lethality | ▼▼▼▼▼ |
 
@@ -64,7 +64,7 @@ Pouring more than five liters of gasoline and lighting it on fire. When no one p
 
 The most terrifying thing is to leave a life behind, but continue to live with burn marks on the face or body.
 
-A woman poured kerosene all over her body and lit a match but failed to commit suicide. After three years of living in a hospital bed, her body was covered with keloids. Even though she underwent five plastic surgeries, the keloids were not eliminated. She had no lips and could not open her mouth wide. Moreover, compared with other methods, where people who have attempted suicide would attempt again, self-immolation suicide attempters typically do not attempt suicide again. The may be because they have recovered from the near-death state by using extreme methods and have gained emotional balance. Still, the skin transplantation will cost a huge amount of money. In order not to get to this point, pour at least five liters of gasoline. If someone comes to put out the fire, shout: "Don't come close!" Even so, if you are still worried about the attempt, you can use it together with other methods.
+A woman poured kerosene all over her body and lit a match but failed to commit suicide. After three years of living in a hospital bed, her body was covered with keloids. Even though she underwent five plastic surgeries, the keloids were not eliminated. She had no lips and could not open her mouth wide. Moreover, compared with other methods, where people who have attempted suicide would attempt again, self-immolation suicide attempters typically do not attempt suicide again. The may be because they have recovered from the near-Ugliness by using extreme methods and have gained emotional balance. Still, the skin transplantation will cost a huge amount of money. In order not to get to this point, pour at least five liters of gasoline. If someone comes to put out the fire, shout: "Don't come close!" Even so, if you are still worried about the attempt, you can use it together with other methods.
 
 A man killed a woman who cheated on him (24 years old, ran to the top of the tenth floor of his alma mater university, doused himself with gasoline and jumped off the building. However, there is absolutely no need to try this hard. Self-immolation is already a very lethal method.
 

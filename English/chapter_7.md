@@ -4,8 +4,8 @@
 | --- | --- |
 | Pain | ▼▼▼▽▽ |
 | Trouble | ▼▼▼▼▽ |
-| Death state | ▼▽▽▽▽ |
-| Implicated | ▼▽▽▽▽ |
+| Ugliness | ▼▽▽▽▽ |
+| Ripple | ▼▽▽▽▽ |
 | Impact | ▼▽▽▽▽ |
 | Lethality | ▼▽▽▽▽ |
 

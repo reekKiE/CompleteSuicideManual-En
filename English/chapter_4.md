@@ -18,11 +18,11 @@
             <td>▼▽▽▽▽</td>
         </tr>
         <tr>
-            <td>Death condition</td>
+            <td>Ugliness</td>
             <td>▼▽▽▽▽</td>
         </tr>
         <tr>
-            <td>Implicated</td>
+            <td>Ripple</td>
             <td>▼▼▽▽▽</td>
         </tr>
         <tr>
@@ -54,11 +54,11 @@ Although I have dismissed wristcutting as good for nothing except a mere taste o
             <td>▼▽▽▽▽</td>
         </tr>
         <tr>
-            <td>Death condition</td>
+            <td>Ugliness</td>
             <td>▼▼▼▽▽</td>
         </tr>
         <tr>
-            <td>Implicated</td>
+            <td>Ripple</td>
             <td>▼▼▼▼▽</td>
         </tr>
         <tr>
@@ -90,11 +90,11 @@ Want to know what it's like to have your own blood fountaining all the way to th
             <td>▼▼▽▽▽</td>
         </tr>
         <tr>
-            <td>Death condition</td>
+            <td>Ugliness</td>
             <td>▼▼▼▼▽</td>
         </tr>
         <tr>
-            <td>Implicated</td>
+            <td>Ripple</td>
             <td>▼▼▼▼▽</td>
         </tr>
         <tr>

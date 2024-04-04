@@ -14,8 +14,8 @@ In this chapter, let's learn about these other methods of suicide based on case 
 | --- | --- |
 | Pain | ▼▼▼▼▽ |
 | Trouble | ▼▽▽▽▽ |
-| Death state | ▼▼▼▽▽ |
-| Implicated | ▼▽▽▽▽ |
+| Ugliness | ▼▼▼▽▽ |
+| Ripple | ▼▽▽▽▽ |
 | Impact | ▼▼▽▽▽ |
 | Lethality | ▼▽▽▽▽ |
 
@@ -59,8 +59,8 @@ Some people say starvation is the best way to commit suicide. "Compared with oth
 | --- | --- |
 | Pain | ▼▼▼▼▽ |
 | Trouble | ▼▼▼▼▼ |
-| Death state | ▼▼▽▽▽ |
-| Implicated | ▼▽▽▽▽ |
+| Ugliness | ▼▼▽▽▽ |
+| Ripple | ▼▽▽▽▽ |
 | Impact | ▼▼▼▽▽ |
 | Lethality | ▼▼▼▽▽ |
 
@@ -84,8 +84,8 @@ Tottori Sand Dunes is a secret place in Japan that is as famous as the Aokigahar
 | --- | --- |
 | Pain | ▼▼▼▼▽ |
 | Trouble | ▼▼▽▽▽ |
-| Death state | ▼▼▼▼▽ |
-| Implicated | ▼▼▽▽▽ |
+| Ugliness | ▼▼▼▼▽ |
+| Ripple | ▼▼▽▽▽ |
 | Impact | ▼▼▼▼▽ |
 | Lethality | ▼▼▼▼▽ |
 
@@ -114,12 +114,12 @@ Committing suicide by being eaten by animals is an unexpected method. However, t
 | --- | --- |
 | Pain | ▼▽▽▽▽ |
 | Trouble | ▼▼▼▼▼ |
-| Death state | ▼▽▽▽▽ |
-| Implicated | ▼▽▽▽▽ |
+| Ugliness | ▼▽▽▽▽ |
+| Ripple | ▼▽▽▽▽ |
 | Impact | ▼▼▼▽▽ |
-|Lethality | ▼▼▼▼▼ |
+| Lethality | ▼▼▼▼▼ |
 
-American pathologist Dr. Jack Kevorkian is famous for developing a unique suicide device "Thanatron". This device is a 30-centimeter-high design that contains physiological saline solution, Pentothal, and potassium chloride in three bottles that are hung upside down. Pentoza is an anesthetic used during surgery, and potassium chloride is a powerful drug used in poisoning and execution. Its structure is that after the suicide volunteer presses the button, the timer starts, and the saline water automatically changes to Pentox. One minute later, the potassium chloride begins to flow into the body.
+American pathologist Dr. Jack Kevorkian is famous for developing a unique suicide device "Thanatron". This device is a 30-centimeter-high design that contains physiological saline solution, Pentothal, and potassium chloride in three bottles that are hung upside down. Pentothal is an anesthetic used during surgery, and potassium chloride is a powerful drug used in poisoning and execution. Its structure is that after the suicide volunteer presses the button, the timer starts, and the saline water automatically changes to Pentothal. One minute later, the potassium chloride begins to flow into the body.
 
 The person who committed suicide using this device in June 1990 was American housewife Janet Adkins (54 years old at the time). When she was diagnosed with Alzheimer's disease in 1989 and planned to commit suicide, she heard about Dr. Kevorkian's suicide device and got in touch. Dr. Kevorkian prepared a white German Volkswagen van and searched for a campground suitable for suicide. In June 1990, she and the doctor got into a car and drove to the park. She hid behind the car. The doctor first inserted the needle into the vein and injected the salt solution. When the doctor adjusted the flow, Janet pressed the button. The injection solution changed to Pentothal, and she fell asleep twenty seconds later, and then Pentothal was switched to potassium chloride. After forty seconds, her face turned red, and after another thirty seconds, it turned blue, and soon red spots appear. The electrocardiogram had completely become a straight line after five minutes and thirty seconds. In fact, her heart had stopped beating before that.
 
