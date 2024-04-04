@@ -11,7 +11,7 @@
 * [Map 3: Mount Mihara](map_3.md)
 * [Chapter 6: Gas-poisoning](chapter_6.md)
 * [Chapter 7: Electrocuting](chapter_7.md)
-* [Map 4](map_4.md)
+* [Map 4: Kumatori serial suicide case](map_4.md)
 * [Chapter 8: Drowning](chapter_8.md)
 * [Chapter 9: Self-immolation](chapter_9.md)
 * [Chapter 10: Freezing](chapter_10.md)
