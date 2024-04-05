@@ -31,7 +31,7 @@ The most striking difference between men and women is that women often commit su
 
 There are only about 100 to 200 suicides by suffocating with plastic bags every year, but most of them are done by women. The reason is completely unclear. As mentioned in the text, men commit suicide by electrocution in surprisingly many ways. There are only over a hundred electrocution suicides every year, of which only a dozen are female suicides each year, while men never account for less than 90% of the total. This is also an unsolved mystery among experts. Of course, some people say that the woman lacked knowledge about electricity, but the reason is not clear.
 
-### Jumping off buildings is very popular with teenage females
+## Jumping off buildings is very popular with teenage females
 
 No matter which age group, hanging is definitely the majority, but the majority are women in their teens and twenties. Since 1986, jumping from a building has exceeded hanging. Especially among teenagers, in 1990 there were 74 people who jumped from buildings and 31 people who hanged themselves. In 1986, the number was 162 to 78, a ratio of over 2:1. In 1985, only 52 teenage girls committed suicide by jumping from buildings. It goes without saying that this was due to the influence of Yukiko Okada, who committed suicide by jumping off a building. Her influence on the history of suicide in Japan is immeasurable.
 

@@ -1,6 +1,5 @@
 # 9. Self-immolation
 
-
 ![](img/9_0.png)
 
 | | |
@@ -40,7 +39,7 @@ There is nothing better than using self-immolation to express strong will and de
 
 Some people may think that not too many people commit suicide by self-immolation, but the number is increasing every year. Currently, there are about 700 people a year, which is much more than committing suicide by electrocution. According to current medical diagnosis standards, one-third of all suicides are considered to be mentally ill in the "narrow sense", and the majority of those who attempt self-immolation are considered to be mentally ill.
 
-### Preparation: Five liters should be enough
+## Preparation: Five liters should be enough
 
 Needless to say, this method requires gasoline or kerosene, but how many liters?
 

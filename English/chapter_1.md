@@ -81,7 +81,7 @@ The drugs sold over-the-counter are typically not very toxic. Professional books
 
 Translator's note: The letters appearing in the tables, such as `(A)`, are citation keys. I did not translate those, but here is the citations page.
 
-![](img/citations_drug%20dosage.png)
+![](img/citations_drug_dosage.png)
 
 \]
 
@@ -89,7 +89,7 @@ Translator's note: The letters appearing in the tables, such as `(A)`, are citat
 
 #### Risuron S (リスロンS)
 
-![](img/1_risuron%20s.png)
+![](img/1_risuron_s.png)
 
 | Product Name | Standard name | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -113,7 +113,7 @@ The instruction manual for "Risuron S" says that it is "a drug that has a sedati
 
 #### Atarax-P (アタラックスP)
 
-![](img/1_atarax%20p.png)
+![](img/1_atarax_p.png)
 
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -133,7 +133,7 @@ However, a 40-year-old woman who took 100 tablets of Atarax-P and drank a bottle
 
 #### Paburon-S (パブロンS), Aneton (アネトン)
 
-![](img/1_paburon%20s.png)
+![](img/1_paburon_s.png)
 
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -164,7 +164,7 @@ However, there are also cases of 20-year-old and 22-year-old men who took 800mg 
 
 #### Travelmin Senior (トラベルミン シニア)
 
-![](img/1_travelmin%20senior.png)
+![](img/1_travelmin_senior.png)
 
 ![](img/1_senpaa.png)
 
@@ -190,7 +190,7 @@ Scopolamine hydrobromide has a parasympathetic nervous system inhibitory effect 
 
 #### Taishou Tonpuku (大正トンプク), Ron Sampo Capsule A (ロン三宝カプセルA)
 
-![](img/1_taishou%20tonpuku.png)
+![](img/1_taishou_tonpuku.png)
 
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -208,7 +208,7 @@ Analgesics such as "Noushin Arakusu" also contain 300mg of acetaminophen in one 
 
 #### Estalon Mocha (エスタロンモカ), aspirin
 
-![](img/1_esutaron%20moka.png)
+![](img/1_esutaron_moka.png)
 
 | Product Name | Ingredients | Lethal Dose | Ingredients in One Tablet | Dose (Lethal) | One Box of Servings |
 | - | - | - | - | - | - |
@@ -604,7 +604,7 @@ Insecticide sprays turn into liquid when sprayed into the air, making them easy 
 
 ### Organic solvents: kerosene, gasoline, benzene, thinner
 
-![](img/1_organic%20solvent.png)
+![](img/1_organic_solvent.png)
 
 <table>
     <thead>
@@ -707,7 +707,7 @@ In one case, a 40-year-old woman attempted suicide after drinking about 10ml of 
 
 In short, if you want to die early, you must drink a lot.
 
-![Aconitum japonicum subsp. japonicum](img/1_yamato%20rikabuto.png)
+![Aconitum japonicum subsp. japonicum](img/1_yamato_rikabuto.png)
 
 A few years ago, the plant aconitum, which attracted attention because it was used in murder cases and became a big seller, contains aconitine, which is known to be highly toxic among plant poisons. The roots contain particularly large amounts, which can irritate the body. It damages the central nervous system, peripheral nerves, heart, etc., especially the marrow, causing paralysis of the respiratory muscles, which can stop the respiratory function in about two hours. However, what ordinary florists sell is the less toxic floral aconitum. There are many species in the family of Aconitum. There's one, *Aconitum japonicum subsp. japonicum* (ヤマトリカブト) that mainly grows in the mountain forests of Honshu, and can be harvested there. In fact, some people mistakenly thought that it's a wild herb, and ate it, and was poisoned.
 
@@ -739,7 +739,7 @@ This case is a boy who committed suicide due to being bullied. As he belongs to 
 
 [Translator's note: I did not check the following tables]
 
-![](img/1_difficult%20substances_1.png)
+![](img/1_difficult_substances_1.png)
 
 | Trade name | Common names of ingredients | Lethal dose | Poisoning reactions | Restrictions |
 | - | - | - | - | - |
@@ -774,7 +774,7 @@ This case is a boy who committed suicide due to being bullied. As he belongs to 
 >
 > <sup>50</sup> Phenol isoniazid: Isoniazid hydrochloride, a commonly used anti-tuberculosis drug, can also be used to treat depression and has strong liver toxicity.
 
-![](img/1_difficult%20substances_2.png)
+![](img/1_difficult_substances_2.png)
 
 | Trade name | Hazardous ingredients | Lethal dose | Poisoning reaction | Symptoms |
 | - | - | - | - | - |

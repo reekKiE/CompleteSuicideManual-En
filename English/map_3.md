@@ -1,4 +1,4 @@
-## Map 3: Mount Mihara
+# Map 3: Mount Mihara
 
 Like other suicide spots that became famous, nowadays there may not be many people who would still go to Mount Mihara to commit suicide. However, the volcano has the advantage of swallowing up the corpses forever. The crater forbids human approach, and there is no large-scale search for corpses like in Aokigahara. From this point of view, it still has its uses, so it is introduced here.
 

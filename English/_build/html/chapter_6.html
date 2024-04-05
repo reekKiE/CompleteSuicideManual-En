@@ -1,0 +1,658 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>6. Gas-Poisoning &#8212; The Complete Suicide Manual</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'chapter_6';</script>
+    <link rel="icon" href="_static/icon_dark.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="7. Electrocuting" href="chapter_7.html" />
+    <link rel="prev" title="Map 3: Mount Mihara" href="map_3.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="contents.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/icon.png" class="logo__image only-light" alt="The Complete Suicide Manual - Home"/>
+    <script>document.write(`<img src="_static/icon_dark.png" class="logo__image only-dark" alt="The Complete Suicide Manual - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="chapter_0.html">Preface</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_1.html">1. Taking medicines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_2.html">2. Hanging</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_1.html">Map 1: Aokigahara, the Sea of ​​Trees</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_3.html">3. Leaping</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_2.html">Map 2: The Takashimadaira housing complex</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_4.html">4. Cutting the wrist and carotid</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_5.html">5. By vehicle</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_3.html">Map 3: Mount Mihara</a></li>
+
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">6. Gas-Poisoning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_7.html">7. Electrocuting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_4.html">Map 4: Kumatori serial suicide case</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_8.html">8. Drowning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_9.html">9. Self-immolation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_10.html">10. Freezing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_11.html">11. Special cases</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_12.html">Appendix: Suicide statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_13.html">Postscript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="additional_information.html">Additional information</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/chapter_6.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>6. Gas-Poisoning</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gas-poisoning-in-the-car">(1) Gas poisoning in the car</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation-fill-the-fuel-tank-with-gasoline">Preparation: Fill the fuel tank with gasoline</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#note-beware-of-explosions">Note: Beware of explosions</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#committing-suicide-by-burning-charcoal">(2) Committing suicide by burning charcoal</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation-find-a-small-and-easily-enclosed-environment-sufficient-charcoal-firestarter-and-tape">Preparation Find a small and easily enclosed environment, sufficient charcoal, firestarter, and tape</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#note-fire-prevention-keep-a-sitting-posture">Note: Fire prevention, keep a sitting posture</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#experience-very-little-pain">Experience: Very little pain</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#for-the-most-beautiful-suicide-avoid-incontinence">For “the most beautiful suicide”, avoid incontinence</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-18-man-sentenced-for-gas-suicide-attempt">Case study 18: Man sentenced for gas suicide attempt</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-this-example">Check: this example</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-19-a-man-who-committed-suicide-according-to-a-french-suicide-manual">Case study 19: A man who committed suicide according to a French suicide manual</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-the-cause-of-death">Check: the cause of death</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-20-the-ronin-student-who-used-a-plastic-bag-to-conduct-a-suicide-experiment">Case study 20: The rōnin student who used a plastic bag to conduct a suicide experiment</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Check: the cause of death</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="gas-poisoning">
+<h1>6. Gas-Poisoning<a class="headerlink" href="#gas-poisoning" title="Link to this heading">#</a></h1>
+<p><img alt="" src="_images/6_0.png" /></p>
+<section id="gas-poisoning-in-the-car">
+<h2>(1) Gas poisoning in the car<a class="headerlink" href="#gas-poisoning-in-the-car" title="Link to this heading">#</a></h2>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Pain</p></td>
+<td><p>▼▼▽▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Trouble</p></td>
+<td><p>▼▼▼▼▼</p></td>
+</tr>
+<tr class="row-even"><td><p>Ugliness</p></td>
+<td><p>▼▽▽▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ripple</p></td>
+<td><p>▼▽▽▽▽</p></td>
+</tr>
+<tr class="row-even"><td><p>Impact</p></td>
+<td><p>▼▽▽▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Lethality</p></td>
+<td><p>▼▼▼▽▽</p></td>
+</tr>
+</tbody>
+</table>
+<p>Connect a pipe from the car’s exhaust outlet to the car window and block the gap. It is quite time-consuming and laborious, but it can lead to an easy death and the death is not too ugly.</p>
+<p>To avoid making mistakes, I want to make it clear that it is impossible to die so happily if you rely on city gas. Turning on the gas switch in a room, then collapsing and drifting into unconsciousness… is a thing of the past. Today’s city gas, because the gas company has changed the gas of the past to natural gas that does not contain carbon monoxide that causes poisoning, poisoning deaths will not occur except in some areas. Liquefied gas also does not contain carbon monoxide. Even if you died, it would just be due to suffocation due to lack of oxygen. The pain felt by death by poisoning and death by lack of oxygen are completely different. Generally speaking, death by poisoning is a relatively comfortable way to die. Gone are the happy 1970s when you could easily poison yourself in your room. However, car exhaust containing carbon monoxide is still deadly. In fact, most of today’s “gas suicides” have been replaced by this exhaust gas.</p>
+<p>If you want to use gas or propane gas, you have to be prepared to endure pain that is worse than death. You can suck the gas pipe with your mouth, fill the small room with gas, and eventually die from lack of oxygen. If you are lucky, like the 17-year-old girl, you will suffocate to death the moment the tube is opened. Having said that, some homes are equipped with safety devices that automatically stop discharging after a few hours after a large amount of gas is emitted, and there is also the risk of explosion. Therefore, it is best not to consider gas suicide at home.</p>
+<p>If you want to die from lack of oxygen, there is no need to fill the room with gas, just cover your head with a plastic bag. Although it seems a bit primitive, more than a hundred people commit suicide every year using this method. In addition to plastic bags, the effect will be better if other methods such as drugs are used to commit suicide at the same time (Case study 19).</p>
+<p>Similarly, although people did not die from poisoning, there were also people who filled the room with gas and set it on fire. This method is simple and suitable for people who commit suicide impulsively. However, although bombing has the effect of killing someone on the spot, in fact there are many cases of people being burned all over their bodies and suffering pain for several days before dying again. This causes great harm to the surroundings, and there is no guarantee whether it will be completed smoothly. Sometimes it will only cause a fire. That’s all, so it’s not worth recommending.</p>
+<section id="preparation-fill-the-fuel-tank-with-gasoline">
+<h3>Preparation: Fill the fuel tank with gasoline<a class="headerlink" href="#preparation-fill-the-fuel-tank-with-gasoline" title="Link to this heading">#</a></h3>
+<p>To commit suicide in a car, you must first prepare a three to four meter long rubber tube and tape. The rubber hose should be purchased at the grocery store according to the thickness of the exhaust port. If the thickness is wrong, you can wrap it with a few more layers of tape so that it will neither leak nor fall off. Then connect the rubber tube to the exhaust port and secure it firmly with tape. Then insert the rubber tube through the window and seal the window seam tightly with tape. In this way, the interior of the car becomes sealed. You sit in it, close the door, start the engine, put down the seat, listen to the music played by the speakers in the car, and slowly drift towards permanent sleep.</p>
+<p>Be sure to fill up the tank with gas. If your neighbors aren’t paying attention, you can park your car in your own garage, but it’s better to park it in a forest where people can’t see it. It’s also an excellent place to park your car in an out-of-season vacation spot because no one would be snooping around. Or cover it with a car cover so that no one will notice the indicator light of the stereo even if you are listening to music.</p>
+<p><img alt="Figure 1: How hemoglobin carries oxygen to the body tissues, then carries carbon dioxide back to the lungs." src="_images/6_1.png" /></p>
+<p>When committing suicide in a room, first confirm whether the gas used contains carbon monoxide, and also check whether there is a safety device. The only thing left is to seal the window cracks tightly, whether you die of carbon monoxide poisoning or lack of oxygen, put more tape on the window cracks and door cracks, and when you are ready, turn on the switch and go to sleep.</p>
+<p>If you use propane to commit suicide, because propane is heavier than air, you must lie down on the floor. On the contrary, gas is lighter than air, so it is better to use it as high as possible. If you have the courage to put a rubber tube in your mouth, that would be great. Surprisingly, many people use this cutting-off technique. Kawabata Yasunari<a class="footnote-reference brackets" href="#yasunari" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>, also committed suicide in this way. There are also examples of people who died by stuffing their heads into a gas stove.</p>
+<p>The method of covering the head with a plastic bag is foolproof as long as it does not leak. It is also good to tie a rope around the neck.</p>
+</section>
+<section id="note-beware-of-explosions">
+<h3>Note: Beware of explosions<a class="headerlink" href="#note-beware-of-explosions" title="Link to this heading">#</a></h3>
+<p>When committing suicide in a car, carbon monoxide is lighter than air, so the gas sometimes leaks out through the window cracks. If you are discovered during this period, or you may run out of gasoline, I advise you to seal the window cracks tightly. Although death from poisoning is less painful, headaches and nausea will persist if you do not lose consciousness for a long time, so it is better to take sleeping pills at the same time.</p>
+<p>The man introduced the gas into the car, blocked the window cracks, blocked the front window with a blanket so that no one could see inside, and then took 60 sleeping pills. He was still awake and alerted the police when he was discovered. Although he shouted “It’s within my rights to die!”, he was still forcibly pulled out of the car. Not all forms of suicide is a slow descent into unconsciousness.</p>
+<p>When filling a room with gas, special attention must be paid to explosions. Even the flash of a fluorescent lamp pointer can cause an explosion. If a big explosion occurs, a huge amount of compensation will have to be paid, and there are many cases where people are surrounded by gas but do not die (Case study 18). You should pay attention to the possibility of explosions, just like those people who first put up a note “Turn off the gas switch, open the doors and windows to release the gas, do not use electrical switches and matches due to the risk of explosion.” to make others pay attention, before committing suicide by gas.</p>
+<p>When committing suicide with carbon monoxide poisoning in an apartment, also be aware of those living upstairs. In 1976, a 20-year-old woman committed suicide by burning gas in her apartment. She did not die, but a 21-year-old woman who was sleeping upstairs died of carbon monoxide poisoning. This is because carbon monoxide is lighter than air. However, the family members of the deceased pursued the management responsibility of the suicide attempter’s parents, apartment landlord, police and firefighting unit, and sued the court for 20.37 million yen in compensation. Indoor gas suicide should be recognized as the easiest way to cause trouble to other people.</p>
+<p>If rescued, suicide by carbon monoxide poisoning, like hanging, will damage the brain’s nerve tissue due to lack of oxygen, which may leave serious sequelae for life. However, the often said phrase “leaving serious lifelong sequelae” is not limited to gas suicides. Hanging, jumping off a building, crashing a car, using drugs, etc., all suicide methods are the same in this. If you want to commit suicide, you must think of the consequences of failure.</p>
+</section>
+</section>
+<section id="committing-suicide-by-burning-charcoal">
+<h2>(2) Committing suicide by burning charcoal<a class="headerlink" href="#committing-suicide-by-burning-charcoal" title="Link to this heading">#</a></h2>
+<p>Prepare some charcoal and fire, seal yourself in a small space, light the flame, watch the charcoal flame burn a little and then weaken, gradually lose consciousness and then die. Although it is a bit troublesome, the death is beautiful and easy. This suicide method is mentioned in the novel <em>Le Juif Errant</em> (1844), written by the French novelist Eugène Sue, so it is possible that people have committed suicide by this method ever since charcoal was used by humans. The principle of suicide by burning charcoal is the same as that of car gas poisoning mentioned above.</p>
+<p>Charcoal-burning suicide is widely spread in Hong Kong, and has spread to mainland China, Taiwan, Japan and other places with the Internet. While the composition of gas and other substances has changed and is unsuitable for suicide, and other suicide methods are difficult to implement, charcoal-burning suicide can be regarded as a simple substitute.</p>
+<section id="preparation-find-a-small-and-easily-enclosed-environment-sufficient-charcoal-firestarter-and-tape">
+<h3>Preparation Find a small and easily enclosed environment, sufficient charcoal, firestarter, and tape<a class="headerlink" href="#preparation-find-a-small-and-easily-enclosed-environment-sufficient-charcoal-firestarter-and-tape" title="Link to this heading">#</a></h3>
+<p>Most people who commit suicide by burning charcoal choose to commit suicide in a single room at home or in a hotel, and the bathroom is favored because of its small size. Generally speaking, there is relatively less oxygen in a small space, and the carbon monoxide concentration will reach lethal concentrations faster when burning charcoal. Generally speaking, bathrooms, carriages and other places with an area less than 6m2 are very suitable, but wooden structures should be avoided as much as possible. On the one hand, wooden structures have more gaps than concrete that are difficult to seal, and wooden structures also increase the risk of fire.</p>
+<p>Fire and charcoal should be the easiest to obtain among various suicide tools. Generally speaking, machine-made charcoal and barbecue charcoal are the best choices. They can be purchased in major shopping malls such as Walmart. If you can’t find it, just go to the shops and ask for barbecue equipment. For starting the fire, you can choose from disposable lighters, matches, etc., but you may also need some paper, gasoline or other things to light the charcoal.</p>
+<p>Tape is used to seal the environment, but you can also use other things for sealing. Close the doors and windows, and seal all door and window gaps with tape. In the bathroom, be sure to block the exhaust fan opening, and even the gap of the sewer drain, and all cracks in the ceiling.</p>
+<p>If possible, taking some alcohol or sleeping pills to put you to sleep can help combat the pain of inhaling carbon monoxide.</p>
+<p>Next, prepare the charcoal you bought, use your finally courage to light it, and sit quietly and wait for death to come.</p>
+</section>
+<section id="note-fire-prevention-keep-a-sitting-posture">
+<h3>Note: Fire prevention, keep a sitting posture<a class="headerlink" href="#note-fire-prevention-keep-a-sitting-posture" title="Link to this heading">#</a></h3>
+<p>Since you are lighting a fire to burn charcoal, there is bound to be a risk of fire. If you are afraid of harming others, clear the surrounding flammable materials before lighting a fire. Laying a flame-retardant blanket on the ground or using a barbecue grill to burn charcoal are also feasible methods.</p>
+<p>Because carbon monoxide is less dense than air, carbon monoxide in the air will tend to float upward. Only by staying seated can you ensure that you inhale enough carbon monoxide.</p>
+</section>
+<section id="experience-very-little-pain">
+<h3>Experience: Very little pain<a class="headerlink" href="#experience-very-little-pain" title="Link to this heading">#</a></h3>
+<p>As the concentration of carbon monoxide in the air increases, breathing rhythm slows, dizziness and heartbeat increase, and soon the person loses consciousness and dies. This is because hemoglobin, which transports oxygen in the blood, combines with carbon monoxide at a strength two hundred or even three hundred times that of oxygen, forming CO-bound hemoglobin, which drastically reduces the oxygen supply to cells in the body. When the concentration of carbon monoxide in the air reaches 35 ppm, it will cause harm to the body.</p>
+<p><img alt="Figure 2: The relation between CO concentration in air and the duration of breathing in this air. Region A: death. Region B: CO poisoning. Region C: No problem." src="_images/6_2.png" /></p>
+<p><img alt="Figure 3: Stages of complete suffocation. The curves from up to down are respectively: breathing, blood pressure, pulse." src="_images/6_3.png" /></p>
+<p>The concentration of carbon monoxide contained in car exhaust is about 0.4 to 0.5%. When the proportion of CO-bound hemoglobin in the blood reaches 30%, you will first feel dizziness, headache, collapse, fatigue, and reduced judgment. When it reaches 40%, you will feel nauseous, unable to do what you want to do, and feel tired. When it reaches 50%, the skin turns red due to carbon monoxide and hemoglobin, and the body temperature drops. When reaching 60%, shortness of breath, absence of consciousness, incontinence, and convulsions may occur. When reaching 70%, breathing stops and death occurs quickly (see Figure 2). A person who commits suicide by poisoning in a car will fall unconscious in about half an hour to an hour.</p>
+</section>
+<section id="for-the-most-beautiful-suicide-avoid-incontinence">
+<h3>For “the most beautiful suicide”, avoid incontinence<a class="headerlink" href="#for-the-most-beautiful-suicide-avoid-incontinence" title="Link to this heading">#</a></h3>
+<p>Among all the corpses of suicides, people say that the corpses of gas suicides are “the most beautiful.” Your body will be found stained pink because blood containing hemoglobin carbon monoxide gives the skin a pink color. Clothes may become untied during cramps, but that’s okay. However, incontinence often occurs in gas suicides. In the home of a man who died from carbon monoxide poisoning in the bathroom, there was faeces in the kitchen and on the bed. Since there was no feces in the deceased’s rectum, we knew it was his. At that time, carbon monoxide was accidentally produced by heating the bath water when there was no bath water. He could not hold it in the kitchen or the bed, and then he went to the bathroom and died. Generally, incontinence occurs even when someone is conscious. Anyone who wants to see a clean body must go to the toilet beforehand.</p>
+</section>
+</section>
+<section id="case-study-18-man-sentenced-for-gas-suicide-attempt">
+<h2>Case study 18: Man sentenced for gas suicide attempt<a class="headerlink" href="#case-study-18-man-sentenced-for-gas-suicide-attempt" title="Link to this heading">#</a></h2>
+<p>In April 1978, a 47-year-old unemployed man who lived in a townhouse in Fukuoka Prefecture attempted to commit suicide by using gas. At around 10 a.m., he fell into hallucinatory symptoms of stimulant poisoning. He was distressed because his mistress had left and thought of committing suicide. He pulled a rubber hose from a propane barrel outside the house to the bathroom, filling the room with gas. But he didn’t die after a long time. Two hours later, when he wanted to smoke and lit a lighter, the gas exploded. The explosion caused a total of 12.4 million yen in damage to the 28 households living in the town house, and injured nine residents. He himself was hospitalized for a month to treat burns.</p>
+<p>He was charged with the crime of “gas leakage”, and in February of the following year, the Iizuka Branch of the Fukuoka District Court sentenced him to 8 months in prison for the crime of “injuring multiple people and causing serious consequences.”</p>
+<section id="check-this-example">
+<h3>Check: this example<a class="headerlink" href="#check-this-example" title="Link to this heading">#</a></h3>
+<p>This is an example of someone who chooses to commit suicide by using a gas explosion, but since the attempt failed and caused damage to the surrounding area, he was be charged with the crime of “gas leakage”.</p>
+<p>Article 118, Paragraph 1 of the Japanese Criminal Code stipulates: “Anyone who causes danger to human life, body or property by leaking or flowing out or blocking gas, electricity or steam shall be sentenced to imprisonment of not more than three years and a fine of not more than 100,000 yen fine.”</p>
+<p>A similar example is that in 1976, a 28-year-old company manager in an apartment in Osaka also attempted suicide by using gas indoors, resulting in a big explosion. One apartment was burned down and about 70 others were injured. He prosecuted for the crime of “gas leakage” and “fire from gross negligence”. Even if he is a suicide attempter, he cannot escape legal responsibility.</p>
+<p>From the above examples, we can also know that the propane explosion that filled the house for two hours may not have killed anyone, yet it damaged to 28 households, and yet he only suffered injuries that required treatment for a month. The contrast between the lack of personal death and the great property damage is curious.</p>
+<p>When the room was full of gas and he was about to die, he lit the lighter because he wanted to smoke. It seemed that he was a fool, but in fact there were many such ridiculous things in this world.</p>
+</section>
+</section>
+<section id="case-study-19-a-man-who-committed-suicide-according-to-a-french-suicide-manual">
+<h2>Case study 19: A man who committed suicide according to a French suicide manual<a class="headerlink" href="#case-study-19-a-man-who-committed-suicide-according-to-a-french-suicide-manual" title="Link to this heading">#</a></h2>
+<p>In July 1983, a strange man (46 years old at the time) wearing swimming trunks and immersed in the cold water of the bathtub, with a black plastic garbage bag on his head and a rope around his neck tied to the window sill. The body was discovered. Empty bags containing 40 tablets of the analgesic “SEDES” were found in the apartment where he died. It seems that he took the medicine and then committed suicide in this way. At the same time, I also found the instruction manual <em>Suicide - the most comfortable ways to die</em> published in Japan in the same year in the room<a class="footnote-reference brackets" href="#suicide-mode-demploi" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a>, and clipped a tape to the reference page. On page 184, four combinations of suicide methods that can lead to euthanasia are introduced: “1. Suffocation with analgesics and plastic bags; 2. Poisoning caused by large amounts of drugs that can reach poisoning levels and car exhaust gases; 3. Analgesics and hypothermia (long-term immersion in cold water); 4. Analgesics and drowning.” He committed suicide by choosing a combination of one and three.</p>
+<p>He was a salesman at Korakuen Stadium, the predecessor of Tokyo Indoor Stadium. He disappeared a year ago. Later, he left his wife and children and lived as an alcoholic man in a small room. The reason for his disappearance is said to be that he ran away after being chased by his creditors after being in debt.</p>
+<section id="check-the-cause-of-death">
+<h3>Check: the cause of death<a class="headerlink" href="#check-the-cause-of-death" title="Link to this heading">#</a></h3>
+<p>Suicide by suffocation with a plastic bag is painful, but very simple like this. The analgesic “SEDES”<a class="footnote-reference brackets" href="#sedes" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a> cannot reach a lethal dose, but the effect of the drug and the hypothermia caused by cold water are useful in reducing the respiratory function.</p>
+<p>The role of suicide manuals cannot be ignored. The original book was published in France in 1982. Soon six people were affected and committed suicide. Therefore, it caused a great response and became a best-selling manual. The part this person refers to comes from the manual issued by the “British Euthanasia Association” on membership restrictions, so the description is correct. Needless to say, this book also draws on some material from that book.</p>
+<p>What’s interesting is that he specifically put a tape on so that others could understand that he was “going to die after watching this.” There are also people in France who committed suicide by taking poison after opening the pages of the reference book. The intention of trying to attract the attention of the world through this method is very clear.</p>
+</section>
+</section>
+<section id="case-study-20-the-ronin-student-who-used-a-plastic-bag-to-conduct-a-suicide-experiment">
+<h2>Case study 20: The rōnin student<a class="footnote-reference brackets" href="#ronin-student" id="id4" role="doc-noteref"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></a> who used a plastic bag to conduct a suicide experiment<a class="headerlink" href="#case-study-20-the-ronin-student-who-used-a-plastic-bag-to-conduct-a-suicide-experiment" title="Link to this heading">#</a></h2>
+<p>In November 1974, an 18-year-old man was found in Kawasaki City. He had suffocated to death in bed with a plastic bag covering his nose and mouth, and then with a rubber band. There are two pieces of 400-word manuscript paper on the desk, which contain the results of testing various suicide methods, with the title “Under Experiment”. It can be seen from this that the young man put a plastic bag over his mouth and suffocated to death during a suicide experiment.</p>
+<p>His notes are as follows: “(1) 15 minutes after the experiment started, breathing accelerated and hands and feet were numb. 25 minutes later, the whole body was paralyzed, breathing tripled, and heartbeat 120 times. You can survive for 30 minutes if you stay still in bed. (2) Brain disorder occurs in about one hour, and death occurs in about two hours. Before that, the plastic bag should be removed and the heart should be massaged.”</p>
+<section id="id5">
+<h3>Check: the cause of death<a class="headerlink" href="#id5" title="Link to this heading">#</a></h3>
+<p>It seems that someone who commits suicide with a plastic bag goes through the sequence of “suffocation -&gt; numbness of hands and feet -&gt; general paralysis -&gt; rapid heartbeat -&gt; loss of consciousness” and so on until death. So, why didn’t he take off the plastic bag? The possible reasons are: (1) When he was about to suffocate, he hurriedly wanted to take it off, but in his hurry, he unexpectedly fell unconscious quickly. (2) As he slowly loses consciousness, his body becomes paralyzed, and he could not take it off.</p>
+<p>If item (2) is correct, then though we have always written that suicide by suffocation is painful, but in fact it might be a quite comfortable method. However, this feeling about dying cannot be tested and can only be known by doctors’ speculation. Therefore, these “death experiments” are also extremely valuable information in medicine.</p>
+<hr class="footnotes docutils" />
+<aside class="footnote-list brackets">
+<aside class="footnote brackets" id="yasunari" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
+<p>Japanese novelist and short story writer whose spare, lyrical, subtly shaded prose works won him the Nobel Prize in Literature in 1968, the first Japanese author to receive the award.</p>
+<p>Kawabata apparently committed suicide in 1972 by gassing himself, but a number of close associates and friends, including his widow, consider his death to have been accidental. One thesis, as advanced by Donald Richie, was that he mistakenly unplugged the gas tap while preparing a bath. Many theories have been advanced as to his potential reasons for killing himself, among them poor health (the discovery that he had Parkinson’s disease), a possible illicit love affair, or the shock caused by the suicide of his friend Yukio Mishima in 1970.</p>
+</aside>
+<aside class="footnote brackets" id="suicide-mode-demploi" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">2</a><span class="fn-bracket">]</span></span>
+<p>『自殺―もっとも安楽に死ねる方法』 (ISBN 4-1934-2696-3), published by Tokuma Shoten Publishing Co., Ltd (徳間書店) in April, 1983. It was a translation by Kunio Igarashi, of <em>Suicide, mode d’emploi, sous-titré Histoire, technique, actualité</em> (ISBN 2-85209-000-7), a French book by Claude Guillon and Yves Le Bonniec, published in 1982.</p>
+</aside>
+<aside class="footnote brackets" id="sedes" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">3</a><span class="fn-bracket">]</span></span>
+<p>SEDES (セデス) is a general-use analgesic and antipyretic drug sold by the Shionogi Pharmaceutical. The name is derived from the English word “sedative,” and the name was given the palindromic spelling “SEDES” because it was easy to read and memorable.</p>
+</aside>
+<aside class="footnote brackets" id="ronin-student" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">4</a><span class="fn-bracket">]</span></span>
+<p>In contemporary Japanese slang, a rōnin (浪人) is a student who has graduated from middle school or high school but has failed to achieve admission to a desired school or even any school at the next level, and consequently is studying outside of the school system for admission in the next year.</p>
+</aside>
+</aside>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="map_3.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Map 3: Mount Mihara</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="chapter_7.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">7. Electrocuting</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gas-poisoning-in-the-car">(1) Gas poisoning in the car</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation-fill-the-fuel-tank-with-gasoline">Preparation: Fill the fuel tank with gasoline</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#note-beware-of-explosions">Note: Beware of explosions</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#committing-suicide-by-burning-charcoal">(2) Committing suicide by burning charcoal</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation-find-a-small-and-easily-enclosed-environment-sufficient-charcoal-firestarter-and-tape">Preparation Find a small and easily enclosed environment, sufficient charcoal, firestarter, and tape</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#note-fire-prevention-keep-a-sitting-posture">Note: Fire prevention, keep a sitting posture</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#experience-very-little-pain">Experience: Very little pain</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#for-the-most-beautiful-suicide-avoid-incontinence">For “the most beautiful suicide”, avoid incontinence</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-18-man-sentenced-for-gas-suicide-attempt">Case study 18: Man sentenced for gas suicide attempt</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-this-example">Check: this example</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-19-a-man-who-committed-suicide-according-to-a-french-suicide-manual">Case study 19: A man who committed suicide according to a French suicide manual</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-the-cause-of-death">Check: the cause of death</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-20-the-ronin-student-who-used-a-plastic-bag-to-conduct-a-suicide-experiment">Case study 20: The rōnin student who used a plastic bag to conduct a suicide experiment</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Check: the cause of death</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Tsurumi Wataru
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 1993.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

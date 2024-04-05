@@ -1,0 +1,30 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: The Complete Suicide Manual
+author: Tsurumi Wataru
+copyright: "1993"
+
+sphinx:
+  config:
+    html_theme_options: 
+      logo:
+        image_light: img/icon.png
+        image_dark: img/icon_dark.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+repository:
+  url: https://github.com/CotardSyndrome/CompleteSuicideManual-En
+  path_to_book: English/contents.md  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  favicon: img/icon_dark.png
+  use_issues_button: false
+  use_repository_button: true

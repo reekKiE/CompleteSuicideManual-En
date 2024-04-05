@@ -1,0 +1,592 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>10. Freezing &#8212; The Complete Suicide Manual</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'chapter_10';</script>
+    <link rel="icon" href="_static/icon_dark.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="11. Special cases" href="chapter_11.html" />
+    <link rel="prev" title="9. Self-immolation" href="chapter_9.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="contents.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/icon.png" class="logo__image only-light" alt="The Complete Suicide Manual - Home"/>
+    <script>document.write(`<img src="_static/icon_dark.png" class="logo__image only-dark" alt="The Complete Suicide Manual - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="chapter_0.html">Preface</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_1.html">1. Taking medicines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_2.html">2. Hanging</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_1.html">Map 1: Aokigahara, the Sea of ​​Trees</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_3.html">3. Leaping</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_2.html">Map 2: The Takashimadaira housing complex</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_4.html">4. Cutting the wrist and carotid</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_5.html">5. By vehicle</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_3.html">Map 3: Mount Mihara</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="chapter_6.html">6. Gas-Poisoning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_7.html">7. Electrocuting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="map_4.html">Map 4: Kumatori serial suicide case</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_8.html">8. Drowning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_9.html">9. Self-immolation</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">10. Freezing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_11.html">11. Special cases</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_12.html">Appendix: Suicide statistics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="chapter_13.html">Postscript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="additional_information.html">Additional information</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/chapter_10.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>10. Freezing</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation">Preparation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#select-a-mountain-leisure-spot-as-your-target">Select a mountain leisure spot as your target!</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#if-you-choose-to-freeze-to-death-in-the-room-you-have-to-choose-the-coldest-time-of-winter">If you choose to freeze to death in the room, you have to choose the coldest time of winter</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#experience-a-sweet-trance">Experience: “A sweet trance”</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#corpse-appearance-is-it-really-the-most-beautiful">Corpse appearance: Is it really the “most beautiful”?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#note-you-might-be-found">Note: You might be found</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-26-female-playwright-who-froze-to-death-in-snowy-mountains">Case study 26: Female playwright who froze to death in snowy mountains</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-the-cause-of-death">Check: the cause of death</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="freezing">
+<h1>10. Freezing<a class="headerlink" href="#freezing" title="Link to this heading">#</a></h1>
+<p><img alt="" src="_images/10_0.png" /></p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Pain</p></td>
+<td><p>▼▼▽▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Trouble</p></td>
+<td><p>▼▼▼▼▼</p></td>
+</tr>
+<tr class="row-even"><td><p>Ugliness</p></td>
+<td><p>▼▼▼▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ripple</p></td>
+<td><p>▼▽▽▽▽</p></td>
+</tr>
+<tr class="row-even"><td><p>Impact</p></td>
+<td><p>▼▽▽▽▽</p></td>
+</tr>
+<tr class="row-odd"><td><p>Lethality</p></td>
+<td><p>▼▼▼▽▽</p></td>
+</tr>
+</tbody>
+</table>
+<p>If you can find a good location, it’s easy. However, be aware that it is possible that after a large-scale search, you will be rescued, but your hands and feet will be frozen and must be amputated.</p>
+<p>Freezing to death is probably as comfortable as hanging yourself. Hearing something like this, you may question its authenticity, but this is what the survivors said, so you have to believe it.</p>
+<p>Even so, the number of people who use freezing as a means of suicide is definitely in the minority, and statistically they are also classified in the “other” category. Perhaps it is because it is too troublesome to go to the snowy mountains. But freezing to death is not a phenomenon that only occurs in snowy mountains and cold areas. As long as the conditions are right, people can freeze to death in rooms. Of course, the temperature does not have to be below freezing. Reports show that in fact, more than a dozen people freeze to death in Tokyo every year, and there are also cases in warmer places. Newspapers often report on homeless people freezing to death. For homeless people in Tokyo and Osaka, surviving the cold winter is a very practical wish.</p>
+<p>All of this is just a lot of useless theory. After all, no one wants to freeze to death in a room, and I have never heard of someone committing suicide by freezing to death in a room. In the United States, some people commit suicide by freezing to death in a refrigerator. This can only be regarded as an exception. If you want to freeze to death, although it is troublesome, it is better to go to the snowy mountains. This method has many advantages. How can it make up for the trouble!? It will be introduced in detail below, such as no damage to the body and less pain.</p>
+<p>A person’s tolerance to cold is an important factor, so this method of suicide is not suitable for people who are too tolerant of the cold.</p>
+<section id="preparation">
+<h2>Preparation<a class="headerlink" href="#preparation" title="Link to this heading">#</a></h2>
+<section id="select-a-mountain-leisure-spot-as-your-target">
+<h3>Select a mountain leisure spot as your target!<a class="headerlink" href="#select-a-mountain-leisure-spot-as-your-target" title="Link to this heading">#</a></h3>
+<p>If you want to go to the snowy mountains, first buy a guide book for a cold mountain retreat to understand the situation. Even without mountain climbing experience or physical strength, anyone can go to places that are cold enough to freeze to death. When you go skiing, go to places that are rarely visited. You might even be able to find a suitable place next to the ski practice area. Of course, those who enjoy mountaineering can decide the route and location very thoughtfully.</p>
+<p>Things you need to bring: sedatives, painkillers and other drugs that can stabilize your mood and help you fall asleep, as well as alcohol available at pharmacies. Although drinking alcohol can raise your body temperature, drinking to overcome pain is also allowed. Anyway, it is difficult to resist the cold outside in the snow. If you take off your clothes, you can die in one night, but it is a bit difficult, so you should find a place where others can’t find it for at least two or three days. If you can fall asleep, that would be even better.</p>
+</section>
+<section id="if-you-choose-to-freeze-to-death-in-the-room-you-have-to-choose-the-coldest-time-of-winter">
+<h3>If you choose to freeze to death in the room, you have to choose the coldest time of winter<a class="headerlink" href="#if-you-choose-to-freeze-to-death-in-the-room-you-have-to-choose-the-coldest-time-of-winter" title="Link to this heading">#</a></h3>
+<p>If you really want to die in your room, you have to choose a day in the middle of winter. You also have to look at the weather forecast and choose the coldest night. In addition, you must make some preparations to cool down your body: pour water on your whole body while being naked, then face the electric fan and air conditioner, and open the windows and refrigerator. It also requires fasting, lack of sleep and fatigue, otherwise it will be difficult to achieve. If you drink some wine beforehand, it will dilate the blood vessels on the surface of the body, quickly lower the body temperature, and has the effect of hastening death. Of course, some patience is also required, which is also the patience to wait for sleep to come.</p>
+<p>Ways to freeze to death on the streets: Wear wet clothes to secluded parks, open spaces and woods at night. In order to avoid people’s suspicion, you can also bring a water bottle and pour it on when you decide on the spot. Try to choose a cement floor that dissipates heat quickly, but the most important thing is to keep it out of sight.</p>
+<p>When the temperature is 5 °C, with no wind, half-naked, and with an empty stomach, people can freeze to death in a day. There are also examples of drunken people, who, returning home, fell asleep on the side of the road and froze to death at nights as cold as 5 °C.</p>
+<p>In water, when the temperature is 15 °C, the risk of freezing to death is already significant. If the water temperature is 5 °C, you will die after being immersed for several hours. Moreover, such water temperatures can sometimes cause cardiac arrest in an instant. A 43-year-old housewife, who sent letters announcing her suicide to the editorial offices of newspapers and magazines, froze to death in the middle of winter, while sitting in a roadside park pond in Muroran City.</p>
+</section>
+</section>
+<section id="experience-a-sweet-trance">
+<h2>Experience: “A sweet trance”<a class="headerlink" href="#experience-a-sweet-trance" title="Link to this heading">#</a></h2>
+<p>Whether you crawl into a snowdrift or strip naked in your room, the process of dying is the same.</p>
+<p>At first, the whole body will shiver. When the rectal temperature reaches 35 °C, fatigue, lethargy and drowsiness will occur. The famous slang phrase “You’ll die if you sleep on it!” even children say refers to this situation. When the body temperature drops to 34 or 33 °C, the ability to think gradually weakens, the consciousness is blurred, and it will be enveloped by a “sweet trance”. When the temperature reaches 30 to 23 °C, they lose consciousness until death. When it drops below 25 °C, death is certain, so it’s a much more refreshing death than one might have imagined.</p>
+<p><img alt="Figure 1: The relation between rectal body temperature and maximal blood pressure." src="_images/10_1.png" /></p>
+<p>Regarding this sweet trance, someone who survived such a suicide attempt said: “With shortness of breath, there is a kind of… delirium…” In addition, a scholar’s report obtained from an interview contained the following description: “Thousands of dazzling rays of light shone before her eyes, and the roar of thousands of cannons rang in her ears. She felt a sharp pain in her feet, as if she were running on a needle mountain, and soon drowsiness came. The calm weariness of a person kept emerging, and it seemed that she was liberated from the worries and disasters of the world. The air was fresh, like a spring breeze, and beautiful music sounded in her ears again. She leaned against the soft fur pillow as if taking a nap, all kinds of colorful lights were shining again, and she soon became unconscious. She only regained consciousness after being rescued.”</p>
+<p>Some survivor also said: “I had a dream of dancing wildly at a grand banquet.”</p>
+<p>Based on the above reports, it can be said that, like committing suicide by jumping off a building, freezing to death is a completely painless method of suicide except for the initial coldness.</p>
+</section>
+<section id="corpse-appearance-is-it-really-the-most-beautiful">
+<h2>Corpse appearance: Is it really the “most beautiful”?<a class="headerlink" href="#corpse-appearance-is-it-really-the-most-beautiful" title="Link to this heading">#</a></h2>
+<p>Bodies that freeze to death in snowy mountains are the same as those that commit suicide by gas. They are sometimes described as “the most beautiful way to die”, but this varies depending on the time of discovery. If the body is frozen and preserved due to snow, the skin will appear translucent white, due to the total contraction of capillaries near the body surface. However, when the spring snow melts, the corpse will rot. The livor mortis are red, because oxygen combines with hemoglobin in the blood to turn into pink oxidized hemoglobin.</p>
+<p>In places such as snow-capped mountains, sometimes the tips of the hands and toes may have edema due to frostbite. Occasionally, a person may become insane and take off their clothes and be discovered as a naked corpse. There are also many corpses torn apart by wild animals (Case study 26). So in this way, it cannot be said to be very beautiful.</p>
+</section>
+<section id="note-you-might-be-found">
+<h2>Note: You might be found<a class="headerlink" href="#note-you-might-be-found" title="Link to this heading">#</a></h2>
+<p>No matter where you decide to die, the most important thing is to not be found halfway. In snowy mountains, if your hands and feet are partially frozen and rescued, they may need to be amputated. However, necrosis will not occur unless the temperature drops below freezing.</p>
+<p>In addition, in the case of suicide in the snowy mountains, huge search costs will be incurred when family members and friends find out and request a search. Therefore, you must do some tricks in advance. For example, don’t leave a suicide note hinting your whereabouts. Make a recorded voice mail text (“leave your message after the beep”) as if you are leaving home on a standard trip.</p>
+<p>If you really want to commit suicide, it is better to go to the snowy mountains. To freeze to death in a room or on the roadside is quite difficult, requiring all the right conditions to be in place, and it must be difficult for you to be discovered.</p>
+</section>
+<section id="case-study-26-female-playwright-who-froze-to-death-in-snowy-mountains">
+<h2>Case study 26: Female playwright who froze to death in snowy mountains<a class="headerlink" href="#case-study-26-female-playwright-who-froze-to-death-in-snowy-mountains" title="Link to this heading">#</a></h2>
+<p>In June 1981, the skeletal body of a woman was discovered at the 5th station of Mount Kurodake in Daisetsuzan Mountains, Ishikari Mountains, central Hokkaido. The location was in a primeval forest about 300 meters above the mountain. This female writer was Keiko Sugie (杉江慧子) (47 years old at the time) who had participated in the production of <em>Seven Detectives</em> <a class="footnote-reference brackets" href="#shichinin" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>.</p>
+<p><img alt="Figure 2: The map near Kurodake." src="_images/10_2.png" /></p>
+<p>Bones were scattered everywhere at the scene, and only the skull, right thigh and calf bones were found. In winter, foxes, wild rats and other wild animals appear frequently in this area, and there are traces of being bitten by animals. They must have been enjoyed by these animals in winter! Near the body was a bottle of sleeping pills with remaining pills inside. It is estimated that the amount of sleeping pills taken did not reach a fatal amount. There was also a large bottle of whiskey in the bag, with about 80% left. The date of the ticket found among her belongings was October 24, 1980, the year before last. It is believed that she traveled from Tokyo, where she lived, to the sparsely populated snowy mountains in winter, walked from the station into the primeval forest, took sleeping pills, fell asleep, and froze to death.</p>
+<p>Keiko Sugie started writing plays about five years ago. She was very worried about not being able to get ahead, and at the same time she was panicking about her growing age. Although there were several lines of scrawled writing on the remaining manuscript, the ink was soaked in water and could not be read. As a result, the motive for her suicide was never clear.</p>
+<section id="check-the-cause-of-death">
+<h3>Check: the cause of death<a class="headerlink" href="#check-the-cause-of-death" title="Link to this heading">#</a></h3>
+<p>This is a typical snow-capped mountain suicide after taking sleeping pills and falling asleep in the snow. However, the remains were horrific and not the most beautiful. If you commit suicide in the snowy mountains, the body will turn into bones after ten months, and you must also be careful about attacks by wild animals.</p>
+<p>In addition, when committing suicide by freezing to death in the snowy mountains, it is necessary to do some field research in advance. Sugie wrote some of the script of “Saturday Night at the Mysteries” (TV Asahi)<a class="footnote-reference brackets" href="#doyouwaido" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a> that has become a posthumous work, which is set in Hokkaido, so she has a lot of knowledge about the local area, so she had done her research.</p>
+<p>If choosing a place to commit suicide is too troublesome, I would advise you to take the same route as she did. To be cautious, let me introduce the method to get to Kurodake. First go to Asahikawa, and then take a two-hour ride from Asahikawa to Sounkyo Hot Spring. Then take the cable car, turn to the snow track at the cable car transfer point, and enter the virgin forest (see Figure 2).</p>
+<p>If you want to imitate the way she died, you can buy some sleeping pills and sedatives that are available on the market as described in <a class="reference internal" href="chapter_1.html"><span class="std std-doc">Chapter 1</span></a>. It would also be a good idea to bring a large bottle of wine. Even if the body parts would end up scattered, at least you will be dead before that happens.</p>
+<hr class="footnotes docutils" />
+<aside class="footnote-list brackets">
+<aside class="footnote brackets" id="shichinin" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
+<p><em>Seven Detectives</em> (七人の刑事; Shichinin no Keiji) was one of the most popular series of the 1960s — a cop show that wasn’t about action but real police work, and which tackled up-to-the-minute social topics.</p>
+<p>She wrote two episodes for season 3 (1978–1979): S3E40, かあさんの冬 (Mother’s Winter); S3E16, 影を消した (Erase the Shadow).</p>
+</aside>
+<aside class="footnote brackets" id="doyouwaido" role="doc-footnote">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">2</a><span class="fn-bracket">]</span></span>
+<p>土曜ワイド劇場 (Doyou Waido Gekijou), A two-hour drama program that was produced weekly by TV Asahi and Asahi Broadcasting, and was broadcast every Saturday night on the TV Asahi network from July 2, 1977 to April 8, 2017. The viewers were mainly housewives (above 35), and the tagline at the start was “For housewives who can’t go to the movie theater.” It is said that it was meant to keep movie fans in their living room. The mainstay of this program was travel suspense (旅情サスペンス Ryojou sasupensu), a genre that combine elements of mystery, suspense, and travel. These stories often involve a protagonist who travels to different locations, encountering mysteries and suspenseful situations along the way. This genre is known for its intriguing blend of mystery, suspense, and travel elements, making it popular among audiences who enjoy a mix of detective work and exploration in various settings.</p>
+</aside>
+</aside>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="chapter_9.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">9. Self-immolation</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="chapter_11.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">11. Special cases</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation">Preparation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#select-a-mountain-leisure-spot-as-your-target">Select a mountain leisure spot as your target!</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#if-you-choose-to-freeze-to-death-in-the-room-you-have-to-choose-the-coldest-time-of-winter">If you choose to freeze to death in the room, you have to choose the coldest time of winter</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#experience-a-sweet-trance">Experience: “A sweet trance”</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#corpse-appearance-is-it-really-the-most-beautiful">Corpse appearance: Is it really the “most beautiful”?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#note-you-might-be-found">Note: You might be found</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#case-study-26-female-playwright-who-froze-to-death-in-snowy-mountains">Case study 26: Female playwright who froze to death in snowy mountains</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#check-the-cause-of-death">Check: the cause of death</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Tsurumi Wataru
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 1993.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

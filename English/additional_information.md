@@ -73,6 +73,10 @@ Publication date: 2018-08-05
 
 Translator: Kotaaru Shoukougun, or CotardSyndrome
 
+Publisher: [GitHub](https://github.com/CotardSyndrome/CompleteSuicideManual-En)
+
+Publication date: 2024-04-01
+
 ## Some translation notes
 
 The translation is based on the Taiwanese edition, but occasionally I had to refer to the Japanese edition to fix mistakes. There are plenty of mistakes in the Taiwanese edition, but I think I have caught most of them.
@@ -89,7 +93,7 @@ There are three kinds of citations in the book.
 
 The citations for the dosage of substances appearing in [Chapter 1](chapter_1.md) are keyed with English letters from `A` to `M`.
 
-![Dosage citations](img/citations_drug%20dosage.png)
+![Dosage citations](img/citations_drug_dosage.png)
 
 Inline citations (footnotes) are keyed with numbers from 1 to 70. These numbered inline citations are not reproduced in the English translation (because I'm lazy).
 
